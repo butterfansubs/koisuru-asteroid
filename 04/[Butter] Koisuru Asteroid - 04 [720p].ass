@@ -20,11 +20,15 @@ Video File: [HorribleSubs] Koisuru Asteroid - 04 [720p].mkv
 Keyframes File: [HorribleSubs] Koisuru Asteroid - 04 [720p]._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 1.375000
+Scroll Position: 18
+Active Line: 21
+Video Position: 3687
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
+Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H00402000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,1,77,20,120,1
 Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,41,1
