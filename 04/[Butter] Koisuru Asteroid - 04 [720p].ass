@@ -66,27 +66,14 @@ Dialogue: 0,0:02:37.17,0:02:38.30,Default,Mira,0,0,0,,Ow, ow!
 Dialogue: 0,0:02:38.30,0:02:40.16,Default,Sakura,0,0,0,,Darn you people!
 Dialogue: 0,0:02:38.72,0:02:40.16,Default,Sakura,0,0,0,,What did I do?!
 Dialogue: 0,0:02:40.16,0:02:42.09,Default,Endou,0,0,0,,Good grief.
-Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
-Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
-Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardCenterCircle,0,0,0,,Geological\N Museum
-Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
 Dialogue: 0,0:02:42.65,0:02:47.10,Default,Monroe,0,0,0,,Endou-sensei has a nice \Nproposal for our summer camp.
 Dialogue: 0,0:02:48.75,0:02:50.77,Default,Endou,0,0,0,,Want to go to my grandma's place?
 Dialogue: 0,0:02:51.85,0:02:53.73,Default,Endou,0,0,0,,Wow, those faces...
-Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,Grandma's Place
-Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardRightCircle,0,0,0,,Geological \NMuseum
-Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardLeftCircle,0,0,0,,Geopark
 Dialogue: 0,0:02:54.05,0:02:56.08,Default,Endou,0,0,0,,What I mean is, why don't we use her home
 Dialogue: 0,0:02:56.08,0:02:59.36,Default,,0,0,0,,to avoid lodging expenses, \Nand go visit the places nearby?
 Dialogue: 0,0:02:59.68,0:03:00.82,Default,Ao,0,0,0,,Places nearby?
-Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardLeft,0,0,0,,Earth Sciences Club\NSummer Camp
-Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardRightCircle,0,0,0,,{\pos(576.604,157.5)}JAXA\N Space Center
-Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardCenterRightCircle,0,0,0,,{\pos(473.962,283.5)}Geological\N Museum
-Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardCenterLeftCircle,0,0,0,,Geopark
-Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
 Dialogue: 0,0:03:01.09,0:03:07.64,Default,Endou,0,0,0,,There's the JAXA Space Center, \Nthe Geological Museum, Geopark, and...
 Dialogue: 0,0:03:08.26,0:03:09.54,Default,Endou,0,0,0,,I guess that settles it?
-Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,Fascinating Minerals
 Dialogue: 0,0:03:12.27,0:03:15.10,Default,Mira,0,0,0,,Wow, there are so many stones!
 Dialogue: 0,0:03:19.17,0:03:23.06,Default,Monroe,0,0,0,,There are minerals and fossils. \NIt's incredible, isn't it, Sakura-ch—
 Dialogue: 0,0:03:23.06,0:03:26.18,Default,Sakura,0,0,0,,This is the actual stone \Nused in reference books!
@@ -100,12 +87,8 @@ Dialogue: 0,0:03:41.81,0:03:45.07,Default,Mira,0,0,0,,Wow, there's sparkly golde
 Dialogue: 0,0:03:45.36,0:03:47.28,Default,Ao,0,0,0,,This one's heart-shaped.
 Dialogue: 0,0:03:47.70,0:03:51.16,Default,Ao,0,0,0,,I wonder how they end up \Nin such pretty shapes.
 Dialogue: 0,0:03:53.25,0:03:55.25,Default,Mira,0,0,0,,It's Yamanashi's prefectural stone?
-Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
 Dialogue: 0,0:03:55.49,0:04:00.26,Default,Inose,0,0,0,,The stone that represents each region \Nis recognized as that prefecture's stone.
 Dialogue: 0,0:04:00.56,0:04:02.47,Default,Inose,0,0,0,,This one's my favorite!
-Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Kyoto Prefectural Stone (Mineral)
-Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cherry Blossom \NStone
-Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cordierite-Muscovite\N Pseudomorph
 Dialogue: 0,0:04:03.00,0:04:04.43,Default,Mira,0,0,0,,Cherry Blossom Stone?
 Dialogue: 0,0:04:04.63,0:04:05.57,Default,Inose,0,0,0,,Yes!
 Dialogue: 0,0:04:05.57,0:04:09.33,Default,Inose,0,0,0,,It's Kyoto's stone, and it's a national treasure.
@@ -138,7 +121,6 @@ Dialogue: 0,0:05:36.53,0:05:38.12,Default,Mira,0,0,0,,Fossil One...
 Dialogue: 0,0:05:38.12,0:05:40.81,Default,Ao,0,0,0,,Mira, you tried looking into\Nit on your own, didn't you?
 Dialogue: 0,0:05:41.15,0:05:43.32,Default,Mira,0,0,0,,I wasn't totally certain it was a fossil,
 Dialogue: 0,0:05:43.32,0:05:45.93,Default,,0,0,0,,so I decided to do some \Nresearch on my own first.
-Dialogue: 0,0:05:44.99,0:05:46.82,Signs,Book,0,0,0,,Fun Fossils
 Dialogue: 0,0:05:45.93,0:05:46.82,Default,Endou,0,0,0,,Wow.
 Dialogue: 0,0:05:47.09,0:05:49.11,Default,Mira,0,0,0,,This book is easy to understand!
 Dialogue: 0,0:05:49.11,0:05:50.24,Default,Ao,0,0,0,,Oh, you're right.
@@ -153,7 +135,6 @@ Dialogue: 0,0:06:10.36,0:06:12.16,Default,,0,0,0,,while minerals seep into it, \
 Dialogue: 0,0:06:12.16,0:06:16.37,Default,Inose,0,0,0,,In the most recent experiments, they've \Nfound fossils that can form in a few weeks.
 Dialogue: 0,0:06:16.37,0:06:19.35,Default,Mira,0,0,0,,Meaning... if you buried me right now,\Nyou could present me
 Dialogue: 0,0:06:19.35,0:06:21.62,Default,,0,0,0,,as a fossil for this year's cultural festival!
-Dialogue: 0,0:06:19.35,0:06:22.69,Signs,Page,0,0,0,,Fossilized\N Mira
 Dialogue: 0,0:06:21.62,0:06:22.69,Default,Sakura,0,0,0,,That'd be a serious crime.
 Dialogue: 0,0:06:23.14,0:06:24.63,Default,Monroe,0,0,0,,That's surprising, though.
 Dialogue: 0,0:06:24.63,0:06:27.19,Default,Monroe,0,0,0,,I can't believe we found\N a fossil in a river stone.
@@ -180,13 +161,10 @@ Dialogue: 0,0:07:26.24,0:07:28.30,Default,Sakura,0,0,0,,I said be quiet!
 Dialogue: 0,0:07:28.74,0:07:31.35,Default,Woman,0,0,0,,Have you ever heard of a "hidden stone"?
 Dialogue: 0,0:07:32.42,0:07:33.97,Default,Mira,0,0,0,,Hidden stone?
 Dialogue: 0,0:07:34.34,0:07:37.28,Default,Woman,0,0,0,,{\an8}Yes, it's also known as dendrite.
-Dialogue: 0,0:07:35.93,0:07:42.64,Signs,Paper,0,0,0,,Pseudofossil
 Dialogue: 0,0:07:37.28,0:07:42.64,Default,Woman,0,0,0,,{\an8}It forms when manganese flows between \Nrocks and forms a plantlike shape.
 Dialogue: 0,0:07:42.64,0:07:47.61,Default,Woman,0,0,0,,It's easy to mistake it for a fossil, \Nso they're often known as pseudofossils.
 Dialogue: 0,0:07:47.89,0:07:49.82,Default,Mira,0,0,0,,A false fossil...
 Dialogue: 0,0:07:50.29,0:07:52.32,Default,Scientist,0,0,0,,Oh, but you know, look here.
-Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Spicules
-Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Fish Scale
 Dialogue: 0,0:07:52.64,0:07:55.32,Default,Paper,0,0,0,,This shiny spot, about 3 millimeters wide.
 Dialogue: 0,0:07:55.32,0:07:58.00,Default,Paper,0,0,0,,This is from a fish's scale, I think.
 Dialogue: 0,0:07:59.53,0:08:02.11,Default,Paper,0,0,0,,Also, it's tiny and hard to see,
@@ -228,8 +206,6 @@ Dialogue: 0,0:09:34.64,0:09:36.09,Default,Both,0,0,0,,It's JA's!
 Dialogue: 0,0:09:34.64,0:09:36.09,Default,Both,0,0,0,,{\an8}The farmers' cooperative!
 Dialogue: 0,0:09:36.32,0:09:39.29,Default,Endou,0,0,0,,He's a space-loving farmer.
 Dialogue: 0,0:09:39.29,0:09:41.32,Default,Endou,0,0,0,,Please go easy on him.
-Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,Requesting information!
-Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignLeft,0,0,0,,We're looking for asteroids
 Dialogue: 0,0:09:47.59,0:09:49.02,Default,Mira,0,0,0,,Hello!
 Dialogue: 0,0:09:49.22,0:09:51.49,Default,Mira,0,0,0,,We're Hoshizaki High School's \Nearth sciences club!
 Dialogue: 0,0:09:51.49,0:09:52.71,Default,Sakura,0,0,0,,What's that?
@@ -241,7 +217,6 @@ Dialogue: 0,0:10:00.37,0:10:02.66,Default,Ino,0,0,0,,Oh, but someone's talking t
 Dialogue: 0,0:10:04.67,0:10:06.12,Default,Mira,0,0,0,,We got candy!
 Dialogue: 0,0:10:08.44,0:10:09.77,Default,Endou,0,0,0,,Sorry for the wait.
 Dialogue: 0,0:10:09.77,0:10:12.79,Default,Endou,0,0,0,,So, to take the observation tour, \Nwe need to meet up at...
-Dialogue: 0,0:10:12.79,0:10:15.01,Signs,Endou,0,0,0,,Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call
 Dialogue: 0,0:10:13.84,0:10:15.01,Default,Endou,0,0,0,,Grandpa...
 Dialogue: 0,0:10:15.33,0:10:18.30,Default,Ino,0,0,0,,Your grandfather looked like \Nhe really wanted to come.
 Dialogue: 0,0:10:18.30,0:10:20.59,Default,Ino,0,0,0,,Are you sure we shouldn't have brought him?
@@ -397,8 +372,6 @@ Dialogue: 0,0:17:30.82,0:17:35.61,Default,Grandma,0,0,0,,Oh, right. Here's what 
 Dialogue: 0,0:17:35.61,0:17:38.32,Default,Endou,0,0,0,,Oh, you found it? Thanks.
 Dialogue: 0,0:17:38.57,0:17:40.67,Default,Mira,0,0,0,,An old flyer?
 Dialogue: 0,0:17:40.67,0:17:44.79,Default,Ao,0,0,0,,For high schoolers... An astronomical \Nobject discovery program?
-Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Shining Star\N{\c&H855E22&}Challenge
-Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Recruiting Now
 Dialogue: 0,0:17:45.10,0:17:46.75,Default,Mira,0,0,0,,Huh? What is this?!
 Dialogue: 0,0:17:46.75,0:17:51.62,Default,Endou,0,0,0,,It's the Shining Star Challenge program held \Nat the observatory during summer break.
 Dialogue: 0,0:17:52.69,0:17:55.21,Default,Endou,0,0,0,,I participated in it myself back in the day.
@@ -409,9 +382,6 @@ Dialogue: 0,0:18:05.77,0:18:08.47,Default,Mira,0,0,0,,Huh? But when we first joi
 Dialogue: 0,0:18:08.47,0:18:11.36,Default,Endou,0,0,0,,Sorry. I was sleeping in the next room over.
 Dialogue: 0,0:18:11.60,0:18:12.68,Default,Ao,0,0,0,,You slept through it...
 Dialogue: 0,0:18:13.22,0:18:17.64,Default,Monroe,0,0,0,,Oh, the deadline for entering \Nthis year has already passed.
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,New Astronomical Object Discovery \NProgram for High Schoolers\N{\fs30}Shining Star Challenge
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event are closed.
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Add to list
 Dialogue: 0,0:18:18.11,0:18:21.31,Default,Mira,0,0,0,,{\an8}If only we had known about this sooner!
 Dialogue: 0,0:18:19.70,0:18:21.98,Default,Sakura,0,0,0,,It's held on Ishigaki Island.
 Dialogue: 0,0:18:21.31,0:18:23.95,Default,Endou,0,0,0,,{\an8}You're mad, aren't you?!
@@ -466,7 +436,6 @@ Dialogue: 0,0:20:42.30,0:20:45.49,Default,Endou,0,0,0,,I know this is a change o
 Dialogue: 0,0:20:45.49,0:20:47.46,Default,Sakura,0,0,0,,I don't mind at all.
 Dialogue: 0,0:20:47.46,0:20:48.30,Default,Sakura,0,0,0,,Besides...
 Dialogue: 0,0:20:48.94,0:20:53.52,Default,Sakura,0,0,0,,I don't think anyone can complain \Nwhen they see that look on her face.
-Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,Tsukuba VLBI Antenna
 Dialogue: 0,0:20:58.62,0:21:01.78,Default,Endou,0,0,0,,No wonder it felt a little lonesome.
 Dialogue: 0,0:21:01.99,0:21:04.35,Default,Mira,0,0,0,,What's the matter, Sensei?
 Dialogue: 0,0:21:04.35,0:21:10.68,Default,Endou,0,0,0,,Hmm? Oh, there used to be this huge \Nparabolic antenna around there.
@@ -482,3 +451,34 @@ Dialogue: 0,0:21:54.18,0:21:58.10,Default,,0,0,0,,{\i1}just like the tiny fossil
 Dialogue: 0,0:21:58.92,0:22:00.87,Default,Mira,0,0,0,,{\i1}Somewhere out there in space.
 Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,05.\NEveryone's Summer Break
 Dialogue: 0,0:23:35.99,0:23:39.09,Default,Ino,0,0,0,,Next time, "Everyone's Summer Break."
+Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
+Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
+Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardCenterCircle,0,0,0,,Geological\N Museum
+Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
+Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,Grandma's Place
+Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardRightCircle,0,0,0,,Geological \NMuseum
+Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardLeftCircle,0,0,0,,Geopark
+Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardLeft,0,0,0,,Earth Sciences Club\NSummer Camp
+Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardRightCircle,0,0,0,,{\pos(576.604,157.5)}JAXA\N Space Center
+Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardCenterRightCircle,0,0,0,,{\pos(473.962,283.5)}Geological\N Museum
+Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardCenterLeftCircle,0,0,0,,Geopark
+Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
+Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,Fascinating Minerals
+Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
+Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Kyoto Prefectural Stone (Mineral)
+Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cherry Blossom \NStone
+Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cordierite-Muscovite\N Pseudomorph
+Dialogue: 0,0:05:44.99,0:05:46.82,Signs,Book,0,0,0,,Fun Fossils
+Dialogue: 0,0:06:19.35,0:06:22.69,Signs,Page,0,0,0,,Fossilized\N Mira
+Dialogue: 0,0:07:35.93,0:07:42.64,Signs,Paper,0,0,0,,Pseudofossil
+Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Spicules
+Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Fish Scale
+Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,Requesting information!
+Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignLeft,0,0,0,,We're looking for asteroids
+Dialogue: 0,0:10:12.79,0:10:15.01,Signs,Endou,0,0,0,,Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Shining Star\N{\c&H855E22&}Challenge
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Recruiting Now
+Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,New Astronomical Object Discovery \NProgram for High Schoolers\N{\fs30}Shining Star Challenge
+Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event are closed.
+Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Add to list
+Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,Tsukuba VLBI Antenna
