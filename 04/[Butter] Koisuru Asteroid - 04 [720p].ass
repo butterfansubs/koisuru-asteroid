@@ -41,10 +41,10 @@ Comment: 0,0:02:18.99,0:02:18.99,Default,chptr,0,0,0,,{Part A}Part A
 Comment: 0,0:09:47.06,0:09:47.06,Default,chptr,0,0,0,,{Part B}Part B
 Comment: 0,0:22:04.80,0:22:04.80,Default,chptr,0,0,0,,{ED}ED
 Comment: 0,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
-Dialogue: 0,0:00:10.32,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer camp starts today? \NWhere are you going again?
-Dialogue: 0,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA! \NEndou-sensei suggested it.
-Dialogue: 0,0:00:19.04,0:00:23.00,Default,Suzu&Screen,0,0,0,,{\i1}Wow, sounds nice! \NHave enough fun for me, too.
-Dialogue: 0,0:00:23.23,0:00:25.82,Default,Suzu&Screen,0,0,0,,{\i1}Oh, and sneak pictures of \Neveryone's sleeping faces!
+Dialogue: 0,0:00:10.32,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer camp starts today?\NWhere are you going again?
+Dialogue: 0,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA!\NEndou-sensei suggested it.
+Dialogue: 0,0:00:19.04,0:00:23.00,Default,Suzu&Screen,0,0,0,,{\i1}Wow, sounds nice!\NHave enough fun for me, too.
+Dialogue: 0,0:00:23.23,0:00:25.82,Default,Suzu&Screen,0,0,0,,{\i1}Oh, and sneak pictures of\Neveryone's sleeping faces!
 Dialogue: 0,0:00:29.11,0:00:30.86,Default,Mira,0,0,0,,Look, a rocket!
 Dialogue: 0,0:00:31.92,0:00:35.34,Default,Endou,0,0,0,,That's the Expo Center's life-size model.
 Dialogue: 0,0:00:35.92,0:00:38.58,Default,Monroe,0,0,0,,Do you know this area well?
@@ -72,7 +72,7 @@ Dialogue: 0,0:02:51.85,0:02:53.73,Default,Endou,0,0,0,,Wow, those faces...
 Dialogue: 0,0:02:54.05,0:02:56.08,Default,Endou,0,0,0,,No, what I mean is,
 Dialogue: 0,0:02:56.08,0:02:59.36,Default,,0,0,0,,why don't we stay at her place to save money\Nand go visit places nearby?
 Dialogue: 0,0:02:59.68,0:03:00.82,Default,Ao,0,0,0,,Places nearby?
-Dialogue: 0,0:03:01.09,0:03:07.64,Default,Endou,0,0,0,,There's the JAXA Space Center, \Nthe Geological Museum, Geopark, and...
+Dialogue: 0,0:03:01.09,0:03:07.64,Default,Endou,0,0,0,,There's the JAXA Space Center,\Nthe Geological Museum, Geopark, and...
 Dialogue: 0,0:03:08.26,0:03:09.54,Default,Endou,0,0,0,,I guess that settles it?
 Dialogue: 0,0:03:12.27,0:03:15.10,Default,Mira,0,0,0,,Wow, there are so many stones!
 Dialogue: 0,0:03:19.17,0:03:20.97,Default,Monroe,0,0,0,,Minerals and fossils...
@@ -214,7 +214,7 @@ Dialogue: 0,0:09:49.22,0:09:51.49,Default,Mira,0,0,0,,We're Hoshizaki High Schoo
 Dialogue: 0,0:09:51.49,0:09:52.71,Default,Sakura,0,0,0,,What's that?
 Dialogue: 0,0:09:52.08,0:09:55.02,Alternate,Ao,0,0,0,,{\an8}W-We're searching for an asteroid.
 Dialogue: 0,0:09:52.71,0:09:56.15,Default,Ino,0,0,0,,It's a plan they came up with\Nbefore our summer camp.
-Dialogue: 0,0:09:55.02,0:09:58.03,Default,Ino,0,0,0,,{\an8}We're Hoshizaki High School's \Nearth sciences club!
+Dialogue: 0,0:09:55.02,0:09:58.03,Default,Ino,0,0,0,,{\an8}We're Hoshizaki High School's earth sciences club!
 Dialogue: 0,0:09:56.64,0:10:00.37,Default,Sakura,0,0,0,,Doing that at the space center\Njust makes it look like they're fooling around.
 Dialogue: 0,0:10:00.37,0:10:02.66,Default,Ino,0,0,0,,Oh, but someone's talking to them.
 Dialogue: 0,0:10:04.67,0:10:06.12,Default,Mira,0,0,0,,We got candy!
@@ -259,12 +259,12 @@ Dialogue: 0,0:11:54.84,0:11:57.23,Default,Sakura,0,0,0,,Are we the minority here
 Dialogue: 0,0:11:57.23,0:12:01.36,Default,Guide,0,0,0,,Now I'll show you all\Nto the astronaut training wing.
 Dialogue: 0,0:12:01.36,0:12:04.06,Default,Guide,0,0,0,,{\an8}Normally, only staff are allowed into this area,
 Dialogue: 0,0:12:01.94,0:12:05.75,Default,Ino,0,0,0,,Monroe-senpai's looking more serious than usual.
-Dialogue: 0,0:12:04.06,0:12:08.73,Default,Guide,0,0,0,,{\an8}so please attach the passes\NI gave you somewhere visible.
+Dialogue: 0,0:12:04.06,0:12:08.73,Default,Guide,0,0,0,,{\an8}so please wear the passes\NI gave you somewhere visible.
 Dialogue: 0,0:12:05.75,0:12:08.73,Default,Sakura,0,0,0,,Well, I'm sure she has a lot of thoughts\Nrunning through her mind.
 Dialogue: 0,0:12:09.22,0:12:11.04,Default,Sakura,0,0,0,,She's always wanted to come here.
 Dialogue: 0,0:12:11.27,0:12:12.51,Default,Ino,0,0,0,,She has?
 Dialogue: 0,0:12:13.71,0:12:17.17,Default,Guide,0,0,0,,These space suits weigh roughly 120 kilograms.
-Dialogue: 0,0:12:17.17,0:12:20.82,Default,Guide,0,0,0,,They include life support, \Noxygen, and batteries.
+Dialogue: 0,0:12:17.17,0:12:20.82,Default,Guide,0,0,0,,They include life support, oxygen, and batteries.
 Dialogue: 0,0:12:20.82,0:12:22.88,Default,Guide,0,0,0,,As well, when they're working outside the ship...
 Dialogue: 0,0:12:23.30,0:12:26.93,Default,Guide,0,0,0,,On the other side of this window\Nis the closed-environment training facility.
 Dialogue: 0,0:12:26.93,0:12:31.88,Default,Guide,0,0,0,,Previous exams narrowed\Nour 963 applicants down to ten,
@@ -354,9 +354,9 @@ Dialogue: 0,0:16:26.20,0:16:28.67,Default,Mira,0,0,0,,Hey, it has an equatorial 
 Dialogue: 0,0:16:28.67,0:16:31.38,Default,Ino,0,0,0,,It has different parts than the one our club uses.
 Dialogue: 0,0:16:31.81,0:16:36.72,Default,Ao,0,0,0,,The mount on ours {#TM:BREAK}is an alt-azimuth mount that moves the telescope vertically and horizontally.
 Dialogue: 0,0:16:36.72,0:16:40.89,Default,Mira,0,0,0,,This one uses an equatorial mount\Nthat moves in time with the earth's rotation.
-Dialogue: 0,0:16:41.44,0:16:44.11,Default,Mira,0,0,0,,Once you move the handle \Non an equatorial mount,{#TM:JOIN}
-Dialogue: 0,0:16:44.11,0:16:46.44,Default,,0,0,0,,it'll keep following that star forever. \NIt's so much easier!
-Dialogue: 0,0:16:46.44,0:16:47.87,Default,Mira,0,0,0,,Yay!
+Dialogue: 0,0:16:41.44,0:16:44.11,Default,Mira,0,0,0,,Once you move the handle on an equatorial mount,{#TM:JOIN}
+Dialogue: 0,0:16:44.11,0:16:46.44,Default,Mira,0,0,0,,it'll keep following that star forever.\NIt's so much easier!
+Dialogue: 0,0:16:46.44,0:16:47.87,Default,Mira,0,0,0,,Yes!
 Dialogue: 0,0:16:47.87,0:16:49.77,Default,Ino,0,0,0,,I want to see, too!
 Dialogue: 0,0:16:50.92,0:16:54.74,Default,Ino,0,0,0,,I thought the moon was bumpier than that.
 Dialogue: 0,0:16:54.96,0:16:57.29,Default,Ino,0,0,0,,It's surprisingly flat.
@@ -396,7 +396,7 @@ Dialogue: 0,0:18:28.90,0:18:30.17,Default,Mira,0,0,0,,Blue seas...
 Dialogue: 0,0:18:30.17,0:18:31.30,Default,Ao,0,0,0,,Mira?
 Dialogue: 0,0:18:32.09,0:18:33.80,Default,Ao,0,0,0,,The Shining Star Challenge.
 Dialogue: 0,0:18:34.08,0:18:36.51,Default,Ao,0,0,0,,It's open to all high schoolers in the nation.
-Dialogue: 0,0:18:36.76,0:18:39.46,Default,Ao,0,0,0,,Seven participants are selected \Nbased on their submitted assignment.
+Dialogue: 0,0:18:36.76,0:18:39.46,Default,Ao,0,0,0,,Seven participants are selected\Nbased on their submitted assignment.
 Dialogue: 0,0:18:39.46,0:18:43.90,Default,Mira,0,0,0,,It's hard to get in, and there's no guarantee\Nthat we'll discover one, huh?
 Dialogue: 0,0:18:43.90,0:18:45.84,Default,Ao,0,0,0,,But I still feel
 Dialogue: 0,0:18:45.84,0:18:48.74,Default,Ao,0,0,0,,like we're a step or two closer to our goal.
@@ -406,7 +406,7 @@ Dialogue: 0,0:18:52.55,0:18:53.36,Default,Ao,0,0,0,,Yeah!
 Dialogue: 0,0:18:56.64,0:18:58.73,Default,Grandma,0,0,0,,This brings back memories.
 Dialogue: 0,0:18:58.73,0:19:01.02,Default,Grandma,0,0,0,,Your eyes sparkled just like theirs
 Dialogue: 0,0:19:01.02,0:19:04.12,Default,,0,0,0,,when you came home from Ishigaki Island.
-Dialogue: 0,0:19:09.05,0:19:13.00,Default,Mira,0,0,0,,Touring JAXA, having a barbecue, \Nviewing the stars...
+Dialogue: 0,0:19:09.05,0:19:13.00,Default,Mira,0,0,0,,Touring JAXA, having a barbecue,\Nviewing the stars...
 Dialogue: 0,0:19:13.35,0:19:14.98,Default,Mira,0,0,0,,and ending with fireworks.
 Dialogue: 0,0:19:14.98,0:19:16.89,Default,Sakura,0,0,0,,We've been going all-out.
 Dialogue: 0,0:19:16.89,0:19:21.61,Default,Sakura,0,0,0,,I never expected Endou-sensei to be someone\Nwho hunted for new asteroids, though.
@@ -424,7 +424,7 @@ Dialogue: 0,0:19:48.23,0:19:50.57,Default,Sakura,0,0,0,,You shouldn't call it em
 Dialogue: 0,0:19:50.96,0:19:52.75,Default,Sakura,0,0,0,,Not if you're serious about pursuing it.
 Dialogue: 0,0:19:54.02,0:19:57.09,Default,Sakura,0,0,0,,I still haven't found any solid goal\Nto pursue, so if you ask me,
 Dialogue: 0,0:19:57.60,0:20:00.10,Default,Sakura,0,0,0,,you're all amazing for having one.
-Dialogue: 0,0:20:00.69,0:20:03.90,Default,Sakura,0,0,0,,You shouldn't hold back \Nin pursuit of your dreams.
+Dialogue: 0,0:20:00.69,0:20:03.90,Default,Sakura,0,0,0,,You shouldn't hold back in pursuing your dreams.
 Dialogue: 0,0:20:05.35,0:20:07.70,Default,Monroe,0,0,0,,Sakura-chan, thank you.
 Dialogue: 0,0:20:07.70,0:20:08.47,Default,Sakura,0,0,0,,Hmph.
 Dialogue: 0,0:20:08.93,0:20:10.88,Default,Mira,0,0,0,,Wait, that means...
@@ -436,7 +436,7 @@ Dialogue: 0,0:20:22.47,0:20:26.76,Default,Ino,0,0,0,,I think I might have figure
 Dialogue: 0,0:20:27.87,0:20:30.54,Default,Ino,0,0,0,,The truth is, there's somewhere I'd like to go, too!
 Dialogue: 0,0:20:31.91,0:20:36.22,Default,Ino,0,0,0,,This is the headquarters of map-making,\Nthe Geospatial Informational Authority of Japan!
 Dialogue: 0,0:20:38.35,0:20:42.05,Default,Endou,0,0,0,,I didn't know Inose was into this field.
-Dialogue: 0,0:20:42.30,0:20:45.49,Default,Endou,0,0,0,,I know this is a change of plans. \NAre you all okay with this?
+Dialogue: 0,0:20:42.30,0:20:45.49,Default,Endou,0,0,0,,I know this is a change of plans.\NAre you all okay with this?
 Dialogue: 0,0:20:45.49,0:20:47.46,Default,Sakura,0,0,0,,I don't mind at all.
 Dialogue: 0,0:20:47.46,0:20:48.30,Default,Sakura,0,0,0,,Besides...
 Dialogue: 0,0:20:48.94,0:20:53.52,Default,Sakura,0,0,0,,I don't think anyone can complain\Nwhen they see that look on her face.
