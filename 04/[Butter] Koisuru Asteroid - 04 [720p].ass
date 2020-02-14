@@ -453,8 +453,8 @@ Dialogue: 0,0:21:47.31,0:21:52.06,Default,Mira,0,0,0,,{\i1}Before, our goal of\N
 Dialogue: 0,0:21:52.57,0:21:54.18,Default,Mira,0,0,0,,{\i1}But I'm sure there's a star out there
 Dialogue: 0,0:21:54.18,0:21:58.10,Default,Mira,0,0,0,,{\i1}just like the tiny fossil\NI discovered by the riverside.
 Dialogue: 0,0:21:58.92,0:22:00.87,Default,Mira,0,0,0,,{\i1}It's somewhere out there in this universe.
-Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,05.\NEveryone's Summer Break
 Dialogue: 0,0:23:35.99,0:23:39.09,Default,Ino,0,0,0,,Next time, "Everyone's Summer Break."
+Dialogue: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,{\fad(1400,1)}04. Exciting! Summer Camp!
 Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
 Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
 Dialogue: 0,0:02:42.09,0:02:47.10,Signs,BoardCenterCircle,0,0,0,,Geological\N Museum
@@ -486,3 +486,4 @@ Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,New Astronomical Object Dis
 Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event are closed.
 Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Add to list
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,Tsukuba VLBI Antenna
+Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,05.\NEveryone's Summer Break
