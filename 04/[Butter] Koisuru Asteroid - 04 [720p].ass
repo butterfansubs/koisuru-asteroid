@@ -200,13 +200,13 @@ Dialogue: 0,0:09:19.15,0:09:20.58,Default,Grandma,0,0,0,,It was a long trip, was
 Dialogue: 0,0:09:20.58,0:09:22.09,Default,Endou,0,0,0,,I'm home.
 Dialogue: 0,0:09:22.09,0:09:23.45,Default,Both,0,0,0,,Thank you for having us.
 Dialogue: 0,0:09:23.84,0:09:25.91,Default,Ao,0,0,0,,Mira, that old man's hat...
-Dialogue: 0,0:09:25.91,0:09:27.78,Default,Both,0,0,0,,{\an8}Thank you for having us.
+Dialogue: 0,0:09:25.91,0:09:27.78,Alternate,Both,0,0,0,,{\an8}Thank you for having us.
 Dialogue: 0,0:09:26.27,0:09:27.60,Default,Mira,0,0,0,,Huh? JAXA?
 Dialogue: 0,0:09:27.60,0:09:29.67,Default,Mira,0,0,0,,Don't tell me her grandfather works there!
-Dialogue: 0,0:09:27.78,0:09:29.67,Default,Grandpa,0,0,0,,{\an8}Not a problem.
+Dialogue: 0,0:09:27.78,0:09:29.67,Alternate,Grandpa,0,0,0,,{\an8}Not a problem.
 Dialogue: 0,0:09:30.02,0:09:33.34,Default,Ao,0,0,0,,But hold on. The logo looks a little off.
 Dialogue: 0,0:09:34.64,0:09:36.09,Default,Both,0,0,0,,It's JA's!
-Dialogue: 0,0:09:34.64,0:09:36.09,Alternate,Both,0,0,0,,{\an8}The farmers' cooperative!
+Dialogue: 0,0:09:34.64,0:09:36.09,Alternate,Both,0,0,0,,The farmers' cooperative!
 Dialogue: 0,0:09:36.32,0:09:39.29,Default,Endou,0,0,0,,He's a farmer that loves space.
 Dialogue: 0,0:09:39.29,0:09:41.32,Default,Endou,0,0,0,,Please go easy on him.
 Dialogue: 0,0:09:47.59,0:09:49.02,Default,Mira,0,0,0,,Hello!
@@ -214,7 +214,7 @@ Dialogue: 0,0:09:49.22,0:09:51.49,Default,Mira,0,0,0,,We're Hoshizaki High Schoo
 Dialogue: 0,0:09:51.49,0:09:52.71,Default,Sakura,0,0,0,,What's that?
 Dialogue: 0,0:09:52.08,0:09:55.02,Alternate,Ao,0,0,0,,{\an8}W-We're searching for an asteroid.
 Dialogue: 0,0:09:52.71,0:09:56.15,Default,Ino,0,0,0,,It's a plan they came up with\Nbefore our summer camp.
-Dialogue: 0,0:09:55.02,0:09:58.03,Default,Ino,0,0,0,,{\an8}We're Hoshizaki High School's earth sciences club!
+Dialogue: 0,0:09:55.02,0:09:58.03,Alternate,Mira,0,0,0,,{\an8}We're Hoshizaki High School's earth sciences club!
 Dialogue: 0,0:09:56.64,0:10:00.37,Default,Sakura,0,0,0,,Doing that at the space center\Njust makes it look like they're fooling around.
 Dialogue: 0,0:10:00.37,0:10:02.66,Default,Ino,0,0,0,,Oh, but someone's talking to them.
 Dialogue: 0,0:10:04.67,0:10:06.12,Default,Mira,0,0,0,,We got candy!
@@ -257,9 +257,9 @@ Dialogue: 0,0:11:48.61,0:11:50.77,Default,Ino,0,0,0,,I don't think this video is
 Dialogue: 0,0:11:52.19,0:11:54.23,Default,Endou,0,0,0,,Getting older sucks.
 Dialogue: 0,0:11:54.84,0:11:57.23,Default,Sakura,0,0,0,,Are we the minority here?
 Dialogue: 0,0:11:57.23,0:12:01.36,Default,Guide,0,0,0,,Now I'll show you all\Nto the astronaut training wing.
-Dialogue: 0,0:12:01.36,0:12:04.06,Default,Guide,0,0,0,,{\an8}Normally, only staff are allowed into this area,
+Dialogue: 0,0:12:01.36,0:12:04.06,Alternate,Guide,0,0,0,,{\an8}Normally, only staff are allowed into this area,
 Dialogue: 0,0:12:01.94,0:12:05.75,Default,Ino,0,0,0,,Monroe-senpai's looking more serious than usual.
-Dialogue: 0,0:12:04.06,0:12:08.73,Default,Guide,0,0,0,,{\an8}so please wear the passes\NI gave you somewhere visible.
+Dialogue: 0,0:12:04.06,0:12:08.73,Alternate,Guide,0,0,0,,{\an8}so please wear the passes\NI gave you somewhere visible.
 Dialogue: 0,0:12:05.75,0:12:08.73,Default,Sakura,0,0,0,,Well, I'm sure she has a lot of thoughts\Nrunning through her mind.
 Dialogue: 0,0:12:09.22,0:12:11.04,Default,Sakura,0,0,0,,She's always wanted to come here.
 Dialogue: 0,0:12:11.27,0:12:12.51,Default,Ino,0,0,0,,She has?
@@ -276,11 +276,11 @@ Dialogue: 0,0:12:43.90,0:12:46.93,Default,Guide,0,0,0,,And above all else, you n
 Dialogue: 0,0:12:46.93,0:12:49.24,Default,Guide,0,0,0,,That's said to be the most important part.
 Dialogue: 0,0:12:49.49,0:12:50.97,Default,Sakura,0,0,0,,Thank you very much.
 Dialogue: 0,0:12:50.97,0:12:52.05,Default,Guide,0,0,0,,No problem.
-Dialogue: 0,0:12:52.05,0:12:55.78,Default,Guide,0,0,0,,{\an8}Over here, we place astronauts\Nin low-pressure environments to measure
+Dialogue: 0,0:12:52.05,0:12:55.78,Alternate,Guide,0,0,0,,{\an8}Over here, we place astronauts\Nin low-pressure environments to measure
 Dialogue: 0,0:12:52.98,0:12:54.01,Default,Sakura,0,0,0,,You heard her.
 Dialogue: 0,0:12:54.01,0:12:55.21,Default,Monroe,0,0,0,,Sakura-chan.
 Dialogue: 0,0:12:55.68,0:12:57.95,Default,Monroe,0,0,0,,Thank you very much.
-Dialogue: 0,0:12:55.78,0:13:00.92,Default,,0,0,0,,{\an8}how low oxygen supplies will affect their bodies\Nand conduct other training regimes.
+Dialogue: 0,0:12:55.78,0:13:00.92,Alternate,Guide,0,0,0,,{\an8}how low oxygen supplies will affect their bodies\Nand conduct other training regimes.
 Dialogue: 0,0:12:57.95,0:13:00.92,Default,Sakura,0,0,0,,You'll need to work more on your pronunciation.
 Dialogue: 0,0:13:01.38,0:13:05.22,Default,Mira,0,0,0,,We should try asking her about asteroids, too!
 Dialogue: 0,0:13:06.59,0:13:08.60,Default,Guide,0,0,0,,Asteroids?
@@ -315,12 +315,12 @@ Dialogue: 0,0:14:34.33,0:14:36.72,Default,Ao,0,0,0,,I couldn't find any clues.
 Dialogue: 0,0:14:36.72,0:14:37.70,Default,Mira,0,0,0,,Ao...
 Dialogue: 0,0:14:37.70,0:14:42.72,Default,Mira,0,0,0,,Me, neither. But I learned a lot today,\Nand I also realized a few things.
 Dialogue: 0,0:14:42.72,0:14:43.77,Default,Mira,0,0,0,,For example,
-Dialogue: 0,0:14:43.77,0:14:48.96,Default,Mira,0,0,0,,if we try each of the centers throughout Japan, \Nwe'll eventually meet an expert on it!
+Dialogue: 0,0:14:43.77,0:14:48.96,Default,Mira,0,0,0,,if we try each of the centers throughout Japan,\Nwe'll eventually meet an expert on it!
 Dialogue: 0,0:14:50.61,0:14:52.39,Default,Sakura,0,0,0,,You're too optimistic.
 Dialogue: 0,0:14:52.39,0:14:54.81,Default,Monroe,0,0,0,,Sakura-chan, thanks for your help.
 Dialogue: 0,0:14:54.81,0:14:56.87,Default,Sakura,0,0,0,,Honestly, I couldn't just watch you girls...
 Dialogue: 0,0:14:57.37,0:14:59.80,Default,Sakura,0,0,0,,And you should be helping, too!
-Dialogue: 0,0:14:58.34,0:14:59.80,Default,Monroe,0,0,0,,{\an8}Yay!
+Dialogue: 0,0:14:58.34,0:14:59.80,Alternate,Monroe,0,0,0,,{\an8}Yay!
 Dialogue: 0,0:14:59.80,0:15:01.33,Default,Sakura,0,0,0,,Where's your cooperation?!
 Dialogue: 0,0:15:01.63,0:15:04.64,Default,Mira,0,0,0,,Sensei, we're done looking around!
 Dialogue: 0,0:15:04.64,0:15:06.30,Default,Endou,0,0,0,,Oh, good to hear.
@@ -386,9 +386,9 @@ Dialogue: 0,0:18:05.77,0:18:08.47,Default,Mira,0,0,0,,Huh? But when we first joi
 Dialogue: 0,0:18:08.47,0:18:11.36,Default,Endou,0,0,0,,Sorry. I was sleeping in the next room over.
 Dialogue: 0,0:18:11.60,0:18:12.68,Default,Ao,0,0,0,,You slept through it...
 Dialogue: 0,0:18:13.22,0:18:17.64,Default,Monroe,0,0,0,,Oh, the deadline for entering this year\Nhas already passed.
-Dialogue: 0,0:18:18.11,0:18:21.31,Default,Mira,0,0,0,,{\an8}If only we had known about this sooner!
+Dialogue: 0,0:18:18.11,0:18:21.31,Alternate,Mira,0,0,0,,{\an8}If only we had known about this sooner!
 Dialogue: 0,0:18:19.70,0:18:21.98,Default,Sakura,0,0,0,,It's held on Ishigaki Island.
-Dialogue: 0,0:18:21.31,0:18:23.95,Default,Endou,0,0,0,,{\an8}You're mad, aren't you?!
+Dialogue: 0,0:18:21.31,0:18:23.95,Alternate,Endou,0,0,0,,{\an8}You're mad, aren't you?!
 Dialogue: 0,0:18:21.98,0:18:23.95,Default,Ino,0,0,0,,Okinawa? That's great!
 Dialogue: 0,0:18:25.50,0:18:26.91,Default,Mira,0,0,0,,Ishigaki Island...
 Dialogue: 0,0:18:27.33,0:18:28.37,Default,Mira,0,0,0,,Okinawa...
@@ -405,7 +405,7 @@ Dialogue: 0,0:18:49.85,0:18:52.55,Default,Mira,0,0,0,,This might be a huge leap 
 Dialogue: 0,0:18:52.55,0:18:53.36,Default,Ao,0,0,0,,Yeah!
 Dialogue: 0,0:18:56.64,0:18:58.73,Default,Grandma,0,0,0,,This brings back memories.
 Dialogue: 0,0:18:58.73,0:19:01.02,Default,Grandma,0,0,0,,Your eyes sparkled just like theirs
-Dialogue: 0,0:19:01.02,0:19:04.12,Default,,0,0,0,,when you came home from Ishigaki Island.
+Dialogue: 0,0:19:01.02,0:19:04.12,Default,Grandma,0,0,0,,when you came home from Ishigaki Island.
 Dialogue: 0,0:19:09.05,0:19:13.00,Default,Mira,0,0,0,,Touring JAXA, having a barbecue,\Nviewing the stars...
 Dialogue: 0,0:19:13.35,0:19:14.98,Default,Mira,0,0,0,,and ending with fireworks.
 Dialogue: 0,0:19:14.98,0:19:16.89,Default,Sakura,0,0,0,,We've been going all-out.
