@@ -473,11 +473,15 @@ Dialogue: 10,0:23:36.06,0:23:39.09,Default,Ino,0,0,0,,Next time: "Everyone's Sum
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Title card
 Dialogue: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,{\fad(1400,1)}04. Exciting! Summer Camp!
+Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Rock sign
+Dialogue: 0,0:02:19.45,0:02:20.99,Signs,Rock,0,0,0,,Geo-specimen Cottage
 Comment: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,# Whiteboard
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardCenterCircle,0,0,0,,Geological\N Museum
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
+Comment: 0,0:02:48.06,0:02:50.77,Signs,BoardTopCircle,0,0,0,,# Endou close-up whiteboard
+Dialogue: 0,0:02:48.06,0:02:50.77,Signs,BoardCircle,0,0,0,,Botanical Garden
 Comment: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,# Close-up whiteboard
 Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,Grandma's Place
 Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardRightCircle,0,0,0,,Geological \NMuseum
@@ -490,16 +494,28 @@ Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardCenterLeftCircle,0,0,0,,Geopark
 Dialogue: 0,0:03:00.82,0:03:05.03,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
 Comment: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,# Poster
 Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,Fascinating Minerals
-Comment: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,# Quartz placard
+Comment: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,# Quartz placard
+Dialogue: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
+Comment: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,# Quartz placard closeup
 Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
+Comment: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,# Cerasite Placard
+Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,Kyoto Prefectural Stone (Mineral)
+Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,Cherry Blossom \NStone
+Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,Cordierite-Muscovite\N Pseudomorph
 Comment: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,# Cerasite Placard
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Kyoto Prefectural Stone (Mineral)
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cherry Blossom \NStone
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,Cordierite-Muscovite\N Pseudomorph
-Comment: 0,0:05:44.99,0:05:46.82,Signs,Book,0,0,0,,# Fun With Fossils book
-Dialogue: 0,0:05:44.99,0:05:46.82,Signs,Book,0,0,0,,Fun With Fossils
+Comment: 0,0:05:44.82,0:05:46.82,Signs,Book,0,0,0,,# Fun With Fossils book
+Dialogue: 0,0:05:44.82,0:05:46.82,Signs,Book,0,0,0,,Fun With Fossils
+Comment: 0,0:05:46.82,0:05:50.83,Signs,Book,0,0,0,,# Fun With Fossils book
+Dialogue: 0,0:05:46.82,0:05:50.83,Signs,Book,0,0,0,,Fun With Fossils
+Comment: 0,0:05:50.83,0:05:52.79,Signs,Book,0,0,0,,# Fun With Fossils book
+Dialogue: 0,0:05:50.83,0:05:52.79,Signs,Book,0,0,0,,Fun With Fossils
 Comment: 0,0:06:19.23,0:06:22.69,Signs,Page,0,0,0,,# Fossilized Mira drawing
 Dialogue: 0,0:06:19.23,0:06:22.69,Signs,Page,0,0,0,,Fossilized\N Mira
+Comment: 0,0:07:31.76,0:07:33.97,Signs,Paper,0,0,0,,# Pseudofossil label
+Dialogue: 0,0:07:31.76,0:07:33.97,Signs,Paper,0,0,0,,Pseudofossil
 Comment: 0,0:07:35.93,0:07:42.65,Signs,Paper,0,0,0,,# Pseudofossil label
 Dialogue: 0,0:07:35.93,0:07:42.65,Signs,Paper,0,0,0,,Pseudofossil
 Comment: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,# Fossil labels
@@ -508,8 +524,24 @@ Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Fish Scale
 Comment: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,# Cardboard signs
 Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,Info wanted!
 Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:09:49.02,0:09:56.15,Signs,SignRight,0,0,0,,# Cardboard signs
+Dialogue: 0,0:09:49.02,0:09:56.15,Signs,SignRight,0,0,0,,Info wanted!
+Dialogue: 0,0:09:49.02,0:09:56.15,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:10:02.66,0:10:03.41,Signs,SignRight,0,0,0,,# Cardboard sign
+Dialogue: 0,0:10:02.66,0:10:03.41,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:10:04.45,0:10:06.12,Signs,SignRight,0,0,0,,# Cardboard signs
+Dialogue: 0,0:10:04.45,0:10:06.12,Signs,SignRight,0,0,0,,Info wanted!
+Dialogue: 0,0:10:04.45,0:10:06.12,Signs,SignLeft,0,0,0,,Searching for asteroids.
 Comment: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,# Missed calls
 Dialogue: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call
+Comment: 0,0:13:20.11,0:13:25.32,Signs,SignRight,0,0,0,,# Cardboard sign
+Dialogue: 0,0:13:20.11,0:13:25.32,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:13:25.32,0:13:26.95,Signs,SignRight,0,0,0,,# Cardboard sign
+Dialogue: 0,0:13:25.32,0:13:26.95,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:14:43.77,0:14:46.40,Signs,SignRight,0,0,0,,# Cardboard sign
+Dialogue: 0,0:14:43.77,0:14:46.40,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:14:46.40,0:14:50.36,Signs,SignRight,0,0,0,,# Cardboard sign
+Dialogue: 0,0:14:46.40,0:14:50.36,Signs,SignLeft,0,0,0,,Searching for asteroids.
 Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,# Shining Star Challenge flyer
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Shining Star\N{\c&H855E22&}Challenge
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Recruiting Now
@@ -519,5 +551,9 @@ Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event
 Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Add to list
 Comment: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,# Tsukuba VLBI Antenna poster
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,Tsukuba VLBI Antenna
+Comment: 0,0:21:25.88,0:21:28.14,Signs,Sign,0,0,0,,# Head cutout VLBI sign (Mira)
+Comment: 0,0:21:25.88,0:21:28.14,Signs,Sign,0,0,0,,{#TL:星がつたえる大地の動き}\NGSI Tsukuba VLBI Antenna
+Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,# Head cutout VLBI sign (Endou)
+Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,{#TL:星がつたえる大地の動き}\NGSI Tsukuba VLBI Antenna
 Comment: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,# End card
 Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,05.\NEveryone's Summer Break
