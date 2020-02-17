@@ -36,11 +36,6 @@ Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Comment: 10,0:00:49.02,0:00:49.02,Default,chptr,0,0,0,,{OP}OP
-Comment: 10,0:02:18.99,0:02:18.99,Default,chptr,0,0,0,,{Part A}Part A
-Comment: 10,0:09:47.06,0:09:47.06,Default,chptr,0,0,0,,{Part B}Part B
-Comment: 10,0:22:04.80,0:22:04.80,Default,chptr,0,0,0,,{ED}ED
-Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
 Comment: 10,0:00:09.65,0:00:13.57,Default,Suzu&Screen,0,0,0,,{Meme}{\i1\bord0\fscx10\fscy10\t(0,235,\fscx110\fscy110)\t(235,360,\fscx100\fscy100)\t(735,861,\bord2.5)}Your summer camp starts today?\NWhere are you going again?
 Dialogue: 10,0:00:10.40,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer camp starts today?\NWhere are you going again?
 Dialogue: 10,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA!\NEndou-sensei suggested it.
@@ -54,6 +49,8 @@ Dialogue: 10,0:00:39.72,0:00:41.52,Default,Endou,0,0,0,,I lived here in my high 
 Dialogue: 10,0:00:41.52,0:00:42.68,Default,Mira,0,0,0,,Hey, what's that?
 Dialogue: 10,0:00:42.68,0:00:44.52,Default,Mira,0,0,0,,That car's like a robot!
 Dialogue: 10,0:00:44.52,0:00:48.02,Default,Endou,0,0,0,,Hey, keep it down! You made me miss our turn!
+Comment: 10,0:00:49.02,0:00:49.02,Default,chptr,0,0,0,,{OP}OP
+Comment: 10,0:02:18.99,0:02:18.99,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 10,0:02:21.24,0:02:22.70,Default,All,0,0,0,,{\an8}We're here!
 Dialogue: 10,0:02:22.95,0:02:24.95,Default,Monroe,0,0,0,,You're restless for once.
 Dialogue: 10,0:02:24.95,0:02:26.83,Default,Sakura,0,0,0,,I'm not acting any different.
@@ -212,6 +209,7 @@ Dialogue: 10,0:09:34.63,0:09:36.09,Default,Both,0,0,0,,It's JA's!
 Dialogue: 10,0:09:34.63,0:09:36.09,Alternate,Both,0,0,0,,The farmers' cooperative!
 Dialogue: 10,0:09:36.34,0:09:39.14,Default,Endou,0,0,0,,He's a farmer that loves space.
 Dialogue: 10,0:09:39.14,0:09:41.26,Default,Endou,0,0,0,,Please go easy on him.
+Comment: 10,0:09:47.06,0:09:47.06,Default,chptr,0,0,0,,{Part B}Part B
 Dialogue: 10,0:09:47.65,0:09:49.02,Default,Mira,0,0,0,,Hello!
 Dialogue: 10,0:09:49.15,0:09:51.77,Alternate,Mira,0,0,0,,{\an8}We're Hoshizaki High School's\Nearth sciences club!
 Dialogue: 10,0:09:51.49,0:09:52.71,Default,Sakura,0,0,0,,What's that?
@@ -469,6 +467,8 @@ Dialogue: 10,0:21:52.37,0:21:54.33,Default,Mira,0,0,0,,{\i1\fad(226,392)}But I'm
 Dialogue: 11,0:21:53.95,0:21:58.42,Default,Mira,0,0,0,,{\i1\fad(405,478)}just like the tiny fossil\NI discovered by the riverside.
 Dialogue: 10,0:21:58.79,0:22:00.67,Default,Mira,0,0,0,,{\i1\fad(278,0)}It's somewhere out there in this universe.
 Dialogue: 10,0:22:00.67,0:22:02.67,Default,Mira,0,0,0,,{\i1\t(\alpha&HFF&)}It's somewhere out there in this universe.
+Comment: 10,0:22:04.80,0:22:04.80,Default,chptr,0,0,0,,{ED}ED
+Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
 Dialogue: 10,0:23:36.06,0:23:39.09,Default,Ino,0,0,0,,Next time: "Everyone's Summer Break."
 Dialogue: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,{\fad(1400,1)}04. Exciting! Summer Camp!
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
