@@ -486,7 +486,8 @@ Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardCenterCircle,0,0,0,,{\an7\blur
 Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardRightCircle,0,0,0,,{\an7\blur0.65\pos(677,390)\c&H474449&}J{\c&H4F4B51&}A{\c&H565358&}X{\c&H5E5A60&}A
 Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardRightCircle,0,0,0,,{\an7\blur0.65\pos(677,420)\c&H474449&}S{\c&H4A474C&}p{\c&H4E4B4F&}a{\c&H514E52&}c{\c&H555155&}e{\c&H585458&} {\c&H5C585C&}C{\c&H5F5B5F&}e{\c&H635E62&}n{\c&H666165&}t{\c&H6A6568&}e{\c&H6D686B&}r
 Comment: 0,0:02:48.06,0:02:50.77,Signs,BoardTopCircle,0,0,0,,# Endou close-up whiteboard
-Dialogue: 0,0:02:48.06,0:02:50.77,Signs,BoardCircle,0,0,0,,Botanical Garden
+Dialogue: 0,0:02:48.06,0:02:50.77,Whiteboard,BoardCircle,0,0,0,,{\an7\blur1\fax-0.05\frz2.742\c&H3C3841&\fs60\pos(1020,642)\fscx100\fscy100\xshad1\yshad1\4c&H76839B&\4a&H28&}B{\blur1.06\fscx100.56\fscy100.56\xshad1.31\yshad1.06}o{\blur1.11\fscx101.11\fscy101.11\xshad1.63\yshad1.13}t{\blur1.17\fscx101.67\fscy101.67\xshad1.94\yshad1.19}a{\blur1.22\fscx102.22\fscy102.22\xshad2.25\yshad1.25}n{\blur1.28\fscx102.78\fscy102.78\xshad2.56\yshad1.31}i{\blur1.33\fscx103.33\fscy103.33\xshad2.88\yshad1.38}c{\blur1.39\fscx103.89\fscy103.89\xshad3.19\yshad1.44}a{\blur1.44\fscx104.44\fscy104.44\yshad1.5\xshad3.5}l
+Dialogue: 0,0:02:48.06,0:02:50.77,Whiteboard,BoardCircle,0,0,0,,{\an7\blur1\fax-0.05\frz2.742\c&H3C3841&\fs60\pos(1022.87,701.93)\fscx100\fscy100\xshad1\yshad1\4c&H76839B&\4a&H28&}G{\blur1.07\fscx100.67\fscy100.67\xshad1.33\yshad1.03}a{\blur1.13\fscx101.33\fscy101.33\xshad1.65\yshad1.05}r{\blur1.2\fscx102\fscy102\xshad1.98\yshad1.08}d{\blur1.26\fscx102.66\fscy102.66\xshad2.3\yshad1.1}e{\blur1.33\fscx103.33\fscy103.33\xshad2.63\yshad1.13}n
 Comment: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,# Close-up whiteboard
 Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,Grandma's Place
 Dialogue: 0,0:02:53.73,0:02:59.36,Signs,BoardRightCircle,0,0,0,,Geological \NMuseum
