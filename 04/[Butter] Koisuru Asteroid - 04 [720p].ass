@@ -476,7 +476,7 @@ Dialogue: 0,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\1a&HFE&\3a&HFE&\4a&HF
 Dialogue: 1,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\alpha&HFF&\t(29,1030,\alpha&H00&)\bord0\blur0.6\iclip(m 145 584 l 154 583 154 593 144 593 m 264 555 l 274 556 273 565 264 564 m 293 556 l 301 555 301 565 293 565 m 369 584 l 380 583 377 593 369 593 m 775 583 l 787 584 786 593 776 592)}{Text}04. Exciting! Summer Camp!
 Dialogue: 2,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\alpha&HFF&\t(29,1030,\alpha&H00&)\bord0\blur0.6\clip(m 145 584 l 154 583 154 593 144 593 m 264 555 l 274 556 273 565 264 564 m 293 556 l 301 555 301 565 293 565 m 369 584 l 380 583 377 593 369 593 m 775 583 l 787 584 786 593 776 592)}{Dots}04{\1c&H86B1E8&}. Exc{\1c&HD1B3A1&}it{\1c&H88E3C4&}ing{\1c&HC29BE1&}! Summer Camp{\1c&HBC8DB5&}!
 Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Rock sign
-Dialogue: 0,0:02:19.45,0:02:20.99,Signs,Rock,0,0,0,,Geo-specimen Cottage
+Dialogue: 0,0:02:18.99,0:02:20.99,Signs,Rock,0,0,0,,{\fnC059\b1\fs22\c&H252024&\blur0.75\pos(1059.889,524.223)\frz0.9084}Geological\NMuseum
 Comment: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,# Whiteboard
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
 Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
