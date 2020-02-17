@@ -40,7 +40,7 @@ Comment: 10,0:00:09.65,0:00:13.57,Default,Suzu&Screen,0,0,0,,{Meme}{\i1\bord0\fs
 Dialogue: 10,0:00:10.40,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer camp starts today?\NWhere are you going again?
 Dialogue: 10,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA!\NEndou-sensei suggested it.
 Dialogue: 10,0:00:19.04,0:00:23.00,Default,Suzu&Screen,0,0,0,,{\i1}Wow, sounds nice!\NHave enough fun for me, too.
-Dialogue: 10,0:00:23.25,0:00:25.75,Default,Suzu&Screen,0,0,0,,{\i1}Oh, and sneak pictures of\Neveryone's sleeping faces!
+Dialogue: 10,0:00:23.00,0:00:25.75,Default,Suzu&Screen,0,0,0,,{\i1}Oh, and sneak pictures of\Neveryone's sleeping faces!
 Dialogue: 10,0:00:29.09,0:00:30.71,Default,Mira,0,0,0,,Look, a rocket!
 Dialogue: 10,0:00:31.97,0:00:35.34,Default,Endou,0,0,0,,That's the Expo Center's life-size model.
 Dialogue: 10,0:00:35.97,0:00:38.60,Default,Monroe,0,0,0,,Do you know this area well?
@@ -66,8 +66,8 @@ Dialogue: 10,0:02:40.16,0:02:42.10,Default,Endou,0,0,0,,Good grief.
 Dialogue: 10,0:02:42.60,0:02:47.10,Default,Monroe,0,0,0,,Endou-sensei has a nice proposal\Nfor our summer camp.
 Dialogue: 10,0:02:48.81,0:02:50.77,Default,Endou,0,0,0,,Want to go to my grandma's place?
 Dialogue: 10,0:02:51.90,0:02:53.73,Default,Endou,0,0,0,,Wow, those faces...
-Dialogue: 10,0:02:53.98,0:02:56.23,Default,Endou,0,0,0,,No, what I mean is,
-Dialogue: 10,0:02:56.23,0:02:59.36,Default,Endou,0,0,0,,why don't we stay at her place to save money\Nand go visit places nearby?
+Dialogue: 10,0:02:53.98,0:02:55.86,Default,Endou,0,0,0,,No, what I mean is,
+Dialogue: 10,0:02:55.86,0:02:59.36,Default,Endou,0,0,0,,why don't we stay at her place to save money\Nand go visit places nearby?
 Dialogue: 10,0:02:59.61,0:03:00.82,Default,Ao,0,0,0,,Places nearby?
 Dialogue: 10,0:03:01.20,0:03:07.45,Default,Endou,0,0,0,,There's the JAXA Space Center,\Nthe Geological Museum, Geopark, and...
 Dialogue: 10,0:03:08.33,0:03:09.54,Default,Endou,0,0,0,,I guess that settles it?
@@ -307,7 +307,7 @@ Dialogue: 10,0:14:11.91,0:14:17.46,Default,Commentator,0,0,0,,Well, this center 
 Dialogue: 10,0:14:17.46,0:14:19.88,Default,Commentator,0,0,0,,so while we have some exhibits\Non the discovery of asteroids,
 Dialogue: 10,0:14:19.88,0:14:22.59,Default,Commentator,0,0,0,,we don't know much about\Ndiscovering new astronomical objects.
 Dialogue: 10,0:14:22.92,0:14:27.05,Default,Commentator,0,0,0,,Though there may be a specialist in one of our other centers elsewhere in the country.
-Dialogue: 10,0:14:27.17,0:14:28.72,Default,Sakura,0,0,0,,Is that so?
+Dialogue: 10,0:14:27.05,0:14:28.72,Default,Sakura,0,0,0,,Is that so?
 Dialogue: 10,0:14:28.72,0:14:29.97,Default,Sakura,0,0,0,,Thank you.
 Dialogue: 10,0:14:30.05,0:14:31.30,Default,Ao,0,0,0,,Thank you.
 Dialogue: 10,0:14:31.30,0:14:32.18,Default,Commentator,0,0,0,,Not at all.
@@ -336,7 +336,7 @@ Dialogue: 10,0:15:23.48,0:15:25.44,Default,Ino,0,0,0,,She went to use the restro
 Dialogue: 10,0:15:37.12,0:15:39.25,Default,Sakura,0,0,0,,You sure took your time.
 Dialogue: 10,0:15:39.25,0:15:40.58,Default,Sakura,0,0,0,,What's that look for?
 Dialogue: 10,0:15:40.83,0:15:42.71,Default,Monroe,0,0,0,,Space is so far away!
-Dialogue: 10,0:15:42.71,0:15:43.33,Default,Sakura,0,0,0,,Huh?
+Dialogue: 10,0:15:42.71,0:15:43.79,Default,Sakura,0,0,0,,Huh?
 Dialogue: 10,0:15:45.54,0:15:47.05,Default,Grandma,0,0,0,,Oh hi, welcome back!
 Dialogue: 10,0:15:47.05,0:15:48.80,Default,Grandma,0,0,0,,Everything's ready for the barbecue.
 Dialogue: 10,0:15:49.17,0:15:51.26,Default,Mira,0,0,0,,Wow! It's like a festival!
@@ -387,8 +387,8 @@ Dialogue: 10,0:18:02.39,0:18:05.39,Default,Endou,0,0,0,,Well I mean, I wasn't aw
 Dialogue: 8,0:18:05.39,0:18:05.68,Default,Mira,0,0,0,,{\1a&HFE&\3a&HFE&\4a&HFF&\blur20\t(28,278,\blur0\4a&H00&)}{Shadow}Really? But when we first joined the club...
 Dialogue: 9,0:18:05.39,0:18:05.68,Default,Mira,0,0,0,,{\shad0.01\1a&HFE&\3a&HFE&\blur20\t(28,278,\blur0)}{Border}Really? But when we first joined the club...
 Dialogue: 10,0:18:05.39,0:18:05.68,Default,Mira,0,0,0,,{\bord0\shad0\4a&HFF&\blur20\t(28,278,\blur0)}{Fill}Really? But when we first joined the club...
-Dialogue: 10,0:18:05.68,0:18:08.52,Default,Mira,0,0,0,,Really? But when we first joined the club...
-Dialogue: 10,0:18:08.52,0:18:10.86,Default,Endou,0,0,0,,Sorry. I was sleeping in the next room over.
+Dialogue: 10,0:18:05.68,0:18:08.48,Default,Mira,0,0,0,,Really? But when we first joined the club...
+Dialogue: 10,0:18:08.48,0:18:10.86,Default,Endou,0,0,0,,Sorry. I was sleeping in the next room over.
 Dialogue: 8,0:18:10.86,0:18:11.36,Default,Endou,0,0,0,,{\1a&HFE&\3a&HFE&\t(21,500,\blur30\4a&HFF&)}{Shadow}Sorry. I was sleeping in the next room over.
 Dialogue: 9,0:18:10.86,0:18:11.36,Default,Endou,0,0,0,,{\shad0.01\1a&HFE&\3a&HFE&\t(21,500,\blur30)}{Border}Sorry. I was sleeping in the next room over.
 Dialogue: 10,0:18:10.86,0:18:11.36,Default,Endou,0,0,0,,{\bord0\shad0\4a&HFF&\t(21,500,\blur30)}{Fill}Sorry. I was sleeping in the next room over.
@@ -423,8 +423,8 @@ Dialogue: 10,0:19:15.05,0:19:16.92,Default,Sakura,0,0,0,,We've been going all-ou
 Dialogue: 10,0:19:16.92,0:19:21.55,Default,Sakura,0,0,0,,I never expected Endou-sensei to be someone\Nwho hunted for new asteroids, though.
 Dialogue: 10,0:19:21.55,0:19:23.43,Default,Monroe,0,0,0,,I didn't know that, either.
 Dialogue: 10,0:19:23.43,0:19:26.26,Default,Ino,0,0,0,,My heart's been racing all day long.
-Dialogue: 10,0:19:26.52,0:19:31.40,Default,Sakura,0,0,0,,I guess this means everyone in the astronomy\Ngroup has gotten closer to their goals.
-Dialogue: 10,0:19:31.40,0:19:32.73,Default,Ino,0,0,0,,Everyone?
+Dialogue: 10,0:19:26.52,0:19:31.02,Default,Sakura,0,0,0,,I guess this means everyone in the astronomy\Ngroup has gotten closer to their goals.
+Dialogue: 10,0:19:31.02,0:19:32.73,Default,Mira,0,0,0,,Everyone?
 Dialogue: 10,0:19:32.98,0:19:35.15,Default,Monroe,0,0,0,,I...
 Dialogue: 10,0:19:35.15,0:19:37.07,Default,Monroe,0,0,0,,...want to become an astronaut.
 Dialogue: 10,0:19:37.19,0:19:38.69,Default,Mira,0,0,0,,An astronaut?
