@@ -32,6 +32,7 @@ Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H0040200
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
 Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,41,1
+Style: Whiteboard,Marker SD,30,&H10474449,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -478,10 +479,12 @@ Dialogue: 2,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\alpha&HFF&\t(29,1030,
 Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Rock sign
 Dialogue: 0,0:02:18.99,0:02:20.99,Signs,Rock,0,0,0,,{\fnC059\b1\fs22\c&H252024&\blur0.75\pos(1059.889,524.223)\frz0.9084}Geological\NMuseum
 Comment: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,# Whiteboard
-Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,Earth Sciences Club\N Summer Camp
-Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardRightCircle,0,0,0,,JAXA \NSpace Center
-Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardCenterCircle,0,0,0,,Geological\N Museum
-Dialogue: 0,0:02:42.10,0:02:47.10,Signs,BoardLeftCircle,0,0,0,,Botanical \NGarden
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardLeft,0,0,0,,{\an9\pos(892,100)\fs35\fsp2\frz1.413\blur0.7}E{\blur0.72\c&H49454A&}a{\blur0.73\c&H4A474B&}r{\blur0.75\c&H4C484C&}t{\blur0.77\c&H4E4A4D&}h{\blur0.78\c&H504B4D&} {\blur0.8\c&H514C4E&}S{\blur0.82\c&H534E4F&}c{\blur0.83\c&H554F50&}i{\blur0.85\c&H575151&}e{\blur0.87\c&H585252&}n{\blur0.88\c&H5A5353&}c{\blur0.9\c&H5C5554&}e{\blur0.92\c&H5D5655&}s{\blur0.93\c&H5F5755&} {\blur0.95\c&H615956&}C{\blur0.97\c&H635A57&}l{\blur0.98\c&H645C58&}u{\blur1\c&H665D59&}b
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardLeft,0,0,0,,{\an9\pos(892.86,134.99)\fs35\fsp2\frz1.413\blur0.8}S{\blur0.82\c&H534E4F&}u{\blur0.84\c&H554F50&}m{\blur0.86\c&H575151&}m{\blur0.88\c&H595352&}e{\blur0.9\c&H5C5554&}r{\blur0.92\c&H5E5655&} {\blur0.94\c&H605856&}C{\blur0.96\c&H625A57&}a{\blur0.98\c&H645B58&}m{\blur1\c&H665D59&}p
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardLeftCircle,0,0,0,,{\an7\blur0.7\frz2.742\pos(294,418)\iclip(m 261 364 b 280 397 327 456 347 489 l 244 502 m 383 372 b 372 376 367 411 366 423 363 430 356 442 356 450 351 450 351 465 351 470 354 472 360 474 363 475 361 484 358 500 353 527 406 528 513 531 566 532 564 517 558 483 556 467 559 466 565 464 568 463 567 453 567 434 558 430 553 415 550 385 542 374)\c&H3C3841&}Botanical\NGarden
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardCenterCircle,0,0,0,,{\an7\blur0.63\frz358.7\pos(528,395)\iclip(m 261 364 b 280 397 327 456 347 489 l 244 502 m 383 372 b 372 376 367 411 366 423 363 430 356 442 356 450 351 450 351 465 351 470 354 472 360 474 363 475 361 484 358 500 353 527 406 528 513 531 566 532 564 517 558 483 556 467 559 466 565 464 569 460 562 451 568 436 558 430 553 415 550 385 542 374)\c&H433F46&}Geological\NMuseum
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardRightCircle,0,0,0,,{\an7\blur0.65\pos(677,390)\c&H474449&}J{\c&H4F4B51&}A{\c&H565358&}X{\c&H5E5A60&}A
+Dialogue: 0,0:02:42.10,0:02:47.10,Whiteboard,BoardRightCircle,0,0,0,,{\an7\blur0.65\pos(677,420)\c&H474449&}S{\c&H4A474C&}p{\c&H4E4B4F&}a{\c&H514E52&}c{\c&H555155&}e{\c&H585458&} {\c&H5C585C&}C{\c&H5F5B5F&}e{\c&H635E62&}n{\c&H666165&}t{\c&H6A6568&}e{\c&H6D686B&}r
 Comment: 0,0:02:48.06,0:02:50.77,Signs,BoardTopCircle,0,0,0,,# Endou close-up whiteboard
 Dialogue: 0,0:02:48.06,0:02:50.77,Signs,BoardCircle,0,0,0,,Botanical Garden
 Comment: 0,0:02:53.73,0:02:59.36,Signs,BoardTopCircle,0,0,0,,# Close-up whiteboard
