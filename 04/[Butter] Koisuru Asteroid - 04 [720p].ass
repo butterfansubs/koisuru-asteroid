@@ -30,7 +30,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H00402000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
-Style: Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,1,77,20,120,1
+Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
 Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,41,1
 
 [Events]
@@ -471,8 +471,10 @@ Comment: 10,0:22:04.80,0:22:04.80,Default,chptr,0,0,0,,{ED}ED
 Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
 Dialogue: 10,0:23:36.06,0:23:39.09,Default,Ino,0,0,0,,Next time: "Everyone's Summer Break."
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
-Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Title card
-Dialogue: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,{\fad(1400,1)}04. Exciting! Summer Camp!
+Comment: 0,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,# Title card
+Dialogue: 0,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\1a&HFE&\3a&HFE&\4a&HFF&\t(29,1030,\4a&H00&)\blur6\shad0.01}{Glow}04. Exciting! Summer Camp!
+Dialogue: 1,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\alpha&HFF&\t(29,1030,\alpha&H00&)\bord0\blur0.6\iclip(m 145 584 l 154 583 154 593 144 593 m 264 555 l 274 556 273 565 264 564 m 293 556 l 301 555 301 565 293 565 m 369 584 l 380 583 377 593 369 593 m 775 583 l 787 584 786 593 776 592)}{Text}04. Exciting! Summer Camp!
+Dialogue: 2,0:02:19.36,0:02:22.70,Ep Title,Screen,0,0,0,,{\alpha&HFF&\t(29,1030,\alpha&H00&)\bord0\blur0.6\clip(m 145 584 l 154 583 154 593 144 593 m 264 555 l 274 556 273 565 264 564 m 293 556 l 301 555 301 565 293 565 m 369 584 l 380 583 377 593 369 593 m 775 583 l 787 584 786 593 776 592)}{Dots}04{\1c&H86B1E8&}. Exc{\1c&HD1B3A1&}it{\1c&H88E3C4&}ing{\1c&HC29BE1&}! Summer Camp{\1c&HBC8DB5&}!
 Comment: 0,0:02:19.45,0:02:22.70,Ep Title,Screen,0,0,0,,# Rock sign
 Dialogue: 0,0:02:19.45,0:02:20.99,Signs,Rock,0,0,0,,Geo-specimen Cottage
 Comment: 0,0:02:42.10,0:02:47.10,Signs,BoardLeft,0,0,0,,# Whiteboard
