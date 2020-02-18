@@ -502,9 +502,10 @@ Comment: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,# Poster
 Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\pos(129.973,238.035)\frz-4.76\fax0.08\blur0.7\c&HD5D2D0&}F{\c&HD8D5D3&}a{\c&HDAD8D6&}s{\c&HDDDBD9&}c{\c&HE0DEDC&}i{\c&HE3E1E0&}n{\c&HE5E3E3&}a{\c&HE8E6E6&}t{\c&HEBE9E9&}i{\c&HEDECEC&}n{\c&HF0EFEF&}g
 Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\fax0.04\frz356.3\pos(131.313,257.965)\blur0.7\c&HD5D2D0&}M{\c&HD9D6D4&}i{\c&HDDDAD9&}n{\c&HE1DEDD&}e{\c&HE4E3E2&}r{\c&HE8E7E6&}a{\c&HECEBEB&}l{\c&HF0EFEF&}s
 Comment: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,# Quartz placard
-Dialogue: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
+Dialogue: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs20\blur1\frz0.5438\pos(462,414)}Yamanashi Pref. Stone (Mineral)
 Comment: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,# Quartz placard closeup
-Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,Yamanashi Prefectural Stone (Mineral)
+Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur2\1a&H80&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Extra blur}Yamanashi Pref. Stone (Mineral)
+Dialogue: 1,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur1.2\shad0.01\4c&HFFFFFF&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Text}Yamanashi Pref. Stone (Mineral)
 Comment: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,# Cerasite Placard
 Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,Kyoto Prefectural Stone (Mineral)
 Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,Cherry Blossom \NStone
