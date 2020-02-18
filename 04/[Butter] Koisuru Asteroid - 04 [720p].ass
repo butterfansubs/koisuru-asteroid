@@ -31,7 +31,7 @@ Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,
 Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H00402000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
-Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,41,1
+Style: Next Ep Title,A-Space Light Demo,72,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,2,75,75,125,1
 Style: Whiteboard,Marker SD,30,&H10474449,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Cardboard,Tanuki Permanent Marker,20,&H2C323239,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
@@ -790,4 +790,5 @@ Comment: 0,0:21:25.88,0:21:28.14,Signs,Sign,0,0,0,,{#TL:星がつたえる大地
 Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,# Head cutout VLBI sign (Endou)
 Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,{#TL:星がつたえる大地の動き}\NGSI Tsukuba VLBI Antenna
 Comment: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,# End card
-Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,05.\NEveryone's Summer Break
+Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,{\1a&HFE&\3a&HFE&\blur6\shad0.01}{Glow}Everyone's Summer Break
+Dialogue: 1,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,{\bord0\blur0.8}{Text}Everyone's Summer Break
