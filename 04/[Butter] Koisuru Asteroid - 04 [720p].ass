@@ -33,6 +33,7 @@ Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
 Style: Next Ep Title,Open Sans Semibold,54,&H00FFEBEF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,20,20,41,1
 Style: Whiteboard,Marker SD,30,&H10474449,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Cardboard,Tanuki Permanent Marker,20,&H2C323239,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -526,27 +527,27 @@ Dialogue: 0,0:07:35.93,0:07:42.65,Signs,Paper,0,0,0,,Pseudofossil
 Comment: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,# Fossil labels
 Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Spicules
 Dialogue: 0,0:07:52.32,0:07:55.32,Signs,Paper,0,0,0,,Fish Scale
-Comment: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,# Cardboard signs
-Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignRight,0,0,0,,Info wanted!
-Dialogue: 0,0:09:47.06,0:09:49.02,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:09:49.02,0:09:56.15,Signs,SignRight,0,0,0,,# Cardboard signs
-Dialogue: 0,0:09:49.02,0:09:56.15,Signs,SignRight,0,0,0,,Info wanted!
-Dialogue: 0,0:09:49.02,0:09:56.15,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:10:02.66,0:10:03.41,Signs,SignRight,0,0,0,,# Cardboard sign
-Dialogue: 0,0:10:02.66,0:10:03.41,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:10:04.45,0:10:06.12,Signs,SignRight,0,0,0,,# Cardboard signs
-Dialogue: 0,0:10:04.45,0:10:06.12,Signs,SignRight,0,0,0,,Info wanted!
-Dialogue: 0,0:10:04.45,0:10:06.12,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:09:47.06,0:09:49.02,Cardboard,Signs,0,0,0,,# Cardboard signs
+Dialogue: 0,0:09:47.06,0:09:49.02,Cardboard,AoSign,0,0,0,,{\fs50\frz16.19\fax-0.19\pos(304,300)\blur0.75}Info wanted!
+Dialogue: 0,0:09:47.06,0:09:49.02,Cardboard,MiraSign,0,0,0,,{\fs32\blur0.8\pos(936,186)\frz-0.21\fscy130\b1}Searching for asteroids.
+Comment: 0,0:09:49.02,0:09:56.15,Cardboard,Signs,0,0,0,,# Cardboard signs
+Dialogue: 0,0:09:49.02,0:09:56.15,Cardboard,AoSign,0,0,0,,{\fs4\blur0.55\pos(616,305)}Info wanted!
+Dialogue: 0,0:09:49.02,0:09:56.15,Cardboard,MiraSign,0,0,0,,{\fs2\blur0.55\pos(696,313)\frz-1.55}Searching for asteroids.
+Comment: 0,0:10:02.66,0:10:03.41,Cardboard,Signs,0,0,0,,# Cardboard sign
+Dialogue: 0,0:10:02.66,0:10:03.41,Cardboard,MiraSign,0,0,0,,{\fs3\blur0.7\frz0.5\pos(696,485)}Searching for asteroids.
+Comment: 0,0:10:04.45,0:10:06.12,Cardboard,Signs,0,0,0,,# Cardboard signs
+Dialogue: 0,0:10:04.45,0:10:06.12,Cardboard,AoSign,0,0,0,,{\fs5\blur0.75\frz4.18\pos(512,485)}Info wanted!
+Dialogue: 0,0:10:04.45,0:10:06.12,Cardboard,MiraSign,0,0,0,,{\fs3\blur0.7\pos(651,487)\frz10.93}Searching for asteroids.
 Comment: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,# Missed calls
 Dialogue: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call
-Comment: 0,0:13:20.11,0:13:25.32,Signs,SignRight,0,0,0,,# Cardboard sign
-Dialogue: 0,0:13:20.11,0:13:25.32,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:13:25.32,0:13:26.95,Signs,SignRight,0,0,0,,# Cardboard sign
-Dialogue: 0,0:13:25.32,0:13:26.95,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:14:43.77,0:14:46.40,Signs,SignRight,0,0,0,,# Cardboard sign
-Dialogue: 0,0:14:43.77,0:14:46.40,Signs,SignLeft,0,0,0,,Searching for asteroids.
-Comment: 0,0:14:46.40,0:14:50.36,Signs,SignRight,0,0,0,,# Cardboard sign
-Dialogue: 0,0:14:46.40,0:14:50.36,Signs,SignLeft,0,0,0,,Searching for asteroids.
+Comment: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,# Cardboard sign
+Dialogue: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,{\fs13\b1\blur0.8\pos(962,609)\frz0.54\c&H3A3556&}Searching for asteroids.
+Comment: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,# Cardboard sign
+Dialogue: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
+Comment: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,# Cardboard sign
+Dialogue: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,{\fs39\frz6.38\fax-0.1\pos(612,160)\b1\c&H342948&\blur0.7\1a&H2C&}Searching for asteroids.
+Comment: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,# Cardboard sign
+Dialogue: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
 Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,# Shining Star Challenge flyer
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Shining Star\N{\c&H855E22&}Challenge
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Recruiting Now
