@@ -549,8 +549,30 @@ Dialogue: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,{\fs39\frz6.38\fax-0
 Comment: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
 Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,# Shining Star Challenge flyer
-Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Shining Star\N{\c&H855E22&}Challenge
-Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,Recruiting Now
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H817675&\3c&H817675&\bord7\fnRiffic\b1\fs48\fsp8\fscy110\fax0.07\frz1.027\blur0.8\pos(474,156)}{Light border}Shining Star
+Dialogue: 1,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H29232C&\3c&H29232C&\bord3.5\fnRiffic\b1\fs48\fsp8\fscy110\fax0.07\frz1.027\blur0.5\pos(474,156)}{Dark border}Shining Star
+Dialogue: 2,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H377978&\fnRiffic\b1\fs48\fsp8\fscy110\fax0.07\frz1.027\blur0.8\pos(474,156)}{Text}Shining Star
+Dialogue: 3,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord2\fnRiffic\b1\fs60\fsp8\blur0.5\p1\fscx80\fscy80\p1\pos(481.572,157.44)}{g star border}m -1 -8 b 0 -7 2 -5 3 -3 4 -3 7 -3 9 -3 8 -2 7 1 6 2 6 4 7 6 6 8 3 7 1 5 0 4 -1 5 -3 7 -5 7 -6 6 -5 3 -5 2 -6 2 -9 0 -10 -1 -8 -2 -6 -3 -3 -2 -4 -5 -2 -7 -1 -8
+Dialogue: 4,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord0\fnRiffic\b1\fs60\fsp8\blur0.8\fscx100\fscy100\p1\fscx80\fscy80\p1\pos(481.572,157.44)}{g star fill}m -1 -8 b 0 -7 2 -5 3 -3 4 -3 7 -3 9 -3 8 -2 7 1 6 2 6 4 7 6 6 8 3 7 1 5 0 4 -1 5 -3 7 -5 7 -6 6 -5 3 -5 2 -6 2 -9 0 -10 -1 -8 -2 -6 -3 -3 -2 -4 -5 -2 -7 -1 -8
+Dialogue: 3,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord2\fnRiffic\b1\fs60\fsp8\blur0.5\fscx24\fscy28\fax0.1\p1\pos(588.429,156.297)}{a star border}m -4 -23 b 0 -20 7 -13 12 -9 16 -10 29 -11 35 -10 32 -7 26 1 23 5 25 9 30 17 31 22 22 20 9 13 4 11 -3 14 -17 21 -23 23 -25 19 -22 13 -20 10 -26 7 -36 2 -39 -1 -33 -5 -21 -7 -14 -7 -15 -12 -10 -19 -5 -24
+Dialogue: 4,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord0\fnRiffic\b1\fs60\fsp8\blur0.8\fscx20\fscy28\fax0.1\p1\pos(588.429,156.297)}{a star fill}m -4 -23 b 0 -20 7 -13 12 -9 16 -10 29 -11 35 -10 32 -7 26 1 23 5 25 9 30 17 31 22 22 20 9 13 4 11 -3 14 -17 21 -23 23 -25 19 -22 13 -20 10 -26 7 -36 2 -39 -1 -33 -5 -21 -7 -14 -7 -15 -12 -10 -19 -5 -24
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H8F726A&\3c&H8F726A&\fnRiffic\b1\fs48\fsp8\fscy110\frz3.766\blur0.7\bord8\pos(930,524)}{Light border}Challenge
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H381C1C&\3c&H381C1C&\fnRiffic\b1\fs48\fsp8\fscy110\frz3.766\blur0.7\bord4\pos(930,524)}{Dark border}Challenge
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H895B25&\fnRiffic\b1\fs48\fsp8\fscy110\frz3.766\blur0.7\pos(930,524)}{Text}Challenge
+Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H8F8988&\3c&H8F8988&\bord7\fnRiffic\b1\fs60\fsp8\fscy110\fax0.07\frz1.027\blur0.8\pos(554,349)}{White}Shining Star
+Comment: 1,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H29232C&\3c&H29232C&\bord3.5\fnRiffic\b1\fs60\fsp8\fscy110\fax0.07\frz1.027\blur0.5\pos(554,349)}{Border}Shining Star
+Comment: 2,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H377E7D&\fnRiffic\b1\fs60\fsp8\fscy110\fax0.07\frz1.027\blur0.8\pos(554,349)}{Text}Shining Star
+Comment: 3,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord2\fnRiffic\b1\fs60\fsp8\blur0.5\fscx100\fscy100\p1\fscx100\fscy100\p1\pos(562.572,350.44)}{g star border}m -1 -8 b 0 -7 2 -5 3 -3 4 -3 7 -3 9 -3 8 -2 7 1 6 2 6 4 7 6 6 8 3 7 1 5 0 4 -1 5 -3 7 -5 7 -6 6 -5 3 -5 2 -6 2 -9 0 -10 -1 -8 -2 -6 -3 -3 -2 -4 -5 -2 -7 -1 -8
+Comment: 4,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord0\fnRiffic\b1\fs60\fsp8\blur0.8\fscx100\fscy100\p1\fscx100\fscy100\p1\pos(562.572,350.44)}{g star fill}m -1 -8 b 0 -7 2 -5 3 -3 4 -3 7 -3 9 -3 8 -2 7 1 6 2 6 4 7 6 6 8 3 7 1 5 0 4 -1 5 -3 7 -5 7 -6 6 -5 3 -5 2 -6 2 -9 0 -10 -1 -8 -2 -6 -3 -3 -2 -4 -5 -2 -7 -1 -8
+Comment: 3,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord2\fnRiffic\b1\fs60\fsp8\blur0.5\fscx30\fscy35\fax0.1\p1\pos(689.429,349.297)}{a star border}m -4 -23 b 0 -20 7 -13 12 -9 16 -10 29 -11 35 -10 32 -7 26 1 23 5 25 9 30 17 31 22 22 20 9 13 4 11 -3 14 -17 21 -23 23 -25 19 -22 13 -20 10 -26 7 -36 2 -39 -1 -33 -5 -21 -7 -14 -7 -15 -12 -10 -19 -5 -24
+Comment: 4,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\an7\c&H52358B&\3c&H29232C&\bord0\fnRiffic\b1\fs60\fsp8\blur0.8\fscx25\fscy35\fax0.1\p1\pos(689.429,349.297)}{a star fill}m -4 -23 b 0 -20 7 -13 12 -9 16 -10 29 -11 35 -10 32 -7 26 1 23 5 25 9 30 17 31 22 22 20 9 13 4 11 -3 14 -17 21 -23 23 -25 19 -22 13 -20 10 -26 7 -36 2 -39 -1 -33 -5 -21 -7 -14 -7 -15 -12 -10 -19 -5 -24
+Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H917569&\3c&H917569&\fnRiffic\b1\fs55\fsp8\fscy110\frz3.766\blur0.8\bord7\pos(902,497)\fax0.05}Challenge
+Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H41241F&\3c&H41241F&\fnRiffic\b1\fs55\fsp8\fscy110\frz3.766\blur0.8\bord3.5\pos(902,497)\fax0.05}Challenge
+Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H895B25&\fnRiffic\b1\fs55\fsp8\fscy110\frz3.766\blur0.8\pos(902,497)\fax0.05}Challenge
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz1.59\an5\pos(621.6,656.2)\fax0.05}Applic
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz2.56\an5\pos(687.9,653.7)\fax0.03}ations
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz4.09\an5\pos(752.6,650.2)\fax0}Now
+Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz4.54\an5\pos(812.1,645.7)\fax-0.02}Open
 Comment: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,# Shining Star Challenge phone
 Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,New Astronomical Object Discovery \NProgram for High Schoolers\N{\fs30}Shining Star Challenge
 Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event are closed.
