@@ -34,6 +34,7 @@ Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F4
 Style: Next Ep Title,A-Space Light Demo,72,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,2,75,75,125,1
 Style: Whiteboard,Marker SD,30,&H10474449,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Cardboard,Tanuki Permanent Marker,20,&H2C323239,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Phone,Rexlia,16,&H104E4047,&H000000FF,&H104E4047,&H104E4047,0,0,0,0,80,100,0.5,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -604,7 +605,22 @@ Comment: 0,0:10:04.45,0:10:06.12,Cardboard,Signs,0,0,0,,# Cardboard signs
 Dialogue: 0,0:10:04.45,0:10:06.12,Cardboard,AoSign,0,0,0,,{\fs5\blur0.75\frz4.18\pos(512,485)}Info wanted!
 Dialogue: 0,0:10:04.45,0:10:06.12,Cardboard,MiraSign,0,0,0,,{\fs3\blur0.7\pos(651,487)\frz10.93}Searching for asteroids.
 Comment: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,# Missed calls
-Dialogue: 0,0:10:12.80,0:10:15.01,Signs,Endou,0,0,0,,Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call\N\N{\fs21}Grandpa\N{\fs18}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\frz1.3\fax0.36\fs12\blur0.9\1a&H80&\pos(384.199,194.457)}PHONE
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\frz1.3\fax0.36\fs16\blur0.65\pos(405.2,211.6)}Grandpa
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\frz1.3\fax0.38\fs14\blur0.65\pos(410.35,223.867)}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs12\blur0.9\1a&H80&\pos(398.2,251.46)\frz1.858}PHONE
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs16\blur0.65\pos(419.2,268.6)\frz1.858}Grandpa
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(424.35,280.87)\frz1.858}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs12\blur0.9\1a&H80&\pos(414.167,309.189)\frz2.989}PHONE
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs16\blur0.65\pos(435.167,326.329)\frz2.989}Grandpa
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(440.317,338.599)\frz2.989}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs12\blur0.9\1a&H80&\pos(428.82,367.883)\frz2.973}PHONE
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs16\blur0.65\pos(449.82,385.023)\frz2.973}Grandpa
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(454.97,397.293)\frz2.973}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs12\blur0.9\1a&H80&\pos(442.82,426.84)\frz3.488}PHONE
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs16\blur0.65\pos(463.82,443.98)\frz3.488}Grandpa
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(468.97,456.25)\frz3.488}Missed Call
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\an2\fax0.26\fs14\blur0.65\c&HF0E3E1&\1a&H10&\frz3.553\pos(562.97,511.583)}Press home to unlock
 Comment: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,{\fs13\b1\blur0.8\pos(962,609)\frz0.54\c&H3A3556&}Searching for asteroids.
 Comment: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,# Cardboard sign
