@@ -1118,9 +1118,13 @@ Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz4.09\an5\pos(752.6,650.2)\fax0}Now
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H7F665E&\3c&H7F665E&\4c&H7F665E&\1a&HFE&\3a&HFE&\shad0.01\fnCabin\fs30\b1\bord1.5\blur1\frz4.54\an5\pos(812.1,645.7)\fax-0.02}Open
 Comment: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,# Shining Star Challenge phone
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,New Astronomical Object Discovery \NProgram for High Schoolers\N{\fs30}Shining Star Challenge
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Applications for this event are closed.
-Dialogue: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,Add to list
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\pos(379.943,177.061)\frz15.39\fs40\blur0.75\c&H755A5F&\1a&H18&}S{\fax0.08}h{\fax0.08}i{\fax0.08}n{\fax0.08}i{\fax0.08}n{\fax0.09}g{\fax0.09} {\fax0.09}S{\fax0.09}t{\fax0.09}a{\fax0.09}r{\fax0.09} {\fax0.09}C{\fax0.09}h{\fax0.09}a{\fax0.1}l{\fax0.1}l{\fax0.1}e{\fax0.1}n{\fax0.1}g{\fax0.1}e
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\fs16\pos(390.351,204.545)\c&H755A5F&\1a&H10&\blur0.65\frz15.5}New astronomical object discovery program
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\fs16\pos(396.315,222.25)\frz15.33\c&H755A5F&\1a&H10&\blur0.65}Open to high school students
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\fax0.15\blur0.65\pos(432.2,251.333)\1a&H28&\frz15.2}R{\fax0.15}egistration for th{\fax0.16}is event is closed.
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an5\fax0.08\pos(700,385.2)\frz16.16\blur0.6\c&H755A5F&\1a&H18&}Add to list
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an1\fax0.08\blur0.6\c&HCDD7B1&\frz16.91\pos(520,521)}Add to smart calendar
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an1\fax0.08\blur0.6\c&HCDD7B1&\pos(738.4,458.6)\frz16.79}Add to calendar app
 Comment: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,# Tsukuba VLBI Antenna poster
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\blur4.5\p1\c&HEDECEE&\clip(468,40,470,94)}m -6 -20 l 400 -20 400 18 -6 18
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\blur4.5\p1\c&HEDECEE&\clip(470,40,472,94)}m -6 -20 l 400 -20 400 18 -6 18
