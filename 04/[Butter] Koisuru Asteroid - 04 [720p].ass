@@ -1101,7 +1101,7 @@ Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos
 Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs12\blur0.9\1a&H80&\pos(442.82,426.84)\frz3.488}PHONE
 Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs16\blur0.65\pos(463.82,443.98)\frz3.488}Grandpa
 Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(468.97,456.25)\frz3.488}Missed Call
-Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\an2\fax0.26\fs14\blur0.65\c&HF0E3E1&\1a&H10&\frz3.553\pos(562.97,511.583)}Press home to unlock
+Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\an2\fax0.26\fs14\blur0.70\c&HF0E3E1&\1a&H10&\frz3.553\pos(562.97,511.583)}Press home to unlock
 Comment: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,{\fs13\b1\blur0.85\pos(962,609)\frz0.54\c&H3A3556&}Searching for asteroids.
 Comment: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,# Cardboard sign
