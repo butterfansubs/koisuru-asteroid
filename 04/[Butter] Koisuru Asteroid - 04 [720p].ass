@@ -1109,7 +1109,25 @@ Dialogue: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,Searching for astero
 Comment: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,{\fs39\fax-0.1\pos(612,160)\b1\c&H342948&\blur0.7\1a&H2C&\frz7.186}Searching for asteroids.
 Comment: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,# Cardboard sign
-Dialogue: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
+Dialogue: 0,0:14:46.40,0:14:46.53,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.67,366)}Searching for asteroids.
+Dialogue: 0,0:14:46.53,0:14:46.65,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.35,360.35)}Searching for asteroids.
+Dialogue: 0,0:14:46.65,0:14:46.78,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.03,363.17)}Searching for asteroids.
+Dialogue: 0,0:14:46.78,0:14:46.90,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.66,366.01)}Searching for asteroids.
+Dialogue: 0,0:14:46.90,0:14:47.03,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.35,360.36)}Searching for asteroids.
+Dialogue: 0,0:14:47.03,0:14:47.15,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.67,366)}Searching for asteroids.
+Dialogue: 0,0:14:47.15,0:14:47.28,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.03,363.17)}Searching for asteroids.
+Dialogue: 0,0:14:47.28,0:14:47.40,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.34,360.37)}Searching for asteroids.
+Dialogue: 0,0:14:47.40,0:14:47.53,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.66,366.01)}Searching for asteroids.
+Dialogue: 0,0:14:47.53,0:14:47.65,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.34,360.37)}Searching for asteroids.
+Dialogue: 0,0:14:47.65,0:14:47.78,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.03,363.18)}Searching for asteroids.
+Dialogue: 0,0:14:47.78,0:14:47.90,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.34,360.37)}Searching for asteroids.
+Dialogue: 0,0:14:47.90,0:14:48.03,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.03,363.18)}Searching for asteroids.
+Dialogue: 0,0:14:48.03,0:14:48.15,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.66,366)}Searching for asteroids.
+Dialogue: 0,0:14:48.15,0:14:48.28,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.34,360.38)}Searching for asteroids.
+Dialogue: 0,0:14:48.28,0:14:48.40,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.66,366)}Searching for asteroids.
+Dialogue: 0,0:14:48.40,0:14:48.53,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.02,363.16)}Searching for asteroids.
+Dialogue: 0,0:14:48.53,0:14:48.65,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(448.66,366)}Searching for asteroids.
+Dialogue: 0,0:14:48.65,0:14:50.36,Cardboard,MiraSign,0,0,0,,{=0}{\fs8.5\fscx90\blur0.7\b1\c&H3C4065&\frz359.6\pos(447.35,360.36)}Searching for asteroids.
 Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,# Shining Star Challenge flyer
 Dialogue: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H817675&\3c&H817675&\bord7\fnRiffic\b1\fs48\fsp8\fscy110\fax0.07\frz1.027\blur0.8\pos(474,156)}{Light border}Shining Star
 Dialogue: 1,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,{\c&H29232C&\3c&H29232C&\bord3.5\fnRiffic\b1\fs48\fsp8\fscy110\fax0.07\frz1.027\blur0.5\pos(474,156)}{Dark border}Shining Star
@@ -1358,3 +1376,6 @@ Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,{#TL:星がつたえる大地
 Comment: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,# End card
 Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,{\1a&HFE&\3a&HFE&\blur6\shad0.01}{Glow}Everyone's Summer Break
 Dialogue: 1,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,{\bord0\blur0.8}{Text}Everyone's Summer Break
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"bf0af241-2897-473a-99d7-bdc13c654a1d"#2C"originalText"#3A"{\\fs8.5\\fscx90\\blur0.7\\b1\\c&H3C4065&\\frz359.6\\pos(448.667#2C366)}Searching for asteroids."}
