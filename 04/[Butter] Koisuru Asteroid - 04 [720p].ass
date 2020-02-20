@@ -523,7 +523,7 @@ Comment: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,# Quartz placard closeup
 Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur2\1a&H80&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Extra blur}Yamanashi Pref. Stone (Mineral)
 Dialogue: 1,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur1.2\shad0.01\4c&HFFFFFF&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Text}Yamanashi Pref. Stone (Mineral)
 Comment: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,# Cerasite Placard
-Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs21\blur0.85\fax0.03\shad0.01\4c&HFFFFFF&\c&HF0D9F7&\frz4.232\pos(403,326)}{Text}Kyoto Pref. Stone (Mineral)
+Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs21\blur0.95\fax0.03\shad0.01\4c&HFFFFFF&\c&HF0D9F7&\frz4.232\pos(403,326)}{Text}Kyoto Pref. Stone (Mineral)
 Comment: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,# Cerasite Placard
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs32\blur2\c&HF0DFF7&\1a&H80&\pos(380,379)\frz0.08173}{Extra blur}Kyoto Pref. Stone (Mineral)
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs32\blur1.3\shad0.01\4c&HFFFFFF&\c&HE5C8F1&\pos(380,379)\frz0.08173}{Text}Kyoto Pref. Stone (Mineral)
@@ -534,8 +534,8 @@ Dialogue: 0,0:05:46.82,0:05:50.83,Signs,Book,0,0,0,,{\an7\p1\c&H8BF6F7&\blur1\po
 Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\an4\fs9\blur0.6\frz-91.12\c&H295E9E&\pos(637.889,557.889)}{Spine}Fun with Fossils
 Dialogue: 0,0:05:46.82,0:05:50.83,Signs,Book,0,0,0,,{\an7\p1\c&H8BF6F7&\blur1\pos(0,0)}{Cover mask}m 646 557 b 646 557 646 579 646 579 b 646 579 701 569.6 701 569.6 b 701 569.6 721 566 721 566 b 721 566 743 562.7 743 562.7 b 743 562.7 751.4 560.4 751.4 560.4 b 751.4 560.4 753 553 753 553 b 753 553 754 539 754 539 b 754 539 725 543.9 725 543.9 b 725 543.9 674 552.1 674 552.1 b 674 552.1 646 557 646 557
 Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\pos(702,560)\frz9.31\fax-0.21\blur0.75}{Cover}F{\fax-0.21}u{\fax-0.22}n {\fax-0.22}w{\fax-0.23}i{\fax-0.23}t{\fax-0.23}h {\fax-0.24}F{\fax-0.24}o{\fax-0.25}s{\fax-0.25}s{\fax-0.25}i{\fax-0.26}l{\fax-0.26}s
-Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\an6\fax-0.34\blur1\c&H245374&\fs3.75\frz9.561\pos(698.464,573.405)}Author, Illustrator: Tanaka Hanako
-Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\an4\fax-0.34\blur1\c&H245374&\fs3.75\frz10.1\pos(702.235,572.785)}Editor: Yamada Tarou
+Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\an6\fax-0.34\blur1\c&H245374&\fs3.75\pos(698.464,573.405)\frz9.595}Author, Illustrator: Tanaka Hanako
+Dialogue: 0,0:05:46.82,0:05:50.83,Fun with Fossils,Book,0,0,0,,{\an4\fax-0.34\blur1\c&H245374&\fs3.75\frz10.1\pos(702.235,573.105)}Editor: Yamada Tarou
 Comment: 0,0:05:50.83,0:05:52.79,Signs,Book,0,0,0,,# Fun with Fossils book
 Dialogue: 0,0:05:50.83,0:05:52.79,Signs,Book,0,0,0,,{\an7\pos(0,0)\p1\c&H8EF8F6&\clip(574,282,632,284)}m 583 295 b 583 295 583 299 583 299 b 583 299 582 313 582 313 b 582 313 583 336 583 336 b 583 336 583 347 583 347 b 583 347 584 361 584 361 b 584 361 585 401 585 401 b 585 401 586 416 586 416 b 586 416 586 430 586 430 b 586 430 587 442 587 442 b 587 442 587 458 587 458 b 587 458 588 470 588 470 b 588 470 588 485 588 485 b 588 485 589 500 589 500 b 589 500 589 520 589 520 b 589 520 590 531 590 531 b 590 531 590 545 590 545 b 590 545 591 562 591 562 b 591 562 591 586 591 586 b 591 586 625 586 625 586 b 625 586 625 542 625 542 b 625 542 624 525 624 525 b 624 525 624 489 624 489 b 624 489 623 472 623 472 b 623 472 623 433 623 433 b 623 433 622 416 622 416 b 622 416 622 388 622 388 b 622 388 621 372 621 372 b 621 372 621 335 621 335 b 621 335 620 320 620 320 b 620 320 620 304 620 304 b 620 301.8 620.2 298.2 619 296.4 b 617.4 294.2 614.5 294.1 612 294 b 612 294 597 295 597 295 b 597 295 583 295 583 295
 Dialogue: 0,0:05:50.83,0:05:52.79,Signs,Book,0,0,0,,{\an7\pos(0,0)\p1\c&H8EF8F6&\clip(574,284,632,286)}m 583 295 b 583 295 583 299 583 299 b 583 299 582 313 582 313 b 582 313 583 336 583 336 b 583 336 583 347 583 347 b 583 347 584 361 584 361 b 584 361 585 401 585 401 b 585 401 586 416 586 416 b 586 416 586 430 586 430 b 586 430 587 442 587 442 b 587 442 587 458 587 458 b 587 458 588 470 588 470 b 588 470 588 485 588 485 b 588 485 589 500 589 500 b 589 500 589 520 589 520 b 589 520 590 531 590 531 b 590 531 590 545 590 545 b 590 545 591 562 591 562 b 591 562 591 586 591 586 b 591 586 625 586 625 586 b 625 586 625 542 625 542 b 625 542 624 525 624 525 b 624 525 624 489 624 489 b 624 489 623 472 623 472 b 623 472 623 433 623 433 b 623 433 622 416 622 416 b 622 416 622 388 622 388 b 622 388 621 372 621 372 b 621 372 621 335 621 335 b 621 335 620 320 620 320 b 620 320 620 304 620 304 b 620 301.8 620.2 298.2 619 296.4 b 617.4 294.2 614.5 294.1 612 294 b 612 294 597 295 597 295 b 597 295 583 295 583 295
@@ -1097,11 +1097,11 @@ Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.36\fs16\blur0.65\pos
 Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\fax0.38\fs14\blur0.65\pos(468.97,456.25)\frz3.488}Missed Call
 Dialogue: 0,0:10:12.80,0:10:15.01,Phone,Endou,0,0,0,,{\an2\fax0.26\fs14\blur0.65\c&HF0E3E1&\1a&H10&\frz3.553\pos(562.97,511.583)}Press home to unlock
 Comment: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,# Cardboard sign
-Dialogue: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,{\fs13\b1\blur0.8\pos(962,609)\frz0.54\c&H3A3556&}Searching for asteroids.
+Dialogue: 0,0:13:20.11,0:13:25.32,Cardboard,MiraSign,0,0,0,,{\fs13\b1\blur0.85\pos(962,609)\frz0.54\c&H3A3556&}Searching for asteroids.
 Comment: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:13:25.32,0:13:26.95,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
 Comment: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,# Cardboard sign
-Dialogue: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,{\fs39\frz6.38\fax-0.1\pos(612,160)\b1\c&H342948&\blur0.7\1a&H2C&}Searching for asteroids.
+Dialogue: 0,0:14:43.77,0:14:46.40,Cardboard,MiraSign,0,0,0,,{\fs39\fax-0.1\pos(612,160)\b1\c&H342948&\blur0.7\1a&H2C&\frz7.186}Searching for asteroids.
 Comment: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,# Cardboard sign
 Dialogue: 0,0:14:46.40,0:14:50.36,Cardboard,MiraSign,0,0,0,,Searching for asteroids.
 Comment: 0,0:17:44.79,0:17:46.75,Signs,Flyer,0,0,0,,# Shining Star Challenge flyer
@@ -1133,8 +1133,8 @@ Comment: 0,0:18:13.98,0:18:18.11,Signs,Phone,0,0,0,,# Shining Star Challenge pho
 Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\pos(379.943,177.061)\frz15.39\fs40\blur0.75\c&H755A5F&\1a&H18&}S{\fax0.08}h{\fax0.08}i{\fax0.08}n{\fax0.08}i{\fax0.08}n{\fax0.09}g{\fax0.09} {\fax0.09}S{\fax0.09}t{\fax0.09}a{\fax0.09}r{\fax0.09} {\fax0.09}C{\fax0.09}h{\fax0.09}a{\fax0.1}l{\fax0.1}l{\fax0.1}e{\fax0.1}n{\fax0.1}g{\fax0.1}e
 Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\fs16\pos(390.351,204.545)\c&H755A5F&\1a&H10&\blur0.65\frz15.5}New astronomical object discovery program
 Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an4\fax0.08\fs16\pos(396.315,222.25)\frz15.33\c&H755A5F&\1a&H10&\blur0.65}Open to high school students
-Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\fax0.15\blur0.65\pos(432.2,251.333)\1a&H28&\frz15.2}R{\fax0.15}egistration for th{\fax0.16}is event is closed.
-Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an5\fax0.08\pos(700,385.2)\frz16.16\blur0.6\c&H755A5F&\1a&H18&}Add to list
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\fax0.15\blur0.65\pos(432.2,251.333)\1a&H30&\frz15.2}R{\fax0.15}egistration for th{\fax0.16}is event is closed.
+Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an5\fax0.08\pos(700,385.2)\frz16.16\blur0.7\c&H755A5F&\1a&H1C&}Add to list
 Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an1\fax0.08\blur0.6\c&HCDD7B1&\frz16.91\pos(520,521)}Add to smart calendar
 Dialogue: 0,0:18:13.98,0:18:18.11,Phone,Phone,0,0,0,,{\an1\fax0.08\blur0.6\c&HCDD7B1&\pos(738.4,458.6)\frz16.79}Add to calendar app
 Comment: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,# Tsukuba VLBI Antenna poster
