@@ -47,12 +47,12 @@ Dialogue: 10,0:00:10.40,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer c
 Dialogue: 10,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA!\NEndou-sensei suggested it.
 Dialogue: 10,0:00:19.04,0:00:23.00,Default,Suzu&Screen,0,0,0,,{\i1}Wow, sounds nice!\NHave enough fun for me, too.
 Dialogue: 10,0:00:23.00,0:00:25.75,Default,Suzu&Screen,0,0,0,,{\i1}Oh, and sneak pictures of\Neveryone's sleeping faces!
-Dialogue: 10,0:00:29.09,0:00:30.71,Default,Mira,0,0,0,,Look, a rocket!
-Dialogue: 10,0:00:31.97,0:00:35.34,Default,Endou,0,0,0,,That's the Expo Center's life-size model.
-Dialogue: 10,0:00:35.97,0:00:38.60,Default,Monroe,0,0,0,,Do you know this area well?
+Dialogue: 10,0:00:28.84,0:00:30.71,Default,Mira,0,0,0,,Look, a rocket!
+Dialogue: 10,0:00:31.92,0:00:35.34,Default,Endou,0,0,0,,That's the Expo Center's life-size model.
+Dialogue: 10,0:00:35.93,0:00:38.60,Default,Monroe,0,0,0,,Do you know this area well?
 Dialogue: 10,0:00:38.60,0:00:39.72,Default,Endou,0,0,0,,Kinda, yeah.
-Dialogue: 10,0:00:39.72,0:00:41.52,Default,Endou,0,0,0,,I lived here in my high school days.
-Dialogue: 10,0:00:41.52,0:00:42.68,Default,Mira,0,0,0,,Hey, what's that?
+Dialogue: 10,0:00:39.72,0:00:41.43,Default,Endou,0,0,0,,I lived here in my high school days.
+Dialogue: 10,0:00:41.43,0:00:42.68,Default,Mira,0,0,0,,Hey, what's that?
 Dialogue: 10,0:00:42.68,0:00:44.52,Default,Mira,0,0,0,,That car's like a robot!
 Dialogue: 10,0:00:44.52,0:00:48.02,Default,Endou,0,0,0,,Hey, keep it down! You made me miss our turn!
 Comment: 10,0:00:49.02,0:00:49.02,Default,chptr,0,0,0,,{OP}OP
@@ -60,8 +60,8 @@ Comment: 10,0:02:18.99,0:02:18.99,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 10,0:02:21.24,0:02:22.70,Default,All,0,0,0,,{\an8}We're here!
 Dialogue: 10,0:02:22.95,0:02:24.95,Default,Monroe,0,0,0,,You're restless for once.
 Dialogue: 10,0:02:24.95,0:02:26.83,Default,Sakura,0,0,0,,I'm not acting any different.
-Dialogue: 10,0:02:26.83,0:02:29.35,Default,Sakura,0,0,0,,I see rock samples in books all the time, after all.
-Dialogue: 10,0:02:29.35,0:02:31.97,Default,Mira,0,0,0,,Senpai, Senpai, look at this! It's amazing!
+Dialogue: 10,0:02:26.83,0:02:29.33,Default,Sakura,0,0,0,,I see rock samples in books all the time, after all.
+Dialogue: 10,0:02:29.33,0:02:31.97,Default,Mira,0,0,0,,Senpai, Senpai, look at this! It's amazing!
 Dialogue: 10,0:02:31.97,0:02:32.96,Default,Sakura,0,0,0,,What is it?
 Dialogue: 10,0:02:33.21,0:02:35.09,Default,Mira,0,0,0,,A molted praying mantis shell!
 Dialogue: 10,0:02:35.09,0:02:36.80,Default,Monroe,0,0,0,,Oh, how cute!
