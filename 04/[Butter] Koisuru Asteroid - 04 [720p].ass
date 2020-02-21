@@ -66,8 +66,8 @@ Dialogue: 10,0:02:31.97,0:02:32.96,Default,Sakura,0,0,0,,What is it?
 Dialogue: 10,0:02:33.21,0:02:35.09,Default,Mira,0,0,0,,A molted praying mantis shell!
 Dialogue: 10,0:02:35.09,0:02:36.80,Default,Monroe,0,0,0,,Oh, how cute!
 Dialogue: 10,0:02:37.30,0:02:38.30,Default,Mira,0,0,0,,Ow, ow!
-Dialogue: 10,0:02:38.30,0:02:40.16,Default,Sakura,0,0,0,,Darn you people!
-Dialogue: 10,0:02:38.80,0:02:40.16,Alternate,Mira,0,0,0,,What did I do?!
+Dialogue: 10,0:02:38.30,0:02:40.16,Alternate,Sakura,0,0,102,,Darn you people!
+Dialogue: 10,0:02:38.80,0:02:40.16,Default,Mira,0,0,0,,What did I do?!
 Dialogue: 10,0:02:40.16,0:02:42.10,Default,Endou,0,0,0,,Good grief.
 Dialogue: 10,0:02:42.60,0:02:47.10,Default,Monroe,0,0,0,,Endou-sensei has a nice proposal\Nfor our summer camp.
 Dialogue: 10,0:02:48.81,0:02:50.77,Default,Endou,0,0,0,,Want to go to my grandma's place?
