@@ -533,7 +533,7 @@ Comment: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,# Quartz placard closeup
 Dialogue: 0,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur2\1a&H80&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Extra blur}Yamanashi Pref. Stone (Mineral)
 Dialogue: 1,0:03:53.25,0:03:55.25,Signs,Placard,0,0,0,,{\fnOpen Sans\an4\fs32\blur1.2\shad0.01\4c&HFFFFFF&\frz0.5438\pos(311,274)\c&HD6DCEB&}{Text}Yamanashi Pref. Stone (Mineral)
 Comment: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,# Cerasite Placard
-Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs21\blur1\fax0.03\shad0.01\4c&HFFFFFF&\c&HF0D9F7&\frz4.232\pos(403,326)}{Text}Kyoto Pref. Stone (Mineral)
+Dialogue: 0,0:04:00.26,0:04:02.47,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs21\fscx99\blur1\shad0.01\4c&HFFFFFF&\c&HF0D9F7&\pos(403,326)\frz4.473}Kyoto Pref. Stone (Mineral)
 Comment: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,# Cerasite Placard
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs32\blur2\c&HF0DFF7&\1a&H80&\pos(380,379)\frz0.08173}{Extra blur}Kyoto Pref. Stone (Mineral)
 Dialogue: 0,0:04:02.47,0:04:04.43,Signs,Placard,0,0,0,,{\fnOpen Sans Semibold\an4\fs32\blur1.3\shad0.01\4c&HFFFFFF&\c&HE5C8F1&\pos(380,379)\frz0.08173}{Text}Kyoto Pref. Stone (Mineral)
