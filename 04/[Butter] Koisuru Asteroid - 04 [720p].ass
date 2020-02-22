@@ -525,6 +525,8 @@ Dialogue: 0,0:03:03.57,0:03:03.70,Whiteboard,BoardLeftCircle,0,0,0,,{\an7\blur0.
 Dialogue: 0,0:03:03.70,0:03:03.83,Whiteboard,BoardLeftCircle,0,0,0,,{\an7\blur0.7\frz2.742\c&H3F3B43&\pos(297,404)\clip(m 382 418 b 389 434 387 445 384 474 l 483 411 446 356 380 383)}Botanical\NGarden
 Dialogue: 0,0:03:03.83,0:03:05.03,Whiteboard,BoardLeftCircle,0,0,0,,{\an7\blur0.7\frz2.742\c&H3F3B43&\pos(297,404)\clip(m 383 386 b 385 403 386 415 385 426 388 443 389 457 385 474 l 483 411 446 356)}Botanical\NGarden
 Comment: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,# Poster
+Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\pos(129.973,238.035)\frz-4.76\fax0.08\blur10\c&HB08D4A&}F{\c&HB29150&}a{\c&HB59556&}s{\c&HB7995B&}c{\c&HBA9D61&}i{\c&HBCA267&}n{\c&HBEA66D&}a{\c&HC1AA73&}t{\c&HC3AE78&}i{\c&HC6B27E&}n{\c&HC8B684&}g
+Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\fax0.04\frz356.3\pos(131.313,257.965)\blur10\c&HB08D4A&}M{\c&HB39352&}i{\c&HB7995B&}n{\c&HBA9F63&}e{\c&HBEA46B&}r{\c&HC1AA73&}a{\c&HC5B07C&}l{\c&HC8B684&}s
 Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\pos(129.973,238.035)\frz-4.76\fax0.08\blur0.7\c&HD5D2D0&}F{\c&HD8D5D3&}a{\c&HDAD8D6&}s{\c&HDDDBD9&}c{\c&HE0DEDC&}i{\c&HE3E1E0&}n{\c&HE5E3E3&}a{\c&HE8E6E6&}t{\c&HEBE9E9&}i{\c&HEDECEC&}n{\c&HF0EFEF&}g
 Dialogue: 0,0:03:09.54,0:03:11.50,Signs,Sign,0,0,0,,{\fnST Huntington\an4\fax0.04\frz356.3\pos(131.313,257.965)\blur0.7\c&HD5D2D0&}M{\c&HD9D6D4&}i{\c&HDDDAD9&}n{\c&HE1DEDD&}e{\c&HE4E3E2&}r{\c&HE8E7E6&}a{\c&HECEBEB&}l{\c&HF0EFEF&}s
 Comment: 0,0:03:45.07,0:03:47.29,Signs,Placard,0,0,0,,# Quartz placard
