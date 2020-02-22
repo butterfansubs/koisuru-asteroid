@@ -1456,7 +1456,7 @@ Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\blur4.5\p1\c&HE0E0E2&\clip(874,40,876,94)}m -6 -20 l 400 -20 400 18 -6 18
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\blur4.5\p1\c&HE0E0E2&\clip(876,40,878,94)}m -6 -20 l 400 -20 400 18 -6 18
 Dialogue: 0,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an7\pos(475.244,67.911)\blur4.5\p1\c&HE0E0E2&\clip(878,40,880,94)}m -6 -20 l 400 -20 400 18 -6 18
-Dialogue: 1,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an2\fnHelvetica Neue\fs33\b1\c&H695964&\blur0.85\fscx90\pos(674.101,81.054)}Tsukuba VLBI Antenna {\fs24}(1998–2016)
+Dialogue: 1,0:20:55.98,0:20:57.69,Signs,Poster,0,0,0,,{\an2\fnArial\fs33\b1\c&H695964&\blur0.85\fscx85\pos(674.101,81.054)}Tsukuba VLBI Antenna {\fs24}(1998–2016)
 Comment: 0,0:21:25.88,0:21:28.14,Signs,Sign,0,0,0,,# Head cutout VLBI sign (Mira)
 Comment: 0,0:21:25.88,0:21:28.14,Signs,Sign,0,0,0,,{#TL:星がつたえる大地の動き}\NGSI Tsukuba VLBI Antenna
 Comment: 0,0:21:33.60,0:21:40.11,Signs,Sign,0,0,0,,# Head cutout VLBI sign (Endou)
