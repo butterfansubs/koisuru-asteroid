@@ -28,7 +28,7 @@ Fansubs by ButterFS for the anime "Koisuru Asteroid" ("Asteroid in Love").
 
 ## Credits
 
-* **Translation:** Crunchyroll (via HorribleSubs)
+* **Translation:** Crunchyroll (via HorribleSubs), bucket3432 (OP, ED, ED2)
 * **Translation Check:** bucket3432
 * **Editing:** bucket3432
 * **Timing:** bucket3432
