@@ -34,4 +34,4 @@ Fansubs by ButterFS for the anime "Koisuru Asteroid" ("Asteroid in Love").
 * **Timing:** bucket3432
 * **Styling:** bucket3432
 * **Typesetting:** bucket3432
-* **Quality Checking:** bucket3432
+* **Quality Checking:** bucket3432, Shinon
