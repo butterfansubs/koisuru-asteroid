@@ -31,37 +31,37 @@ Style: OP Eng Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,,== OP ==================================
-Dialogue: 0,0:00:49.52,0:00:52.02,OP Rom,,0,0,0,,{\fad(447,0)}{\k15}u{\k16}tsu{\k16}mu{\k16}i{\k31}ta {\k16}sa{\k46}ki {\k16}ni {\k78}mo
-Dialogue: 0,0:00:52.02,0:00:54.53,OP Rom,,0,0,0,,{\k16}mi{\k16}a{\k15}ge{\k16}te{\k31}ru {\k16}sa{\k48}ki {\k16}ni {\k73}mo
-Dialogue: 0,0:00:54.53,0:00:59.28,OP Rom,,0,0,0,,{\k29}{\k32}ki{\k62}t{\k32}to {\k16}mi{\k47}ra{\k16}i {\k44}wa {\k32}ma{\k32}t{\k16}te{\k47}i{\k17}ru {\k52}yo
-Dialogue: 0,0:00:59.28,0:01:04.97,OP Rom,,0,0,0,,{\fad(0,620)}{\k52}{\k32}da{\k31}ka{\k15}ra {\k47}a{\k32}ru{\k62}i{\k32}te {\k16}yu{\k250}kou
-Dialogue: 0,0:01:19.64,0:01:24.81,OP Rom,,0,0,0,,{\k40}{\k31}su{\k31}ki {\k17}na {\k47}ko{\k31}to {\k32}ni {\k32}wa {\k62}i{\k32}tsu{\k16}da{\k77}t{\k59}te
-Dialogue: 0,0:01:24.81,0:01:29.11,OP Rom,,0,0,0,,{\k12}{\k31}e{\k32}n{\k16}ryo {\k47}se{\k32}zu {\k32}ni {\k31}i{\k63}ki{\k31}ta{\k16}i {\k78}na
-Dialogue: 0,0:01:29.11,0:01:34.11,OP Rom,,0,0,0,,{\k22}te{\k31}re{\k62}ka{\k31}ku{\k16}shi {\k79}mo {\k32}ma{\k16}yo{\k77}i {\k31}mo {\k16}su{\k46}te{\k16}ta{\k47}ra
-Dialogue: 0,0:01:34.11,0:01:38.35,OP Rom,,0,0,0,,{\fad(0,320)}{\k21}{\k16}a{\k16}to {\k63}wa {\k63}yu{\k62}u{\k31}ki {\k17}da{\k250}ke
-Dialogue: 0,0:01:39.82,0:01:44.50,OP Rom,,0,0,0,,{\k16}{\k31}do{\k32}n{\k16}na {\k46}ka{\k31}ku{\k31}do {\k31}ka{\k63}ra {\k32}mi{\k16}te {\k120}mo
-Dialogue: 0,0:01:44.50,0:01:49.58,OP Rom,,0,0,0,,{\k38}{\k31}se{\k31}ka{\k17}i {\k47}wa {\k31}hi{\k32}ro{\k32}ga{\k62}t{\k32}te{\k15}ru {\k132}yo
-Dialogue: 0,0:01:50.92,0:01:53.90,OP Rom,,0,0,0,,{\k40}{\k17}mi{\k16}ta {\k15}ko{\k16}to {\k31}no {\k16}na{\k48}i {\k16}mo{\k66}no
-Dialogue: 0,0:01:53.90,0:01:56.30,OP Rom,,0,0,0,,{\k16}mi{\k15}tsu{\k17}ke{\k16}te {\k31}yu{\k16}ki{\k47}ta{\k17}i {\k73}na
-Dialogue: 0,0:01:56.30,0:02:01.30,OP Rom,,0,0,0,,{\k35}{\k32}ka{\k63}ga{\k32}ya{\k31}ku {\k31}i{\k16}shi {\k47}wo {\k17}hi{\k16}ro{\k32}i{\k16}a{\k47}tsu{\k16}me{\k78}te
-Dialogue: 0,0:02:01.30,0:02:03.72,OP Rom,,0,0,0,,{\k16}u{\k16}tsu{\k16}mu{\k16}i{\k32}ta {\k16}sa{\k47}ki {\k16}ni {\k77}mo
-Dialogue: 0,0:02:03.72,0:02:06.18,OP Rom,,0,0,0,,{\k6}{\k16}mi{\k15}a{\k17}ge{\k16}te{\k32}ru {\k15}sa{\k47}ki {\k16}ni {\k73}mo
-Dialogue: 0,0:02:06.18,0:02:11.23,OP Rom,,0,0,0,,{\k41}{\k31}ki{\k62}t{\k31}to {\k16}mi{\k46}ra{\k16}i {\k47}wa {\k32}ma{\k32}t{\k15}te{\k47}i{\k16}ru {\k73}yo
-Dialogue: 0,0:02:11.23,0:02:16.40,OP Rom,,0,0,0,,{\fad(0,1474)}{\k32}{\k31}da{\k31}ka{\k17}ra {\k47}a{\k31}ru{\k63}i{\k32}te {\k16}yu{\k191}kou
-Dialogue: 0,0:00:49.52,0:00:52.02,OP Eng,,0,0,0,,{\fad(447,0)}I look at the ground in front of me
-Dialogue: 0,0:00:52.02,0:00:54.53,OP Eng,,0,0,0,,I look at the sky that all can see
-Dialogue: 0,0:00:54.53,0:00:59.28,OP Eng,,0,0,0,,The future's ahead of us. It waits for us, you know
-Dialogue: 0,0:00:59.28,0:01:04.97,OP Eng,,0,0,0,,{\fad(0,620)}So let's keep moving forward and go!
-Dialogue: 0,0:01:19.64,0:01:24.81,OP Eng,,0,0,0,,Pursuing things I love, I want that for all time
-Dialogue: 0,0:01:24.81,0:01:29.11,OP Eng,,0,0,0,,I'd like to live my life without holding back
-Dialogue: 0,0:01:29.11,0:01:34.11,OP Eng,,0,0,0,,Toss my doubts and my fears. My unease, throw it all away
-Dialogue: 0,0:01:34.11,0:01:38.35,OP Eng,,0,0,0,,{\fad(0,320)}In the end, my courage remains
-Dialogue: 0,0:01:39.82,0:01:44.50,OP Eng,,0,0,0,,I look around me, up above, down below
-Dialogue: 0,0:01:44.50,0:01:49.58,OP Eng,,0,0,0,,The world is vast, so very vast, don't you know?
-Dialogue: 0,0:01:50.92,0:01:53.90,OP Eng,,0,0,0,,Looking for the things I've never seen
-Dialogue: 0,0:01:53.90,0:01:56.30,OP Eng,,0,0,0,,Going to the spots I've never been
-Dialogue: 0,0:01:56.30,0:02:01.30,OP Eng,,0,0,0,,The will to do all those things is what I want to have within
-Dialogue: 0,0:02:01.30,0:02:03.72,OP Eng,,0,0,0,,I look at the ground in front of me
-Dialogue: 0,0:02:03.72,0:02:06.18,OP Eng,,0,0,0,,I look at the sky that all can see
-Dialogue: 0,0:02:06.18,0:02:11.23,OP Eng,,0,0,0,,The future's ahead of us. It waits for us, you know
-Dialogue: 0,0:02:11.23,0:02:16.40,OP Eng,,0,0,0,,{\fad(0,1474)}So let's keep moving forward and go!
+Dialogue: 10,0:00:49.52,0:00:52.02,OP Rom,,0,0,0,,{\fad(447,0)}{\k15}u{\k16}tsu{\k16}mu{\k16}i{\k31}ta {\k16}sa{\k46}ki {\k16}ni {\k78}mo
+Dialogue: 10,0:00:52.02,0:00:54.53,OP Rom,,0,0,0,,{\k16}mi{\k16}a{\k15}ge{\k16}te{\k31}ru {\k16}sa{\k48}ki {\k16}ni {\k73}mo
+Dialogue: 10,0:00:54.53,0:00:59.28,OP Rom,,0,0,0,,{\k29}{\k32}ki{\k62}t{\k32}to {\k16}mi{\k47}ra{\k16}i {\k44}wa {\k32}ma{\k32}t{\k16}te{\k47}i{\k17}ru {\k52}yo
+Dialogue: 10,0:00:59.28,0:01:04.97,OP Rom,,0,0,0,,{\fad(0,620)}{\k52}{\k32}da{\k31}ka{\k15}ra {\k47}a{\k32}ru{\k62}i{\k32}te {\k16}yu{\k250}kou
+Dialogue: 10,0:01:19.64,0:01:24.81,OP Rom,,0,0,0,,{\k40}{\k31}su{\k31}ki {\k17}na {\k47}ko{\k31}to {\k32}ni {\k32}wa {\k62}i{\k32}tsu{\k16}da{\k77}t{\k59}te
+Dialogue: 10,0:01:24.81,0:01:29.11,OP Rom,,0,0,0,,{\k12}{\k31}e{\k32}n{\k16}ryo {\k47}se{\k32}zu {\k32}ni {\k31}i{\k63}ki{\k31}ta{\k16}i {\k78}na
+Dialogue: 10,0:01:29.11,0:01:34.11,OP Rom,,0,0,0,,{\k22}te{\k31}re{\k62}ka{\k31}ku{\k16}shi {\k79}mo {\k32}ma{\k16}yo{\k77}i {\k31}mo {\k16}su{\k46}te{\k16}ta{\k47}ra
+Dialogue: 10,0:01:34.11,0:01:38.35,OP Rom,,0,0,0,,{\fad(0,320)}{\k21}{\k16}a{\k16}to {\k63}wa {\k63}yu{\k62}u{\k31}ki {\k17}da{\k250}ke
+Dialogue: 10,0:01:39.82,0:01:44.50,OP Rom,,0,0,0,,{\k16}{\k31}do{\k32}n{\k16}na {\k46}ka{\k31}ku{\k31}do {\k31}ka{\k63}ra {\k32}mi{\k16}te {\k120}mo
+Dialogue: 10,0:01:44.50,0:01:49.58,OP Rom,,0,0,0,,{\k38}{\k31}se{\k31}ka{\k17}i {\k47}wa {\k31}hi{\k32}ro{\k32}ga{\k62}t{\k32}te{\k15}ru {\k132}yo
+Dialogue: 10,0:01:50.92,0:01:53.90,OP Rom,,0,0,0,,{\k40}{\k17}mi{\k16}ta {\k15}ko{\k16}to {\k31}no {\k16}na{\k48}i {\k16}mo{\k66}no
+Dialogue: 10,0:01:53.90,0:01:56.30,OP Rom,,0,0,0,,{\k16}mi{\k15}tsu{\k17}ke{\k16}te {\k31}yu{\k16}ki{\k47}ta{\k17}i {\k73}na
+Dialogue: 10,0:01:56.30,0:02:01.30,OP Rom,,0,0,0,,{\k35}{\k32}ka{\k63}ga{\k32}ya{\k31}ku {\k31}i{\k16}shi {\k47}wo {\k17}hi{\k16}ro{\k32}i{\k16}a{\k47}tsu{\k16}me{\k78}te
+Dialogue: 10,0:02:01.30,0:02:03.72,OP Rom,,0,0,0,,{\k16}u{\k16}tsu{\k16}mu{\k16}i{\k32}ta {\k16}sa{\k47}ki {\k16}ni {\k77}mo
+Dialogue: 10,0:02:03.72,0:02:06.18,OP Rom,,0,0,0,,{\k6}{\k16}mi{\k15}a{\k17}ge{\k16}te{\k32}ru {\k15}sa{\k47}ki {\k16}ni {\k73}mo
+Dialogue: 10,0:02:06.18,0:02:11.23,OP Rom,,0,0,0,,{\k41}{\k31}ki{\k62}t{\k31}to {\k16}mi{\k46}ra{\k16}i {\k47}wa {\k32}ma{\k32}t{\k15}te{\k47}i{\k16}ru {\k73}yo
+Dialogue: 10,0:02:11.23,0:02:16.40,OP Rom,,0,0,0,,{\fad(0,1474)}{\k32}{\k31}da{\k31}ka{\k17}ra {\k47}a{\k31}ru{\k63}i{\k32}te {\k16}yu{\k191}kou
+Dialogue: 10,0:00:49.52,0:00:52.02,OP Eng,,0,0,0,,{\fad(447,0)}I look at the ground in front of me
+Dialogue: 10,0:00:52.02,0:00:54.53,OP Eng,,0,0,0,,I look at the sky that all can see
+Dialogue: 10,0:00:54.53,0:00:59.28,OP Eng,,0,0,0,,The future's ahead of us. It waits for us, you know
+Dialogue: 10,0:00:59.28,0:01:04.97,OP Eng,,0,0,0,,{\fad(0,620)}So let's keep moving forward and go!
+Dialogue: 10,0:01:19.64,0:01:24.81,OP Eng,,0,0,0,,Pursuing things I love, I want that for all time
+Dialogue: 10,0:01:24.81,0:01:29.11,OP Eng,,0,0,0,,I'd like to live my life without holding back
+Dialogue: 10,0:01:29.11,0:01:34.11,OP Eng,,0,0,0,,Toss my doubts and my fears. My unease, throw it all away
+Dialogue: 10,0:01:34.11,0:01:38.35,OP Eng,,0,0,0,,{\fad(0,320)}In the end, my courage remains
+Dialogue: 10,0:01:39.82,0:01:44.50,OP Eng,,0,0,0,,I look around me, up above, down below
+Dialogue: 10,0:01:44.50,0:01:49.58,OP Eng,,0,0,0,,The world is vast, so very vast, don't you know?
+Dialogue: 10,0:01:50.92,0:01:53.90,OP Eng,,0,0,0,,Looking for the things I've never seen
+Dialogue: 10,0:01:53.90,0:01:56.30,OP Eng,,0,0,0,,Going to the spots I've never been
+Dialogue: 10,0:01:56.30,0:02:01.30,OP Eng,,0,0,0,,The will to do all those things is what I want to have within
+Dialogue: 10,0:02:01.30,0:02:03.72,OP Eng,,0,0,0,,I look at the ground in front of me
+Dialogue: 10,0:02:03.72,0:02:06.18,OP Eng,,0,0,0,,I look at the sky that all can see
+Dialogue: 10,0:02:06.18,0:02:11.23,OP Eng,,0,0,0,,The future's ahead of us. It waits for us, you know
+Dialogue: 10,0:02:11.23,0:02:16.40,OP Eng,,0,0,0,,{\fad(0,1474)}So let's keep moving forward and go!
