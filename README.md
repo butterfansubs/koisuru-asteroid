@@ -22,7 +22,7 @@ Fansubs by ButterFS for the anime "Koisuru Asteroid" ("Asteroid in Love").
 |  10 |    |     |    |    |    |    |
 |  11 |    |     |    |    |    |    |
 |  12 |    |     |    |    |    |    |
-|  OP |  ✓ |   ✓ |  ✓ |    |    |    |
+|  OP |  ✓ |   ✓ |  ✓ |  ✓ |  ✓ |  ✓ |
 |  ED |  ✓ |   ✓ |  ✓ |    |    |    |
 | ED2 |  ✓ |   ✓ |  ✓ |  ✓ |  ✓ |    |
 
