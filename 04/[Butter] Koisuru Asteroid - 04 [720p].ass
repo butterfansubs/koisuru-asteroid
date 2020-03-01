@@ -51,7 +51,6 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta =======================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
-Comment: 10,0:00:09.65,0:00:13.57,Default,Suzu&Screen,0,0,0,,{Meme}{\i1\bord0\fscx10\fscy10\t(0,235,\fscx110\fscy110)\t(235,360,\fscx100\fscy100)\t(735,861,\bord2.5)}Your summer camp starts today?\NWhere are you going again?
 Dialogue: 10,0:00:10.40,0:00:13.57,Default,Suzu&Screen,0,0,0,,{\i1}Your summer camp starts today?\NWhere are you going again?
 Dialogue: 10,0:00:13.57,0:00:19.04,Default,Mira&Screen,0,0,0,,{\i1}The Geological Museum and JAXA!\NEndou-sensei suggested it.
 Dialogue: 10,0:00:19.04,0:00:23.00,Default,Suzu&Screen,0,0,0,,{\i1}Wow, sounds nice!\NHave enough fun for me, too.
