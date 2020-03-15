@@ -4,474 +4,463 @@
 Title: HorribleSubs
 ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 848
-PlayResY: 480
+PlayResX: 1280
+PlayResY: 720
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
+Scroll Position: 426
+Active Line: 433
+Video Position: 30
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
-Style: Love Asteroid - Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
-Style: Love Asteroid - Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,-1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
-Style: Love Asteroid - Top,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,8,0,0,28,1
-Style: Love Asteroid - Flashback,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
-Style: Ep Title,Open Sans Semibold,36,&H00F2DED5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,51,13,80,1
-Style: Next Ep Title,Open Sans Semibold,36,&H00F2DED5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,13,13,27,1
-Style: sign_4789_42_Beach_House,Open Sans Semibold,27,&H00403039,&H000000FF,&H00F4FCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,53,13,27,1
-Style: sign_4789_43_Sea_Gravel,Open Sans Semibold,24,&H00403039,&H000000FF,&H00F4FCFA,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,564,175,135,1
-Style: sign_5764_57_Beware_of_Rip_Ti,Open Sans Semibold,30,&H0012079E,&H000000FF,&H00C7F4FC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,541,13,43,1
-Style: sign_5764_58_Don_t_go_in_the_,Open Sans Semibold,24,&H0012079E,&H000000FF,&H00C7F4FC,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,217,356,115,1
-Style: sign_11062_127_Monthly_Star_Nav,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,427,235,320,1
-Style: sign_11509_133_I_m_going_to_a_m,Open Sans Semibold,21,&H00FFFFFF,&H000000FF,&H004F596E,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,93,27,211,1
-Style: sign_12963_157_Power_stone_to_c,Open Sans Semibold,30,&H00594962,&H000000FF,&H00EFEFEF,&H00000000,-1,0,0,0,100,100,0,8.5,1,0,0,2,63,280,200,1
-Style: sign_19271_241_Topaz_Silicate_M,Open Sans Semibold,21,&H00716C7F,&H000000FF,&H00E9ECEB,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,632,72,283,1
-Style: sign_19271_241_Silicate_Mineral,Open Sans Semibold,18,&H00716C7F,&H000000FF,&H00E9ECEB,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,587,27,288,1
-Style: sign_26790_349_Boring_Survey,Open Sans Semibold,27,&H003C3431,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,139,299,48,1
-Style: sign_27328_355_Arm_Wrestling_Co,Open Sans Semibold,18,&H00324653,&H000000FF,&H00B7C7CB,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,544,64,227,1
-Style: sign_27328_356_Frankfurt,Open Sans Semibold,18,&H00B7C7CB,&H000000FF,&H00614AA9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,607,144,252,1
-Style: sign_27328_357_Hamlet,Open Sans Semibold,18,&H00B7C7CB,&H000000FF,&H00555F53,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,616,153,280,1
-Style: sign_27328_358_Competitive_Karu,Open Sans Semibold,18,&H00121B22,&H000000FF,&H006F9299,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,560,99,311,1
-Style: sign_27328_359_Haunted_House,Open Sans Semibold,18,&H005A439A,&H000000FF,&H0040382F,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,579,119,347,1
-Style: sign_27797_366_Feynman_________,Open Sans Semibold,24,&H0031464C,&H000000FF,&H00FAFCFB,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,160,51,149,1
-Style: sign_28741_378_Boring_Survey,Open Sans Semibold,24,&H002D4550,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,228,476,143,1
-Style: sign_28741_379_Planetary_Model_,Open Sans Semibold,20,&H002D4550,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,389,205,189,1
-Style: sign_28741_380_Model_Explanatio,Open Sans Semibold,20,&H002D4550,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,385,201,255,1
-Style: sign_28741_381_Fossil_Appraisal,Open Sans Semibold,20,&H002D4550,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,400,251,309,1
-Style: sign_28741_382_Fusulinid_Stone_,Open Sans Semibold,20,&H002D4550,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,396,233,413,1
-Style: sign_29134_386_Staff_Room,Open Sans Semibold,33,&H00383046,&H000000FF,&H00AEAFAF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,13,13,27,1
-Style: sign_29317_389_Soil_Boring_Log,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,16,1,0,0,8,187,475,69,1
-Style: sign_29866_398_Agar,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,503,300,200,1
-Style: sign_29866_399_Boring_Agar,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,628,100,167,1
-Style: sign_29866_400_Strawberry_Milk,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,671,12,285,1
-Style: sign_29866_401_Banana__Milk,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,713,60,353,1
-Style: sign_29866_402_Milk__Coffee,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,700,81,415,1
-Style: sign_29866_403_Agar_,Open Sans Semibold,24,&H005F5770,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,499,296,433,1
-Style: sign_33927_430_Hoshizaki_Festiv,Open Sans Semibold,36,&H00F2DED5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,287,279,193,1
-Style: sign_20428_249_What_I_Want_to_B,Open Sans Semibold,36,&H00ABA1B4,&H000000FF,&H00FFFCFD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,287,284,355,1
+Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
+Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H00402000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
+Style: Next Ep Title,A-Space Light Demo,72,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,2,75,75,125,1
+Style: Eyecatch,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: OP Rom,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0,8,88,88,36,1
+Style: OP Eng,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0,2,88,88,36,1
+Style: OP Rom Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,88,88,36,1
+Style: OP Eng Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,88,88,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.25,0:00:04.93,Love Asteroid - Italics,Mira,0,0,0,,Suzu-chan's been busy helping \Nher family during summer break,
-Dialogue: 0,0:00:04.93,0:00:07.23,Love Asteroid - Italics,,0,0,0,,but at her suggestion, \Nwe're all here at the beach!
-Dialogue: 0,0:00:08.15,0:00:10.94,Love Asteroid - Default,Suzu,0,0,0,,It's the beach!
-Dialogue: 0,0:00:12.12,0:00:13.95,Love Asteroid - Default,Suzu,0,0,0,,Mira, what are you doing?
-Dialogue: 0,0:00:14.19,0:00:15.91,Love Asteroid - Default,Mira,0,0,0,,Collecting rocks.
-Dialogue: 0,0:00:17.25,0:00:20.95,Love Asteroid - Default,Ao,0,0,0,,It seems she's been enjoying the \Nfield of geology lately, as well.
-Dialogue: 0,0:00:22.88,0:00:25.94,Love Asteroid - Default,Suzu,0,0,0,,She totally acts like a \Ngeology club member now.
-Dialogue: 0,0:00:28.36,0:00:30.34,Love Asteroid - Default,Suzu,0,0,0,,What's the matter, Ino-senpai?
-Dialogue: 0,0:00:31.60,0:00:35.43,Love Asteroid - Default,Ino,0,0,0,,Just thinking you two both \Nlook lovely and mature.
-Dialogue: 0,0:00:35.84,0:00:39.14,Love Asteroid - Default,Ino,0,0,0,,I should have gone with \Na swimsuit like that, too.
-Dialogue: 0,0:00:39.59,0:00:41.77,Love Asteroid - Default,Suzu,0,0,0,,Would you like to wear a pareo?
-Dialogue: 0,0:00:43.09,0:00:46.32,Love Asteroid - Default,Suzu,0,0,0,,So cute! Nice! So nice!
-Dialogue: 0,0:00:43.96,0:00:45.60,Love Asteroid - Default,Ao,0,0,0,,You look good it in, Senpai!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First frame
+Dialogue: 10,0:00:01.25,0:00:04.93,Default,Mira,0,0,0,,{\i1}Suzu-chan's been busy helping \Nher family during summer break,
+Dialogue: 10,0:00:04.93,0:00:07.23,Default,,0,0,0,,{\i1}but at her suggestion, \Nwe're all here at the beach!
+Dialogue: 10,0:00:08.15,0:00:10.94,Default,Suzu,0,0,0,,It's the beach!
+Dialogue: 10,0:00:12.12,0:00:13.95,Default,Suzu,0,0,0,,Mira, what are you doing?
+Dialogue: 10,0:00:14.19,0:00:15.91,Default,Mira,0,0,0,,Collecting rocks.
+Dialogue: 10,0:00:17.25,0:00:20.95,Default,Ao,0,0,0,,It seems she's been enjoying the \Nfield of geology lately, as well.
+Dialogue: 10,0:00:22.88,0:00:25.94,Default,Suzu,0,0,0,,She totally acts like a \Ngeology club member now.
+Dialogue: 10,0:00:28.36,0:00:30.34,Default,Suzu,0,0,0,,What's the matter, Ino-senpai?
+Dialogue: 10,0:00:31.60,0:00:35.43,Default,Ino,0,0,0,,Just thinking you two both \Nlook lovely and mature.
+Dialogue: 10,0:00:35.84,0:00:39.14,Default,Ino,0,0,0,,I should have gone with \Na swimsuit like that, too.
+Dialogue: 10,0:00:39.59,0:00:41.77,Default,Suzu,0,0,0,,Would you like to wear a pareo?
+Dialogue: 10,0:00:43.09,0:00:46.32,Default,Suzu,0,0,0,,So cute! Nice! So nice!
+Dialogue: 10,0:00:43.96,0:00:45.60,Default,Ao,0,0,0,,You look good it in, Senpai!
+Comment: 10,0:00:48.02,0:00:48.02,Default,chptr,0,0,0,,{OP}OP
+Comment: 10,0:02:17.99,0:02:17.99,Default,chptr,0,0,0,,{Part A}Part A
+Dialogue: 10,0:02:19.07,0:02:23.93,Default,Mira,0,0,0,,{\an8}I wish Sakura-senpai and Monroe-senpai \Ncould have joined us, too.
+Dialogue: 10,0:02:23.93,0:02:26.58,Default,Ao,0,0,0,,Summer classes sound rough.
+Dialogue: 10,0:02:26.58,0:02:27.98,Default,Mira,0,0,0,,Yeah!
+Dialogue: 10,0:02:27.98,0:02:29.96,Default,Ao,0,0,0,,Mira, don't move without warning.
+Dialogue: 10,0:02:30.55,0:02:33.77,Default,Suzu,0,0,0,,Looks like you two have grown \Nquite close to each other.
+Dialogue: 10,0:02:33.77,0:02:35.05,Default,Suzu,0,0,0,,Especially you, Ao.
+Dialogue: 10,0:02:37.89,0:02:41.08,Default,Ao,0,0,0,,Yeah, I can talk to her like normal now.
+Dialogue: 10,0:02:41.08,0:02:44.82,Default,Mira,0,0,0,,We went to a hot spring together, \Nand we had a sleepover, too!
+Dialogue: 10,0:02:46.52,0:02:48.31,Default,Mira,0,0,0,,The beach is so fun!
+Dialogue: 10,0:02:48.31,0:02:49.26,Default,Ao,0,0,0,,{\an8}It is.
+Dialogue: 10,0:02:49.26,0:02:50.60,Default,Mira,0,0,0,,{\an8}Let's swim more!
+Dialogue: 10,0:02:49.54,0:02:51.48,Default,Suzu,0,0,0,,{\i1}Now that I think about it,
+Dialogue: 10,0:02:50.60,0:02:51.48,Default,Ao,0,0,0,,{\an8}Yeah!
+Dialogue: 10,0:02:51.48,0:02:56.05,Default,,0,0,0,,{\i1}I don't think there's ever been any \Ngirl who was closer to Mira than me.
+Dialogue: 10,0:02:56.94,0:02:58.32,Default,Suzu,0,0,0,,{\i1}Could this be...
+Dialogue: 10,0:02:58.32,0:03:00.35,Default,Suzu,0,0,0,,{\i1}what people call "jealousy"?!
+Dialogue: 10,0:03:01.32,0:03:03.28,Default,Mira,0,0,0,,I'm hungry!
+Dialogue: 10,0:03:03.28,0:03:04.91,Default,Mira,0,0,0,,Why don't we have lunch now?
+Dialogue: 10,0:03:05.14,0:03:06.02,Default,Suzu,0,0,0,,{\i1}Lunch!
+Dialogue: 10,0:03:06.77,0:03:08.75,Default,Suzu,0,0,0,,Ao, let's have a match!
+Dialogue: 10,0:03:10.20,0:03:11.12,Default,Ao,0,0,0,,Huh?
+Dialogue: 10,0:03:11.12,0:03:15.00,Default,Suzu,0,0,0,,A best-of-three match over \Nwho's Mira's best friend!
+Dialogue: 10,0:03:15.00,0:03:16.00,Default,Ao,0,0,0,,Huh?!
+Dialogue: 10,0:03:16.00,0:03:17.82,Default,Ao,0,0,0,,Hey, Mira...
+Dialogue: 10,0:03:20.32,0:03:21.43,Default,Suzu,0,0,0,,Round one!
+Dialogue: 10,0:03:22.00,0:03:25.39,Default,Suzu,0,0,0,,Preparing Mira's favorite food!
+Dialogue: 10,0:03:26.95,0:03:28.77,Default,Ao,0,0,0,,How did this happen?
+Dialogue: 10,0:03:31.62,0:03:33.44,Default,Suzu,0,0,0,,{\i1}I know Mira loves strawberries.
+Dialogue: 10,0:03:34.01,0:03:36.90,Default,Ao,0,0,0,,{\i1}If I remember right, she likes pork cutlets.
+Dialogue: 10,0:03:37.36,0:03:39.07,Default,Suzu,0,0,0,,And... showdown!
+Dialogue: 10,0:03:40.97,0:03:42.58,Default,Mira,0,0,0,,I love them both!
+Dialogue: 10,0:03:42.58,0:03:46.54,Default,Ino,0,0,0,,It's hard to compare \Ndifferent genres of food.
+Dialogue: 10,0:03:48.28,0:03:49.45,Default,Suzu,0,0,0,,Round two!
+Dialogue: 10,0:03:49.96,0:03:53.90,Default,Suzu,0,0,0,,A competition to see who \Ncan touch Mira first!
+Dialogue: 10,0:03:53.90,0:03:56.17,Default,Suzu,0,0,0,,Ino-senpai, please start us off!
+Dialogue: 10,0:03:56.43,0:03:57.99,Default,Ino,0,0,0,,Okay!
+Dialogue: 10,0:03:58.41,0:04:00.38,Default,Ino,0,0,0,,Though, before we start,
+Dialogue: 10,0:04:00.38,0:04:04.30,Default,Ino,0,0,0,,make sure you both keep \Na look out for rip tides.
+Dialogue: 10,0:04:04.86,0:04:06.21,Default,Ao,0,0,0,,Rip tides?
+Dialogue: 10,0:04:06.21,0:04:09.79,Default,Ino,0,0,0,,Strong currents that flow \Nfrom the shore out to sea.
+Dialogue: 10,0:04:09.79,0:04:11.89,Default,Ino,0,0,0,,If you get pulled into that current,
+Dialogue: 10,0:04:11.89,0:04:16.19,Default,,0,0,0,,you'll drift farther and farther \Nout to sea, so be very careful.
+Dialogue: 10,0:04:17.15,0:04:18.01,Default,Both,0,0,0,,Huh?
+Dialogue: 10,0:04:18.90,0:04:20.86,Default,Both,0,0,0,,Mira!
+Dialogue: 10,0:04:23.07,0:04:24.81,Default,Mira,0,0,0,,Sorry about that.
+Dialogue: 10,0:04:24.81,0:04:27.55,Default,Mira,0,0,0,,You girls just weren't coming, \Nso I started swimming.
+Dialogue: 10,0:04:27.55,0:04:30.00,Default,Ao,0,0,0,,I'm so glad you weren't drifting away.
+Dialogue: 10,0:04:30.00,0:04:32.20,Default,Suzu,0,0,0,,That was no time to be \Nworrying about our match.
+Dialogue: 10,0:04:33.13,0:04:34.85,Default,Suzu,0,0,0,,So, getting back to business,
+Dialogue: 10,0:04:34.85,0:04:38.74,Default,Suzu,0,0,0,,I think we should have Ino-senpai \Ndecide the final match. It's only fair.
+Dialogue: 10,0:04:38.74,0:04:39.21,Default,Ao,0,0,0,,Huh?
+Dialogue: 10,0:04:39.64,0:04:41.25,Default,Ao,0,0,0,,We're still doing this?
+Dialogue: 10,0:04:42.94,0:04:46.57,Default,Ino,0,0,0,,Okay, why don't we have everyone ride that?
+Dialogue: 10,0:04:46.57,0:04:48.55,Default,Mira,0,0,0,,Wow, that looks fun!
+Dialogue: 10,0:04:48.82,0:04:49.65,Default,Both,0,0,0,,Huh?
+Dialogue: 10,0:04:53.63,0:04:56.73,Default,Man,0,0,0,,There are a few waves out here, \Nso the boat might rock.
+Dialogue: 10,0:04:56.73,0:04:58.69,Default,Both,0,0,0,,Okay!
+Dialogue: 10,0:05:00.54,0:05:02.08,Default,Mira,0,0,0,,Suzu-chan, your hair!
+Dialogue: 10,0:05:02.08,0:05:02.90,Default,Suzu,0,0,0,,Oh, sorry!
+Dialogue: 10,0:05:03.74,0:05:05.91,Default,Suzu,0,0,0,,{\i1}She let go?!
+Dialogue: 10,0:05:06.33,0:05:07.27,Default,Mira,0,0,0,,I'm falling!
+Dialogue: 10,0:05:07.27,0:05:07.87,Default,Suzu,0,0,0,,Mira!
+Dialogue: 10,0:05:08.53,0:05:09.70,Default,Ao,0,0,0,,Suzu-san!
+Dialogue: 10,0:05:16.21,0:05:18.54,Default,Mira,0,0,0,,That scared me!
+Dialogue: 10,0:05:18.71,0:05:22.26,Default,Mira,0,0,0,,Both of you started falling together.
+Dialogue: 10,0:05:22.26,0:05:26.33,Default,Suzu,0,0,0,,I was just trying to rescue you, Mira.
+Dialogue: 10,0:05:26.33,0:05:29.55,Default,Ao,0,0,0,,I was trying to rescue Suzu-san.
+Dialogue: 10,0:05:29.55,0:05:32.10,Default,Ino,0,0,0,,You both ignored the match.
+Dialogue: 10,0:05:32.48,0:05:34.00,Default,Ino,0,0,0,,You're so kind.
+Dialogue: 10,0:05:35.88,0:05:38.02,Default,Ino,0,0,0,,If you can show that much \Nconcern for each other,
+Dialogue: 10,0:05:38.02,0:05:41.19,Default,Ino,0,0,0,,what's wrong with all three \Nof you being best friends?
+Dialogue: 10,0:05:41.65,0:05:43.08,Default,Suzu,0,0,0,,All three?
+Dialogue: 10,0:05:48.17,0:05:49.46,Default,Suzu,0,0,0,,{\i1}I get it.
+Dialogue: 10,0:05:50.11,0:05:55.41,Default,Suzu,0,0,0,,{\i1}Did Senpai propose the boat for our \Nmatch because she saw this coming?
+Dialogue: 10,0:05:55.41,0:05:59.12,Default,Ino,0,0,0,,Still, this is incredible! \NYou can see the strata so clearly!
+Dialogue: 10,0:05:59.44,0:06:01.82,Default,Ino,0,0,0,,I wish could show this to Sakura-senpai, too!
+Dialogue: 10,0:06:01.82,0:06:02.99,Default,Suzu,0,0,0,,{\i1}I guess not.
+Dialogue: 10,0:06:07.00,0:06:09.04,Default,Mira,0,0,0,,Ino-senpai's asleep.
+Dialogue: 10,0:06:09.75,0:06:11.43,Default,Suzu,0,0,0,,She's worn out from all the fun.
+Dialogue: 10,0:06:17.31,0:06:18.23,Default,Suzu,0,0,0,,Ao...
+Dialogue: 10,0:06:20.00,0:06:24.94,Default,Suzu,0,0,0,,I'm sorry for getting you \Nall wound up in my jealousy.
+Dialogue: 10,0:06:25.18,0:06:29.84,Default,Ao,0,0,0,,Huh? Oh, you were feeling jealous?
+Dialogue: 10,0:06:29.84,0:06:30.95,Default,Ao,0,0,0,,Now I get it.
+Dialogue: 10,0:06:32.71,0:06:34.41,Default,Ao,0,0,0,,I'm sorry, too.
+Dialogue: 10,0:06:34.41,0:06:37.83,Default,Ao,0,0,0,,I often don't notice how others are feeling.
+Dialogue: 10,0:06:38.40,0:06:39.87,Default,Suzu,0,0,0,,I see.
+Dialogue: 10,0:06:39.87,0:06:44.82,Default,Suzu,0,0,0,,I'll have to tell you what I'm thinking \Nmore clearly from now on, then.
+Dialogue: 10,0:06:46.49,0:06:48.09,Default,Suzu,0,0,0,,Well, to put it out there,
+Dialogue: 10,0:06:48.78,0:06:53.50,Default,Suzu,0,0,0,,I hope we can get along in many\N ways as new best friends.
+Dialogue: 10,0:06:57.50,0:06:59.97,Default,Mira,0,0,0,,Oh, it's from Monroe-senpai.
+Dialogue: 10,0:07:00.96,0:07:02.59,Default,Suzu,0,0,0,,Huh?! Why's she in a swimsuit?!
+Dialogue: 10,0:07:02.59,0:07:04.38,Default,Suzu,0,0,0,,And Sakura-senpai, too?!
+Dialogue: 10,0:07:04.38,0:07:06.45,Default,Mira,0,0,0,,She says, "We finished our summer classes,
+Dialogue: 10,0:07:06.45,0:07:09.85,Default,,0,0,0,,so now we're relaxing at the school pool."
+Dialogue: 10,0:07:09.85,0:07:12.94,Default,Suzu,0,0,0,,Please give me those photos, \Nas your best friend!
+Dialogue: 10,0:07:12.94,0:07:15.78,Default,Mira,0,0,0,,What is your definition of "best friend"?
+Dialogue: 10,0:07:17.60,0:07:19.92,Default,Ao,0,0,0,,Oh, Jupiter.
+Dialogue: 10,0:07:19.92,0:07:21.79,Default,Mira,0,0,0,,Huh? You can see it?
+Dialogue: 10,0:07:21.79,0:07:23.21,Default,Mira,0,0,0,,Oh, you can!
+Dialogue: 10,0:07:24.24,0:07:27.63,Default,Suzu,0,0,0,,Wow. You can tell which planet it is at a glance.
+Dialogue: 10,0:07:28.19,0:07:31.34,Default,Ao,0,0,0,,Yeah, generally, due to its color and brightness.
+Dialogue: 10,0:07:33.62,0:07:37.01,Default,Suzu,0,0,0,,I've only learned about the stars in class,
+Dialogue: 10,0:07:37.25,0:07:40.21,Default,Suzu,0,0,0,,but maybe I should make it\Na point to learn more.
+Dialogue: 10,0:07:40.21,0:07:41.35,Default,Suzu,0,0,0,,Huh? What?
+Dialogue: 10,0:07:41.78,0:07:46.11,Default,Mira,0,0,0,,That's probably her way of showing \Naffection, so you should accept it.
+Dialogue: 10,0:07:46.65,0:07:48.82,Default,Suzu,0,0,0,,Oh, sure.
+Dialogue: 10,0:07:50.07,0:07:54.13,Default,Mira,0,0,0,,{\i1}With that, Suzu-chan's very \Nfulfilling day came to an end.
+Dialogue: 10,0:07:54.13,0:07:56.99,Default,Mira,0,0,0,,{\i1}It wasn't much longer until the \Nlast night of summer break.
+Dialogue: 10,0:07:58.07,0:07:59.99,Default,Mira,0,0,0,,Oh, Sakura-senpai.
+Dialogue: 10,0:08:00.88,0:08:02.87,Default,Mira,0,0,0,,Mineral show?
+Dialogue: 10,0:08:02.87,0:08:05.46,Default,Mira,0,0,0,,I wonder what that is. I'll totally go.
+Dialogue: 10,0:08:06.07,0:08:08.67,Default,Monroe&Text,0,0,0,,{\i1}I'm sorry, I have other plans already.
+Dialogue: 10,0:08:08.67,0:08:11.35,Default,Ino&Text,0,0,0,,{\i1}What a shame. I have plans that day, too.
+Dialogue: 10,0:08:11.35,0:08:13.63,Default,Ao&Text,0,0,0,,{\i1}I'm sorry, I do, too.
+Dialogue: 10,0:08:13.63,0:08:15.85,Default,Mira,0,0,0,,Huh? No one else can come?
+Dialogue: 10,0:08:15.85,0:08:20.39,Default,Mira,0,0,0,,Which means... I'll be alone with Sakura-senpai?
+Dialogue: 10,0:08:21.64,0:08:23.14,Default,Mira,0,0,0,,Good morning!
+Dialogue: 10,0:08:23.49,0:08:25.99,Default,Sakura,0,0,0,,Good morning. You're early.
+Dialogue: 10,0:08:25.99,0:08:30.48,Default,Mira,0,0,0,,Yeah, um, I got a little nervous when \NI realized it's just the two of us.
+Dialogue: 10,0:08:30.48,0:08:32.28,Default,Mira,0,0,0,,Since you're so serious about things.
+Dialogue: 10,0:08:33.56,0:08:36.83,Default,Mira,0,0,0,,I figured you were likely \Nto get mad if I was late,
+Dialogue: 10,0:08:36.83,0:08:39.58,Default,Mira,0,0,0,,and you're really scary \Nwhen you're mad, Senpai.
+Dialogue: 10,0:08:39.79,0:08:43.36,Default,Sakura,0,0,0,,What a coincidence. \NI'm pretty nervous myself.
+Dialogue: 10,0:08:40.44,0:08:43.36,Default,Sakura,0,0,0,,{\an8}Ow, ow, ow!
+Dialogue: 10,0:08:43.36,0:08:46.04,Default,Mira,0,0,0,,Are you really nervous?!
+Dialogue: 10,0:08:48.00,0:08:49.96,Default,Mira,0,0,0,,There are so many people.
+Dialogue: 10,0:08:49.96,0:08:52.63,Default,Sakura,0,0,0,,Did you notice a lot of them are women?
+Dialogue: 10,0:08:52.63,0:08:56.30,Default,Sakura,0,0,0,,They're also selling power stones \Nand materials for accessories.
+Dialogue: 10,0:08:56.72,0:08:58.14,Default,Mira,0,0,0,,I see.
+Dialogue: 10,0:08:58.68,0:09:00.64,Default,Sakura,0,0,0,,Hey, are you listening to me?
+Dialogue: 10,0:09:03.55,0:09:06.19,Default,Mira,0,0,0,,Why are you peeking at my phone?!
+Dialogue: 10,0:09:06.98,0:09:08.68,Default,Mira,0,0,0,,Ow.
+Dialogue: 10,0:09:08.68,0:09:11.26,Default,Mira,0,0,0,,What are you looking for here, Senpai?
+Dialogue: 10,0:09:12.27,0:09:15.19,Default,Sakura,0,0,0,,I haven't settled on anything \Nspecific, actually.
+Dialogue: 10,0:09:16.32,0:09:19.95,Default,Sakura,0,0,0,,I'm mostly here for a break from my studies.
+Dialogue: 10,0:09:20.45,0:09:22.95,Default,Sakura,0,0,0,,It's fun enough just walking \Naround and looking.
+Dialogue: 10,0:09:23.21,0:09:27.01,Default,Mira,0,0,0,,Wow, so you're window shopping for stones!
+Dialogue: 10,0:09:27.01,0:09:29.59,Default,Sakura,0,0,0,,Oh! It's the chisel set \NI've been looking for!
+Dialogue: 10,0:09:29.92,0:09:34.59,Default,Sakura,0,0,0,,I'll take this, please! And this! \NOh, and give me this too, please!
+Dialogue: 10,0:09:36.35,0:09:38.39,Default,Mira,0,0,0,,How pretty.
+Dialogue: 10,0:09:38.83,0:09:39.60,Default,,0,0,0,,Hi.
+Dialogue: 10,0:09:40.38,0:09:42.48,Default,,0,0,0,,Which power stone do you want?
+Dialogue: 10,0:09:42.48,0:09:45.08,Default,Mira,0,0,0,,Uh, um...
+Dialogue: 10,0:09:45.08,0:09:46.32,Default,,0,0,0,,Excuse me.
+Dialogue: 10,0:09:46.88,0:09:49.38,Default,,0,0,0,,Could you make this a little cheaper?
+Dialogue: 10,0:09:49.38,0:09:51.97,Default,,0,0,0,,Okay. Just a moment, please.
+Dialogue: 10,0:09:51.97,0:09:53.12,Default,,0,0,0,,Sure!
+Dialogue: 10,0:09:56.12,0:09:58.15,Default,Mira,0,0,0,,You're so reliable.
+Dialogue: 10,0:09:58.15,0:10:00.60,Default,Mira,0,0,0,,I'm not leaving your side at all today!
+Dialogue: 10,0:10:00.60,0:10:03.44,Default,Sakura,0,0,0,,Jeez, you're just sweet-talking me.
+Dialogue: 10,0:10:04.50,0:10:06.22,Default,Mira,0,0,0,,Those have rubber bands around them.
+Dialogue: 10,0:10:06.22,0:10:08.92,Default,Sakura,0,0,0,,Yeah, those are geodes.
+Dialogue: 10,0:10:10.68,0:10:11.97,Default,Mira,0,0,0,,It's split!
+Dialogue: 10,0:10:11.97,0:10:14.88,Default,Sakura,0,0,0,,The inside is made up of crystallized minerals.
+Dialogue: 10,0:10:15.06,0:10:19.34,Default,Sakura,0,0,0,,If I remember right, there's a demo corner \Nwhere you can split geodes yourself.
+Dialogue: 10,0:10:19.57,0:10:21.85,Default,Mira,0,0,0,,Wow, a rock splitting demo!
+Dialogue: 10,0:10:22.14,0:10:25.06,Default,Mira,0,0,0,,It's the perfect chance to \Nshow off your iron fist!
+Dialogue: 10,0:10:25.06,0:10:28.64,Default,Sakura,0,0,0,,That compliment's actually quite rude.
+Dialogue: 10,0:10:30.31,0:10:33.90,Default,Mira,0,0,0,,This is fun. There are stones \Nas far as the eye can see!
+Dialogue: 10,0:10:34.57,0:10:35.53,Default,Mira,0,0,0,,Minerals,
+Dialogue: 10,0:10:35.85,0:10:36.99,Default,Mira,0,0,0,,fossils,
+Dialogue: 10,0:10:36.99,0:10:38.45,Default,Mira,0,0,0,,and meteors...
+Dialogue: 10,0:10:38.69,0:10:40.64,Default,Mira,0,0,0,,Huh? Meteors?
+Dialogue: 10,0:10:40.64,0:10:43.40,Default,Mira,0,0,0,,Senpai, Senpai! They're selling meteors!
+Dialogue: 10,0:10:43.40,0:10:45.34,Default,Sakura,0,0,0,,You're too loud.
+Dialogue: 10,0:10:45.34,0:10:47.60,Default,Sakura,0,0,0,,If you found one you like, why not buy it?
+Dialogue: 10,0:10:47.60,0:10:48.90,Default,Mira,0,0,0,,Right!
+Dialogue: 10,0:10:48.90,0:10:52.00,Default,Mira,0,0,0,,Maybe I'll get one as a souvenir for Ao.
+Dialogue: 10,0:11:01.45,0:11:03.48,Default,Sakura,0,0,0,,You bought a lot, huh?
+Dialogue: 10,0:11:03.48,0:11:05.93,Default,Mira,0,0,0,,Yeah. It was so interesting,\NI couldn't help it.
+Dialogue: 10,0:11:06.32,0:11:08.64,Default,Mira,0,0,0,,This is that geode we saw before,
+Dialogue: 10,0:11:08.64,0:11:11.71,Default,Mira,0,0,0,,and the one that looks like \Nit has two layers is calcite.
+Dialogue: 10,0:11:11.71,0:11:14.00,Default,Mira,0,0,0,,There's a bismuth crystal \Nwith mysterious coloring,
+Dialogue: 10,0:11:14.00,0:11:15.48,Default,Mira,0,0,0,,and a pretty banded stone!
+Dialogue: 10,0:11:16.89,0:11:20.80,Default,Sakura,0,0,0,,The banded stones you find \Nall have strange patterns.
+Dialogue: 10,0:11:21.74,0:11:24.53,Default,Mira,0,0,0,,What did you buy, Senpai?
+Dialogue: 10,0:11:24.53,0:11:26.32,Default,Sakura,0,0,0,,Want to see? You want to see?!
+Dialogue: 10,0:11:26.32,0:11:28.45,Default,Mira,0,0,0,,Uh, never mind.
+Dialogue: 10,0:11:29.87,0:11:32.46,Default,Sakura,0,0,0,,Today was a really great breather.
+Dialogue: 10,0:11:33.04,0:11:35.45,Default,Sakura,0,0,0,,I interacted with lots of sparkly stones,
+Dialogue: 10,0:11:35.45,0:11:37.30,Default,,0,0,0,,and enjoyed some fluffy pancakes...
+Dialogue: 10,0:11:37.70,0:11:41.24,Default,Mira,0,0,0,,Now you can really study \Nhard when you get home!
+Dialogue: 10,0:11:43.13,0:11:44.97,Default,Mira,0,0,0,,You're getting depressed!
+Dialogue: 10,0:11:45.20,0:11:47.93,Default,Mira,0,0,0,,Entrance exams are tough, aren't they?
+Dialogue: 10,0:11:47.93,0:11:50.22,Default,Sakura,0,0,0,,It's more like...
+Dialogue: 10,0:11:50.22,0:11:51.97,Default,Sakura,0,0,0,,I just can't get myself into it.
+Dialogue: 10,0:11:52.41,0:11:54.42,Default,Sakura,0,0,0,,I know I mentioned it during summer camp,
+Dialogue: 10,0:11:55.07,0:11:57.36,Default,Sakura,0,0,0,,but I don't have any clear goals.
+Dialogue: 10,0:11:59.82,0:12:03.48,Default,Sakura,0,0,0,,Your dream is to discover a star, right?
+Dialogue: 10,0:12:03.48,0:12:06.37,Default,Mira,0,0,0,,Yes! An asteroid, technically. Not a star.
+Dialogue: 10,0:12:07.30,0:12:10.94,Default,Sakura,0,0,0,,If you do manage to find one, \Nwhat will you do after that?
+Dialogue: 10,0:12:10.94,0:12:12.00,Default,Mira,0,0,0,,After that?
+Dialogue: 10,0:12:12.51,0:12:14.37,Default,Sakura,0,0,0,,When you're an adult.
+Dialogue: 10,0:12:15.20,0:12:18.59,Default,Sakura,0,0,0,,Do you have a career or an \Noccupation you're aiming for?
+Dialogue: 10,0:12:19.67,0:12:22.09,Default,Mira,0,0,0,,When you put it like that...
+Dialogue: 10,0:12:22.64,0:12:24.06,Default,Mira,0,0,0,,I have no idea.
+Dialogue: 10,0:12:28.16,0:12:30.22,Default,Sakura,0,0,0,,I really do envy you.
+Dialogue: 10,0:12:31.83,0:12:33.93,Default,Sakura,0,0,0,,Sorry for bringing up a weird topic.
+Dialogue: 10,0:12:33.93,0:12:36.54,Default,Sakura,0,0,0,,Kind of ruined the break, huh?
+Dialogue: 10,0:12:36.54,0:12:38.48,Default,Sakura,0,0,0,,Let's get another cake.
+Dialogue: 10,0:12:41.12,0:12:43.02,Default,Sakura,0,0,0,,Doesn't it look like strata?
+Dialogue: 10,0:12:43.02,0:12:44.57,Default,Mira,0,0,0,,It does.
+Dialogue: 10,0:12:44.57,0:12:47.62,Default,Sakura,0,0,0,,You're starting to be more \Nlike us geology girls.
+Dialogue: 10,0:12:48.08,0:12:49.90,Default,Sakura,0,0,0,,Let's excavate!
+Dialogue: 10,0:12:49.90,0:12:52.62,Default,Mira,0,0,0,,This walnut fossil is delicious!
+Dialogue: 10,0:12:54.01,0:12:56.37,Default,Sakura,0,0,0,,Sorry for taking up your entire day.
+Dialogue: 10,0:12:56.96,0:12:59.19,Default,Mira,0,0,0,,No, I had fun!
+Dialogue: 10,0:12:59.19,0:13:00.73,Default,Mira,0,0,0,,Thank you so much!
+Dialogue: 10,0:13:00.73,0:13:02.09,Default,Sakura,0,0,0,,Wh-What's this?
+Dialogue: 10,0:13:02.60,0:13:05.05,Default,Mira,0,0,0,,To thank you for inviting me out today.
+Dialogue: 10,0:13:05.05,0:13:07.36,Default,Mira,0,0,0,,I hope we can bring everyone \Nelse with us next time.
+Dialogue: 10,0:13:07.87,0:13:09.96,Default,Mira,0,0,0,,Well, my house is this way.
+Dialogue: 10,0:13:09.96,0:13:10.47,Default,Sakura,0,0,0,,Huh?
+Dialogue: 10,0:13:10.73,0:13:13.18,Default,Sakura,0,0,0,,Y-Yeah, see you later.
+Dialogue: 10,0:13:17.78,0:13:21.58,Default,Sakura,0,0,0,,I forgot to thank her for \Ncoming with me, didn't I?
+Dialogue: 10,0:13:24.36,0:13:25.49,Default,Sakura,0,0,0,,{\i1}Topaz.
+Dialogue: 10,0:13:25.95,0:13:29.95,Default,Sakura,0,0,0,,{\i1}The stone that helps you find \Nthe path you should take, huh?
+Dialogue: 10,0:13:30.80,0:13:32.96,Default,Sakura,0,0,0,,{\i1}What a sophisticated thing to do.
+Dialogue: 10,0:13:37.30,0:13:41.34,Default,Sakura&Text,0,0,0,,{\i1}Thank you for today. \NI really had a lot of fun.
+Dialogue: 10,0:13:41.34,0:13:44.89,Default,Sakura,0,0,0,,No, it doesn't seem right \Nto say it to her like that.
+Dialogue: 10,0:13:45.76,0:13:48.58,Default,Sakura&Text,0,0,0,,{\i1}I was happy you were there to listen to me.
+Dialogue: 10,0:13:48.58,0:13:50.33,Default,,0,0,0,,{\i1}I'll do my best with my studies.
+Dialogue: 10,0:13:50.33,0:13:51.77,Default,Sakura,0,0,0,,Uh, who would say that?
+Dialogue: 10,0:13:54.84,0:13:57.14,Default,Mira,0,0,0,,Oh, Sakura-senpai.
+Dialogue: 10,0:13:57.14,0:13:58.70,Default,Sakura&Text,0,0,0,,{\i1}Thank you for today.
+Dialogue: 10,0:13:58.70,0:14:02.15,Default,Sakura&Text,0,0,0,,{\i1}I'll study hard, so make sure \Nto give it your best, too!
+Dialogue: 10,0:14:02.15,0:14:03.48,Default,Sakura&Text,0,0,0,,{\i1}Growr!
+Dialogue: 10,0:14:04.75,0:14:05.74,Default,Mira,0,0,0,,Senpai?
+Comment: 10,0:14:11.99,0:14:11.99,Default,chptr,0,0,0,,{Part B}Part B
+Dialogue: 10,0:14:14.43,0:14:17.67,Default,Boy,0,0,0,,Sensei! I want to be a train driver!
+Dialogue: 10,0:14:17.67,0:14:19.50,Default,Girl,0,0,0,,I want to be a cake baker!
+Dialogue: 10,0:14:19.50,0:14:20.96,Default,Girl,0,0,0,,An astronaut!
+Dialogue: 10,0:14:20.96,0:14:23.17,Default,Boy,0,0,0,,I want to be a train driver, too.
+Dialogue: 10,0:14:23.58,0:14:25.76,Default,Caretaker,0,0,0,,That's lovely, everyone.
+Dialogue: 10,0:14:26.50,0:14:27.83,Default,Caretaker,0,0,0,,What about you, Mikage-chan?
+Dialogue: 10,0:14:27.83,0:14:28.62,Default,Sakura,0,0,0,,Huh?
+Dialogue: 10,0:14:29.38,0:14:32.45,Default,Caretaker,0,0,0,,What do you want to be in the future?
+Dialogue: 10,0:14:36.12,0:14:37.40,Default,Sakura,0,0,0,,I...
+Dialogue: 10,0:14:46.83,0:14:47.89,Default,Girl,0,0,0,,Morning!
+Dialogue: 10,0:14:47.89,0:14:49.15,Default,Girl,0,0,0,,Oh, morning!
+Dialogue: 10,0:14:50.54,0:14:53.50,Default,Ino,0,0,0,,Sakura-senpai, good morning.
+Dialogue: 10,0:14:53.50,0:14:55.37,Default,Sakura,0,0,0,,Oh, morning.
+Dialogue: 10,0:14:57.85,0:15:00.84,Default,Sakura,0,0,0,,Do we have a meeting today?
+Dialogue: 10,0:15:00.84,0:15:01.44,Default,Ino,0,0,0,,Huh?
+Dialogue: 10,0:15:02.13,0:15:04.25,Default,Ino,0,0,0,,Oh, yes. After school.
+Dialogue: 10,0:15:05.84,0:15:06.95,Default,Sakura,0,0,0,,Right.
+Dialogue: 10,0:15:07.90,0:15:09.86,Default,Sakura,0,0,0,,The cultural festival's coming up soon,
+Dialogue: 10,0:15:09.86,0:15:12.39,Default,,0,0,0,,so we need to start making \Ndecisions on things.
+Dialogue: 10,0:15:13.19,0:15:14.13,Default,Ino,0,0,0,,Right.
+Dialogue: 10,0:15:16.47,0:15:18.54,Default,Mira,0,0,0,,It's still so hot.
+Dialogue: 10,0:15:20.38,0:15:22.13,Default,Ao,0,0,0,,L-Look.
+Dialogue: 10,0:15:24.18,0:15:25.98,Default,Ao,0,0,0,,Wh-What?
+Dialogue: 10,0:15:28.26,0:15:29.36,Default,Ino,0,0,0,,Ibe-chan?!
+Dialogue: 10,0:15:29.94,0:15:31.54,Default,Eve,0,0,0,,Eve!
+Dialogue: 10,0:15:31.54,0:15:33.82,Default,Eve,0,0,0,,I told you to call me Eve, didn't I?!
+Dialogue: 10,0:15:34.12,0:15:36.68,Default,Ino,0,0,0,,She's one of my friends from class.
+Dialogue: 10,0:15:38.15,0:15:39.71,Default,Mira,0,0,0,,Friends?
+Dialogue: 10,0:15:39.71,0:15:41.46,Default,Usami,0,0,0,,Oh, it's Manaka-san!
+Dialogue: 10,0:15:42.14,0:15:43.39,Default,,0,0,0,,Yoohoo!
+Dialogue: 10,0:15:43.39,0:15:44.42,Default,Ao,0,0,0,,Usami-san.
+Dialogue: 10,0:15:44.64,0:15:46.01,Default,Mira,0,0,0,,Someone you know?
+Dialogue: 10,0:15:46.01,0:15:47.58,Default,Ao,0,0,0,,A classmate.
+Dialogue: 10,0:15:47.58,0:15:51.76,Default,Usami,0,0,0,,Sorry, our Eve-senpai is such a pain.
+Dialogue: 10,0:15:52.31,0:15:53.47,Default,Monroe,0,0,0,,Reconnaissance?
+Dialogue: 10,0:15:53.47,0:15:54.70,Default,Eve,0,0,0,,That's right!
+Dialogue: 10,0:15:54.70,0:15:57.98,Default,Eve,0,0,0,,We're a secret squad within the \Nnewspaper club that's taking
+Dialogue: 10,0:15:57.98,0:16:00.39,Default,,0,0,0,,covert action to crush the \Nearth sciences club's newsletter!
+Dialogue: 10,0:16:02.04,0:16:04.52,Default,Ino,0,0,0,,This is my first time seeing covert action!
+Dialogue: 10,0:16:05.13,0:16:07.27,Default,Usami,0,0,0,,Our Senpai is a little off,
+Dialogue: 10,0:16:07.27,0:16:11.29,Default,Usami,0,0,0,,but the girls of the earth sciences \Nclub are pretty spacey too, huh?
+Dialogue: 10,0:16:12.07,0:16:14.64,Default,Sakura,0,0,0,,You said you're going to crush our newsletter?
+Dialogue: 10,0:16:14.64,0:16:17.89,Default,Monroe,0,0,0,,Could you tell us what you mean by that?
+Dialogue: 10,0:16:17.89,0:16:19.58,Default,Eve,0,0,0,,I can't share too many details,
+Dialogue: 10,0:16:19.99,0:16:23.14,Default,Eve,0,0,0,,but our newspaper's not selling.
+Dialogue: 10,0:16:23.14,0:16:26.67,Default,Eve,0,0,0,,It must be because the earth sciences \Nclub's newsletter is right beside it,
+Dialogue: 10,0:16:26.67,0:16:28.80,Default,,0,0,0,,and yours is interesting and full of content!
+Dialogue: 10,0:16:28.80,0:16:32.88,Default,Sakura,0,0,0,,I think we're being praised and \Nreprimanded at the same time.
+Dialogue: 10,0:16:32.88,0:16:34.72,Default,Monroe,0,0,0,,You're such an honest girl.
+Dialogue: 10,0:16:34.72,0:16:38.83,Default,Monroe,0,0,0,,So you're trying to stop the production \Nof the earth sciences club's newsletter?
+Dialogue: 10,0:16:38.83,0:16:39.82,Default,Eve,0,0,0,,Yeah!
+Dialogue: 10,0:16:39.82,0:16:43.64,Default,Eve,0,0,0,,I was just looking for any scandals\N that we could use as blackmail!
+Dialogue: 10,0:16:44.12,0:16:47.04,Default,Sakura,0,0,0,,You spilled everything \Nin barely a few minutes.
+Dialogue: 10,0:16:47.04,0:16:48.99,Default,Sakura,0,0,0,,You're dumber than Mira.
+Dialogue: 10,0:16:48.99,0:16:49.65,Default,Mira,0,0,0,,Huh?
+Dialogue: 10,0:16:50.31,0:16:52.82,Default,Ino,0,0,0,,Did you find any scandals?
+Dialogue: 10,0:16:53.68,0:16:56.46,Default,Eve,0,0,0,,I tried spying on your club \Nroom from several angles,
+Dialogue: 10,0:16:56.46,0:16:57.57,Default,,0,0,0,,and I found nothing!
+Dialogue: 10,0:16:57.94,0:17:02.02,Default,Eve,0,0,0,,{\i1}I was just looking for any scandals \Nthat we could use as blackmail!
+Dialogue: 10,0:17:02.02,0:17:03.83,Default,Monroe,0,0,0,,Oh, my, what a shame.
+Dialogue: 10,0:17:04.09,0:17:08.46,Default,Monroe,0,0,0,,Especially since you just shared something \Nwe can blackmail the newspaper club with.
+Dialogue: 10,0:17:08.71,0:17:10.90,Default,Eve,0,0,0,,Huh?! When did you...
+Dialogue: 10,0:17:12.32,0:17:14.91,Default,Eve,0,0,0,,You can do whatever you want to me!
+Dialogue: 10,0:17:14.91,0:17:18.89,Default,Sakura,0,0,0,,Well, it's not like you're causing any \Nharm by peeking into the club room.
+Dialogue: 10,0:17:18.89,0:17:23.02,Default,Usami,0,0,0,,I'm so sorry. She just loves \Nmaking everything dramatic.
+Dialogue: 10,0:17:23.25,0:17:28.02,Default,Monroe,0,0,0,,I know! Why don't you help us think \Nof an exhibit for the cultural festival?
+Dialogue: 10,0:17:28.60,0:17:30.26,Default,Usami,0,0,0,,An exhibit for...
+Dialogue: 10,0:17:30.26,0:17:31.40,Default,Eve,0,0,0,,...the cultural festival?
+Dialogue: 10,0:17:31.61,0:17:35.15,Default,Mira,0,0,0,,I know! I want to create a \Nmodel of our solar system!
+Dialogue: 10,0:17:35.15,0:17:35.99,Default,Ao,0,0,0,,Uh-huh!
+Dialogue: 10,0:17:36.49,0:17:37.88,Default,Monroe,0,0,0,,That sounds nice.
+Dialogue: 10,0:17:37.88,0:17:42.05,Default,Monroe,0,0,0,,Last year, the geology club made a display \Nboard showing off their research, right?
+Dialogue: 10,0:17:42.05,0:17:43.00,Default,Ino,0,0,0,,Yes.
+Dialogue: 10,0:17:43.00,0:17:46.46,Default,Ino,0,0,0,,Surprisingly, few people actually read it.
+Dialogue: 10,0:17:47.17,0:17:50.45,Default,Sakura,0,0,0,,I guess we need some kind of \Nexhibit that draws attention.
+Dialogue: 10,0:17:50.45,0:17:52.97,Default,Sakura,0,0,0,,Something both kids and adults can enjoy.
+Dialogue: 10,0:17:52.97,0:17:55.27,Default,Mira,0,0,0,,I know! Why don't we \Ncosplay again this year?!
+Dialogue: 10,0:17:55.27,0:17:55.97,Default,Sakura,0,0,0,,Rejected.
+Dialogue: 10,0:17:56.17,0:17:58.08,Default,Eve,0,0,0,,An exhibit that draws attention, huh?
+Dialogue: 10,0:17:58.08,0:17:59.80,Default,Eve,0,0,0,,You need something huge!
+Dialogue: 10,0:18:00.32,0:18:04.44,Default,Usami,0,0,0,,Could you bring in any giant \Nrocks from the mountains?
+Dialogue: 10,0:18:04.44,0:18:07.61,Default,Eve,0,0,0,,Oh! You'll need an explosion too, then!
+Dialogue: 10,0:18:07.61,0:18:10.15,Default,Ino,0,0,0,,"Blast" would be the correct term.
+Dialogue: 10,0:18:11.49,0:18:13.33,Default,Usami,0,0,0,,I shouldn't have said anything.
+Dialogue: 10,0:18:13.33,0:18:17.80,Default,Mira,0,0,0,,Sakura-senpai, do you think \Nwe could bring in some strata?
+Dialogue: 10,0:18:19.36,0:18:21.70,Default,Sakura,0,0,0,,You mean a surface peel specimen?
+Dialogue: 10,0:18:22.69,0:18:24.37,Default,Sakura,0,0,0,,I've never made one before,
+Dialogue: 10,0:18:24.37,0:18:27.81,Default,,0,0,0,,and I'm not sure we have a rocky \Noutcropping we could use as a specimen.
+Dialogue: 10,0:18:27.81,0:18:31.21,Default,Monroe,0,0,0,,How about a boring survey of the campus, then?
+Dialogue: 10,0:18:31.21,0:18:32.16,Default,Mira,0,0,0,,Hmph!
+Dialogue: 10,0:18:32.16,0:18:33.96,Default,Sakura,0,0,0,,I get it, but it's not "bowling."
+Dialogue: 10,0:18:34.52,0:18:37.34,Default,Ao,0,0,0,,You mean "boring" as in drilling holes, right?
+Dialogue: 10,0:18:37.57,0:18:40.97,Default,Monroe,0,0,0,,Right. You drive a pipe into the \Nground and bore out a sample.
+Dialogue: 10,0:18:40.97,0:18:44.64,Default,Eve,0,0,0,,So if you can add an explosion \Nand a huge rock to that...
+Dialogue: 10,0:18:45.01,0:18:49.35,Default,Usami,0,0,0,,Yes, Eve-chan-senpai. You're embarrassing yourself, \Nso we should be getting back now.
+Dialogue: 10,0:18:50.99,0:18:53.86,Default,Sakura,0,0,0,,Boring does sound fun, though.
+Dialogue: 10,0:18:54.22,0:18:56.12,Default,Sakura,0,0,0,,Let's give it some thought.
+Dialogue: 10,0:19:04.36,0:19:05.71,Default,Ino,0,0,0,,Excuse me.
+Dialogue: 10,0:19:06.40,0:19:09.83,Default,Eve,0,0,0,,Inose, are you here scouting \Nus out this time?!
+Dialogue: 10,0:19:10.02,0:19:12.33,Default,Ino,0,0,0,,No, it's not about that.
+Dialogue: 10,0:19:12.33,0:19:15.17,Default,Ino,0,0,0,,I'm actually here because something \Nstrange happened this morning.
+Dialogue: 10,0:19:15.51,0:19:17.38,Default,Eve,0,0,0,,Oh, an incident?!
+Dialogue: 10,0:19:18.94,0:19:23.09,Default,Ino,0,0,0,,Over summer break, someone named the koi.
+Dialogue: 10,0:19:23.68,0:19:27.10,Default,Eve,0,0,0,,Well, I guess that could \Nmake for a filler article.
+Dialogue: 10,0:19:27.47,0:19:31.30,Default,Eve,0,0,0,,I'm surprised you noticed \Nthese tiny signs, though.
+Dialogue: 10,0:19:31.30,0:19:34.20,Default,Ino,0,0,0,,Because I've been watching \Nthem since my first year here.
+Dialogue: 10,0:19:35.76,0:19:38.53,Default,Eve,0,0,0,,I guess some people might \Nfind this interesting.
+Dialogue: 10,0:19:39.03,0:19:42.49,Default,Ino,0,0,0,,That reminds me. \NYou've changed a bit, haven't you?
+Dialogue: 10,0:19:43.64,0:19:47.20,Default,Ino,0,0,0,,Your bangs are a bit shorter than \Nthey were in the first semester.
+Dialogue: 10,0:19:47.20,0:19:49.20,Default,Ino,0,0,0,,I can tell because I was always watching.
+Dialogue: 10,0:19:52.18,0:19:54.87,Default,Usami,0,0,0,,Senpai, your heart just \Nskipped a beat, didn't it?
+Dialogue: 10,0:19:54.87,0:19:56.38,Default,Eve,0,0,0,,Sh-Shut up!
+Dialogue: 10,0:19:56.38,0:19:58.71,Default,Eve,0,0,0,,As if! That means nothing to me!
+Dialogue: 10,0:19:57.47,0:19:58.71,Default,Usami,0,0,0,,{\an8}Yes, yes.
+Dialogue: 10,0:19:59.79,0:20:01.30,Default,Sakura,0,0,0,,{\an8}I kind of expected it,
+Dialogue: 10,0:20:01.68,0:20:07.20,Default,Sakura,0,0,0,,{\an8}but really trying to conduct a boring survey \Nwould be costly in both money and labor.
+Dialogue: 10,0:20:08.23,0:20:13.82,Default,Monroe,0,0,0,,It says, "The harvested boring cores \Nare kept under school custody."
+Dialogue: 10,0:20:16.56,0:20:20.27,Default,Endou,0,0,0,,Looks like the school only has paper records.
+Dialogue: 10,0:20:20.27,0:20:21.81,Default,Sakura,0,0,0,,I see.
+Dialogue: 10,0:20:22.74,0:20:25.79,Default,Mira,0,0,0,,This is cute. It's like masking tape.
+Dialogue: 10,0:20:25.79,0:20:29.45,Default,Endou,0,0,0,,Yeah, this is how you illustrate \Nthe results of a boring survey.
+Dialogue: 10,0:20:30.46,0:20:32.97,Default,Endou,0,0,0,,Araya-sensei, do we have agar?
+Dialogue: 10,0:20:33.46,0:20:34.54,Default,Araya,0,0,0,,We do.
+Dialogue: 10,0:20:40.49,0:20:42.10,Default,Mira,0,0,0,,That's so cool!
+Dialogue: 10,0:20:42.10,0:20:44.19,Default,Ino,0,0,0,,It's a mock boring survey.
+Dialogue: 10,0:20:44.19,0:20:45.31,Default,Monroe,0,0,0,,I know!
+Dialogue: 10,0:20:45.31,0:20:47.26,Default,Monroe,0,0,0,,{\an8}Why don't we serve this as a café?
+Dialogue: 10,0:20:47.87,0:20:49.00,Default,Mira,0,0,0,,A café?
+Dialogue: 10,0:20:49.00,0:20:52.80,Default,Ao,0,0,0,,We could make other sweets and drinks \Nwith earth science themes.
+Dialogue: 10,0:20:52.80,0:20:56.64,Default,Ino,0,0,0,,A café where you can enjoy earth sciences \Nalong with tea and sweets...
+Dialogue: 10,0:20:56.64,0:20:57.48,Default,Ino,0,0,0,,A geocafé!
+Dialogue: 10,0:20:57.79,0:20:59.32,Default,Ino,0,0,0,,That might be nice!
+Dialogue: 10,0:20:59.32,0:21:00.23,Default,Monroe,0,0,0,,It's settled, then.
+Dialogue: 10,0:21:00.55,0:21:04.90,Default,Mira,0,0,0,,Ao! Let's come up with some ideas for \Nsweets and talk to Suzu-chan about them!
+Dialogue: 10,0:21:04.90,0:21:05.69,Default,Ao,0,0,0,,Yeah.
+Dialogue: 10,0:21:05.69,0:21:08.99,Default,Monroe,0,0,0,,Then the geology group's exhibit \Nfor the café will be...
+Dialogue: 10,0:21:09.60,0:21:12.58,Default,Ino,0,0,0,,Actually boring into the campus?
+Dialogue: 10,0:21:13.01,0:21:15.71,Default,Sakura,0,0,0,,We can't do that. It's not realistic.
+Dialogue: 10,0:21:16.52,0:21:20.17,Default,Sakura,0,0,0,,We can't ask other businesses to \Nhelp with the cultural festival.
+Dialogue: 10,0:21:22.46,0:21:23.61,Default,Endou,0,0,0,,Hey, Sakurai.
+Dialogue: 10,0:21:24.87,0:21:26.37,Default,Endou,0,0,0,,If you're interested in it,
+Dialogue: 10,0:21:26.37,0:21:29.22,Default,,0,0,0,,why not just organize what data \Nand findings you can dig up?
+Dialogue: 10,0:21:29.53,0:21:33.92,Default,Sakura,0,0,0,,But without the real thing, it won't \Nbe a centerpiece for the exhibit,
+Dialogue: 10,0:21:33.92,0:21:36.03,Default,Sakura,0,0,0,,and it'll just look haphazard.
+Dialogue: 10,0:21:36.03,0:21:37.85,Default,Endou,0,0,0,,And that's fine.
+Dialogue: 10,0:21:38.94,0:21:43.19,Default,Endou,0,0,0,,It'd be a waste to just decide it's \Nimpossible and completely scrap it all, right?
+Dialogue: 10,0:21:44.52,0:21:50.87,Default,Endou,0,0,0,,At the very least, I want to learn what \Nyou researched and what you thought of it.
+Dialogue: 10,0:21:51.47,0:21:53.46,Default,Ino,0,0,0,,I want to know, too.
+Dialogue: 10,0:21:53.46,0:21:54.25,Default,All,0,0,0,,Yeah.
+Dialogue: 10,0:21:59.69,0:22:03.74,Default,Mira,0,0,0,,{\i1}And so our earth sciences club begins \Npreparing for the cultural festival!
+Comment: 10,0:22:05.01,0:22:05.01,Default,chptr,0,0,0,,{ED}ED
+Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
+Dialogue: 10,0:23:36.22,0:23:38.43,Default,Mira,0,0,0,,Next time, "Hoshizaki Festival!"
+Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
 Dialogue: 0,0:02:18.36,0:02:22.41,Ep Title,Screen,0,0,0,,{\fad(1400,1172)}05.     Everyone's Summer Break
-Dialogue: 0,0:02:19.07,0:02:23.93,Love Asteroid - Top,Mira,0,0,0,,I wish Sakura-senpai and Monroe-senpai \Ncould have joined us, too.
-Dialogue: 0,0:02:23.93,0:02:26.58,Love Asteroid - Default,Ao,0,0,0,,Summer classes sound rough.
-Dialogue: 0,0:02:26.58,0:02:27.98,Love Asteroid - Default,Mira,0,0,0,,Yeah!
-Dialogue: 0,0:02:27.98,0:02:29.96,Love Asteroid - Default,Ao,0,0,0,,Mira, don't move without warning.
-Dialogue: 0,0:02:30.55,0:02:33.77,Love Asteroid - Default,Suzu,0,0,0,,Looks like you two have grown \Nquite close to each other.
-Dialogue: 0,0:02:33.77,0:02:35.05,Love Asteroid - Default,Suzu,0,0,0,,Especially you, Ao.
-Dialogue: 0,0:02:37.89,0:02:41.08,Love Asteroid - Default,Ao,0,0,0,,Yeah, I can talk to her like normal now.
-Dialogue: 0,0:02:41.08,0:02:44.82,Love Asteroid - Default,Mira,0,0,0,,We went to a hot spring together, \Nand we had a sleepover, too!
-Dialogue: 0,0:02:46.52,0:02:48.31,Love Asteroid - Default,Mira,0,0,0,,The beach is so fun!
-Dialogue: 0,0:02:48.31,0:02:49.26,Love Asteroid - Top,Ao,0,0,0,,It is.
-Dialogue: 0,0:02:49.26,0:02:50.60,Love Asteroid - Top,Mira,0,0,0,,Let's swim more!
-Dialogue: 0,0:02:49.54,0:02:51.48,Love Asteroid - Italics,Suzu,0,0,0,,Now that I think about it,
-Dialogue: 0,0:02:50.60,0:02:51.48,Love Asteroid - Top,Ao,0,0,0,,Yeah!
-Dialogue: 0,0:02:51.48,0:02:56.05,Love Asteroid - Italics,,0,0,0,,I don't think there's ever been any \Ngirl who was closer to Mira than me.
-Dialogue: 0,0:02:56.94,0:02:58.32,Love Asteroid - Italics,Suzu,0,0,0,,Could this be...
-Dialogue: 0,0:02:58.32,0:03:00.35,Love Asteroid - Italics,Suzu,0,0,0,,what people call "jealousy"?!
-Dialogue: 0,0:03:01.32,0:03:03.28,Love Asteroid - Default,Mira,0,0,0,,I'm hungry!
-Dialogue: 0,0:03:03.28,0:03:04.91,Love Asteroid - Default,Mira,0,0,0,,Why don't we have lunch now?
-Dialogue: 0,0:03:05.14,0:03:06.02,Love Asteroid - Italics,Suzu,0,0,0,,Lunch!
-Dialogue: 0,0:03:06.77,0:03:08.75,Love Asteroid - Default,Suzu,0,0,0,,Ao, let's have a match!
-Dialogue: 0,0:03:10.20,0:03:11.12,Love Asteroid - Default,Ao,0,0,0,,Huh?
-Dialogue: 0,0:03:11.12,0:03:15.00,Love Asteroid - Default,Suzu,0,0,0,,A best-of-three match over \Nwho's Mira's best friend!
-Dialogue: 0,0:03:15.00,0:03:16.00,Love Asteroid - Default,Ao,0,0,0,,Huh?!
-Dialogue: 0,0:03:16.00,0:03:17.82,Love Asteroid - Default,Ao,0,0,0,,Hey, Mira...
-Dialogue: 0,0:03:19.72,0:03:21.43,sign_4789_42_Beach_House,Sign,0,0,0,,Beach House\N{\fs24}Sea Gravel
-Dialogue: 0,0:03:20.32,0:03:21.43,Love Asteroid - Default,Suzu,0,0,0,,Round one!
-Dialogue: 0,0:03:22.00,0:03:25.39,Love Asteroid - Default,Suzu,0,0,0,,Preparing Mira's favorite food!
-Dialogue: 0,0:03:26.95,0:03:28.77,Love Asteroid - Default,Ao,0,0,0,,How did this happen?
-Dialogue: 0,0:03:31.62,0:03:33.44,Love Asteroid - Italics,Suzu,0,0,0,,I know Mira loves strawberries.
-Dialogue: 0,0:03:34.01,0:03:36.90,Love Asteroid - Italics,Ao,0,0,0,,If I remember right, she likes pork cutlets.
-Dialogue: 0,0:03:37.36,0:03:39.07,Love Asteroid - Default,Suzu,0,0,0,,And... showdown!
-Dialogue: 0,0:03:40.97,0:03:42.58,Love Asteroid - Default,Mira,0,0,0,,I love them both!
-Dialogue: 0,0:03:42.58,0:03:46.54,Love Asteroid - Default,Ino,0,0,0,,It's hard to compare \Ndifferent genres of food.
-Dialogue: 0,0:03:48.28,0:03:49.45,Love Asteroid - Default,Suzu,0,0,0,,Round two!
-Dialogue: 0,0:03:49.96,0:03:53.90,Love Asteroid - Default,Suzu,0,0,0,,A competition to see who \Ncan touch Mira first!
-Dialogue: 0,0:03:53.90,0:03:56.17,Love Asteroid - Default,Suzu,0,0,0,,Ino-senpai, please start us off!
-Dialogue: 0,0:03:56.43,0:03:57.99,Love Asteroid - Default,Ino,0,0,0,,Okay!
-Dialogue: 0,0:03:58.41,0:04:00.38,Love Asteroid - Default,Ino,0,0,0,,Though, before we start,
-Dialogue: 0,0:04:00.38,0:04:04.30,Love Asteroid - Default,Ino,0,0,0,,make sure you both keep \Na look out for rip tides.
-Dialogue: 0,0:04:00.38,0:04:17.15,sign_5764_57_Beware_of_Rip_Ti,Sign,0,0,0,,Beware of Rip Tides!\N{\fs16}Don't go in the ocean \Nwhen the waves are rough.
-Dialogue: 0,0:04:04.86,0:04:06.21,Love Asteroid - Default,Ao,0,0,0,,Rip tides?
-Dialogue: 0,0:04:06.21,0:04:09.79,Love Asteroid - Default,Ino,0,0,0,,Strong currents that flow \Nfrom the shore out to sea.
-Dialogue: 0,0:04:09.79,0:04:11.89,Love Asteroid - Default,Ino,0,0,0,,If you get pulled into that current,
-Dialogue: 0,0:04:11.89,0:04:16.19,Love Asteroid - Default,,0,0,0,,you'll drift farther and farther \Nout to sea, so be very careful.
-Dialogue: 0,0:04:17.15,0:04:18.01,Love Asteroid - Default,Both,0,0,0,,Huh?
-Dialogue: 0,0:04:18.90,0:04:20.86,Love Asteroid - Default,Both,0,0,0,,Mira!
-Dialogue: 0,0:04:23.07,0:04:24.81,Love Asteroid - Default,Mira,0,0,0,,Sorry about that.
-Dialogue: 0,0:04:24.81,0:04:27.55,Love Asteroid - Default,Mira,0,0,0,,You girls just weren't coming, \Nso I started swimming.
-Dialogue: 0,0:04:27.55,0:04:30.00,Love Asteroid - Default,Ao,0,0,0,,I'm so glad you weren't drifting away.
-Dialogue: 0,0:04:30.00,0:04:32.20,Love Asteroid - Default,Suzu,0,0,0,,That was no time to be \Nworrying about our match.
-Dialogue: 0,0:04:33.13,0:04:34.85,Love Asteroid - Default,Suzu,0,0,0,,So, getting back to business,
-Dialogue: 0,0:04:34.85,0:04:38.74,Love Asteroid - Default,Suzu,0,0,0,,I think we should have Ino-senpai \Ndecide the final match. It's only fair.
-Dialogue: 0,0:04:38.74,0:04:39.21,Love Asteroid - Default,Ao,0,0,0,,Huh?
-Dialogue: 0,0:04:39.64,0:04:41.25,Love Asteroid - Default,Ao,0,0,0,,We're still doing this?
-Dialogue: 0,0:04:42.94,0:04:46.57,Love Asteroid - Default,Ino,0,0,0,,Okay, why don't we have everyone ride that?
-Dialogue: 0,0:04:46.57,0:04:48.55,Love Asteroid - Default,Mira,0,0,0,,Wow, that looks fun!
-Dialogue: 0,0:04:48.82,0:04:49.65,Love Asteroid - Default,Both,0,0,0,,Huh?
-Dialogue: 0,0:04:53.63,0:04:56.73,Love Asteroid - Default,Man,0,0,0,,There are a few waves out here, \Nso the boat might rock.
-Dialogue: 0,0:04:56.73,0:04:58.69,Love Asteroid - Default,Both,0,0,0,,Okay!
-Dialogue: 0,0:05:00.54,0:05:02.08,Love Asteroid - Default,Mira,0,0,0,,Suzu-chan, your hair!
-Dialogue: 0,0:05:02.08,0:05:02.90,Love Asteroid - Default,Suzu,0,0,0,,Oh, sorry!
-Dialogue: 0,0:05:03.74,0:05:05.91,Love Asteroid - Italics,Suzu,0,0,0,,She let go?!
-Dialogue: 0,0:05:06.33,0:05:07.27,Love Asteroid - Default,Mira,0,0,0,,I'm falling!
-Dialogue: 0,0:05:07.27,0:05:07.87,Love Asteroid - Default,Suzu,0,0,0,,Mira!
-Dialogue: 0,0:05:08.53,0:05:09.70,Love Asteroid - Default,Ao,0,0,0,,Suzu-san!
-Dialogue: 0,0:05:16.21,0:05:18.54,Love Asteroid - Default,Mira,0,0,0,,That scared me!
-Dialogue: 0,0:05:18.71,0:05:22.26,Love Asteroid - Default,Mira,0,0,0,,Both of you started falling together.
-Dialogue: 0,0:05:22.26,0:05:26.33,Love Asteroid - Default,Suzu,0,0,0,,I was just trying to rescue you, Mira.
-Dialogue: 0,0:05:26.33,0:05:29.55,Love Asteroid - Default,Ao,0,0,0,,I was trying to rescue Suzu-san.
-Dialogue: 0,0:05:29.55,0:05:32.10,Love Asteroid - Default,Ino,0,0,0,,You both ignored the match.
-Dialogue: 0,0:05:32.48,0:05:34.00,Love Asteroid - Default,Ino,0,0,0,,You're so kind.
-Dialogue: 0,0:05:35.88,0:05:38.02,Love Asteroid - Default,Ino,0,0,0,,If you can show that much \Nconcern for each other,
-Dialogue: 0,0:05:38.02,0:05:41.19,Love Asteroid - Default,Ino,0,0,0,,what's wrong with all three \Nof you being best friends?
-Dialogue: 0,0:05:41.65,0:05:43.08,Love Asteroid - Default,Suzu,0,0,0,,All three?
-Dialogue: 0,0:05:48.17,0:05:49.46,Love Asteroid - Italics,Suzu,0,0,0,,I get it.
-Dialogue: 0,0:05:50.11,0:05:55.41,Love Asteroid - Italics,Suzu,0,0,0,,Did Senpai propose the boat for our \Nmatch because she saw this coming?
-Dialogue: 0,0:05:55.41,0:05:59.12,Love Asteroid - Default,Ino,0,0,0,,Still, this is incredible! \NYou can see the strata so clearly!
-Dialogue: 0,0:05:59.44,0:06:01.82,Love Asteroid - Default,Ino,0,0,0,,I wish could show this to Sakura-senpai, too!
-Dialogue: 0,0:06:01.82,0:06:02.99,Love Asteroid - Italics,Suzu,0,0,0,,I guess not.
-Dialogue: 0,0:06:07.00,0:06:09.04,Love Asteroid - Default,Mira,0,0,0,,Ino-senpai's asleep.
-Dialogue: 0,0:06:09.75,0:06:11.43,Love Asteroid - Default,Suzu,0,0,0,,She's worn out from all the fun.
-Dialogue: 0,0:06:17.31,0:06:18.23,Love Asteroid - Default,Suzu,0,0,0,,Ao...
-Dialogue: 0,0:06:20.00,0:06:24.94,Love Asteroid - Default,Suzu,0,0,0,,I'm sorry for getting you \Nall wound up in my jealousy.
-Dialogue: 0,0:06:25.18,0:06:29.84,Love Asteroid - Default,Ao,0,0,0,,Huh? Oh, you were feeling jealous?
-Dialogue: 0,0:06:29.84,0:06:30.95,Love Asteroid - Default,Ao,0,0,0,,Now I get it.
-Dialogue: 0,0:06:32.71,0:06:34.41,Love Asteroid - Default,Ao,0,0,0,,I'm sorry, too.
-Dialogue: 0,0:06:34.41,0:06:37.83,Love Asteroid - Default,Ao,0,0,0,,I often don't notice how others are feeling.
-Dialogue: 0,0:06:38.40,0:06:39.87,Love Asteroid - Default,Suzu,0,0,0,,I see.
-Dialogue: 0,0:06:39.87,0:06:44.82,Love Asteroid - Default,Suzu,0,0,0,,I'll have to tell you what I'm thinking \Nmore clearly from now on, then.
-Dialogue: 0,0:06:46.49,0:06:48.09,Love Asteroid - Default,Suzu,0,0,0,,Well, to put it out there,
-Dialogue: 0,0:06:48.78,0:06:53.50,Love Asteroid - Default,Suzu,0,0,0,,I hope we can get along in many\N ways as new best friends.
-Dialogue: 0,0:06:57.50,0:06:59.97,Love Asteroid - Default,Mira,0,0,0,,Oh, it's from Monroe-senpai.
-Dialogue: 0,0:07:00.96,0:07:02.59,Love Asteroid - Default,Suzu,0,0,0,,Huh?! Why's she in a swimsuit?!
-Dialogue: 0,0:07:02.59,0:07:04.38,Love Asteroid - Default,Suzu,0,0,0,,And Sakura-senpai, too?!
-Dialogue: 0,0:07:04.38,0:07:06.45,Love Asteroid - Default,Mira,0,0,0,,She says, "We finished our summer classes,
-Dialogue: 0,0:07:06.45,0:07:09.85,Love Asteroid - Default,,0,0,0,,so now we're relaxing at the school pool."
-Dialogue: 0,0:07:09.85,0:07:12.94,Love Asteroid - Default,Suzu,0,0,0,,Please give me those photos, \Nas your best friend!
-Dialogue: 0,0:07:12.94,0:07:15.78,Love Asteroid - Default,Mira,0,0,0,,What is your definition of "best friend"?
-Dialogue: 0,0:07:17.60,0:07:19.92,Love Asteroid - Default,Ao,0,0,0,,Oh, Jupiter.
-Dialogue: 0,0:07:19.92,0:07:21.79,Love Asteroid - Default,Mira,0,0,0,,Huh? You can see it?
-Dialogue: 0,0:07:21.79,0:07:23.21,Love Asteroid - Default,Mira,0,0,0,,Oh, you can!
-Dialogue: 0,0:07:24.24,0:07:27.63,Love Asteroid - Default,Suzu,0,0,0,,Wow. You can tell which planet it is at a glance.
-Dialogue: 0,0:07:28.19,0:07:31.34,Love Asteroid - Default,Ao,0,0,0,,Yeah, generally, due to its color and brightness.
-Dialogue: 0,0:07:33.62,0:07:37.01,Love Asteroid - Default,Suzu,0,0,0,,I've only learned about the stars in class,
-Dialogue: 0,0:07:37.25,0:07:40.21,Love Asteroid - Default,Suzu,0,0,0,,but maybe I should make it\Na point to learn more.
-Dialogue: 0,0:07:40.21,0:07:41.35,Love Asteroid - Default,Suzu,0,0,0,,Huh? What?
-Dialogue: 0,0:07:41.35,0:07:46.11,sign_11062_127_Monthly_Star_Nav,Book,0,0,0,,Monthly Star Navi
-Dialogue: 0,0:07:41.78,0:07:46.11,Love Asteroid - Default,Mira,0,0,0,,That's probably her way of showing \Naffection, so you should accept it.
-Dialogue: 0,0:07:46.65,0:07:48.82,Love Asteroid - Default,Suzu,0,0,0,,Oh, sure.
-Dialogue: 0,0:07:50.07,0:07:54.13,Love Asteroid - Italics,Mira,0,0,0,,With that, Suzu-chan's very \Nfulfilling day came to an end.
-Dialogue: 0,0:07:54.13,0:07:56.99,Love Asteroid - Italics,Mira,0,0,0,,It wasn't much longer until the \Nlast night of summer break.
-Dialogue: 0,0:07:58.07,0:07:59.99,Love Asteroid - Default,Mira,0,0,0,,Oh, Sakura-senpai.
-Dialogue: 0,0:07:59.99,0:08:03.94,sign_11509_133_I_m_going_to_a_m,Text,0,0,0,,I'm going to a mineral show tomorrow.\NI'll send where to meet up later.\NPlease let me know if you can make it.
-Dialogue: 0,0:08:00.88,0:08:02.87,Love Asteroid - Default,Mira,0,0,0,,Mineral show?
-Dialogue: 0,0:08:02.87,0:08:05.46,Love Asteroid - Default,Mira,0,0,0,,I wonder what that is. I'll totally go.
-Dialogue: 0,0:08:06.07,0:08:08.67,Love Asteroid - Italics,Monroe&Text,0,0,0,,I'm sorry, I have other plans already.
-Dialogue: 0,0:08:08.67,0:08:11.35,Love Asteroid - Italics,Ino&Text,0,0,0,,What a shame. I have plans that day, too.
-Dialogue: 0,0:08:11.35,0:08:13.63,Love Asteroid - Italics,Ao&Text,0,0,0,,I'm sorry, I do, too.
-Dialogue: 0,0:08:13.63,0:08:15.85,Love Asteroid - Default,Mira,0,0,0,,Huh? No one else can come?
-Dialogue: 0,0:08:15.85,0:08:20.39,Love Asteroid - Default,Mira,0,0,0,,Which means... I'll be alone with Sakura-senpai?
-Dialogue: 0,0:08:21.64,0:08:23.14,Love Asteroid - Default,Mira,0,0,0,,Good morning!
-Dialogue: 0,0:08:23.49,0:08:25.99,Love Asteroid - Default,Sakura,0,0,0,,Good morning. You're early.
-Dialogue: 0,0:08:25.99,0:08:30.48,Love Asteroid - Default,Mira,0,0,0,,Yeah, um, I got a little nervous when \NI realized it's just the two of us.
-Dialogue: 0,0:08:30.48,0:08:32.28,Love Asteroid - Default,Mira,0,0,0,,Since you're so serious about things.
-Dialogue: 0,0:08:33.56,0:08:36.83,Love Asteroid - Default,Mira,0,0,0,,I figured you were likely \Nto get mad if I was late,
-Dialogue: 0,0:08:36.83,0:08:39.58,Love Asteroid - Default,Mira,0,0,0,,and you're really scary \Nwhen you're mad, Senpai.
-Dialogue: 0,0:08:39.79,0:08:43.36,Love Asteroid - Default,Sakura,0,0,0,,What a coincidence. \NI'm pretty nervous myself.
-Dialogue: 0,0:08:40.44,0:08:43.36,Love Asteroid - Top,Sakura,0,0,0,,Ow, ow, ow!
-Dialogue: 0,0:08:43.36,0:08:46.04,Love Asteroid - Default,Mira,0,0,0,,Are you really nervous?!
-Dialogue: 0,0:08:48.00,0:08:49.96,Love Asteroid - Default,Mira,0,0,0,,There are so many people.
-Dialogue: 0,0:08:49.96,0:08:52.63,Love Asteroid - Default,Sakura,0,0,0,,Did you notice a lot of them are women?
-Dialogue: 0,0:08:52.63,0:08:56.30,Love Asteroid - Default,Sakura,0,0,0,,They're also selling power stones \Nand materials for accessories.
-Dialogue: 0,0:08:56.72,0:08:58.14,Love Asteroid - Default,Mira,0,0,0,,I see.
-Dialogue: 0,0:08:58.68,0:09:00.64,Love Asteroid - Default,Sakura,0,0,0,,Hey, are you listening to me?
-Dialogue: 0,0:09:00.64,0:09:02.60,sign_12963_157_Power_stone_to_c,Phone,0,0,0,,Power stone to calm a scary person
-Dialogue: 0,0:09:03.55,0:09:06.19,Love Asteroid - Default,Mira,0,0,0,,Why are you peeking at my phone?!
-Dialogue: 0,0:09:06.98,0:09:08.68,Love Asteroid - Default,Mira,0,0,0,,Ow.
-Dialogue: 0,0:09:08.68,0:09:11.26,Love Asteroid - Default,Mira,0,0,0,,What are you looking for here, Senpai?
-Dialogue: 0,0:09:12.27,0:09:15.19,Love Asteroid - Default,Sakura,0,0,0,,I haven't settled on anything \Nspecific, actually.
-Dialogue: 0,0:09:16.32,0:09:19.95,Love Asteroid - Default,Sakura,0,0,0,,I'm mostly here for a break from my studies.
-Dialogue: 0,0:09:20.45,0:09:22.95,Love Asteroid - Default,Sakura,0,0,0,,It's fun enough just walking \Naround and looking.
-Dialogue: 0,0:09:23.21,0:09:27.01,Love Asteroid - Default,Mira,0,0,0,,Wow, so you're window shopping for stones!
-Dialogue: 0,0:09:27.01,0:09:29.59,Love Asteroid - Default,Sakura,0,0,0,,Oh! It's the chisel set \NI've been looking for!
-Dialogue: 0,0:09:29.92,0:09:34.59,Love Asteroid - Default,Sakura,0,0,0,,I'll take this, please! And this! \NOh, and give me this too, please!
-Dialogue: 0,0:09:36.35,0:09:38.39,Love Asteroid - Default,Mira,0,0,0,,How pretty.
-Dialogue: 0,0:09:38.83,0:09:39.60,Love Asteroid - Default,,0,0,0,,Hi.
-Dialogue: 0,0:09:40.38,0:09:42.48,Love Asteroid - Default,,0,0,0,,Which power stone do you want?
-Dialogue: 0,0:09:42.48,0:09:45.08,Love Asteroid - Default,Mira,0,0,0,,Uh, um...
-Dialogue: 0,0:09:45.08,0:09:46.32,Love Asteroid - Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:09:46.88,0:09:49.38,Love Asteroid - Default,,0,0,0,,Could you make this a little cheaper?
-Dialogue: 0,0:09:49.38,0:09:51.97,Love Asteroid - Default,,0,0,0,,Okay. Just a moment, please.
-Dialogue: 0,0:09:51.97,0:09:53.12,Love Asteroid - Default,,0,0,0,,Sure!
-Dialogue: 0,0:09:56.12,0:09:58.15,Love Asteroid - Default,Mira,0,0,0,,You're so reliable.
-Dialogue: 0,0:09:58.15,0:10:00.60,Love Asteroid - Default,Mira,0,0,0,,I'm not leaving your side at all today!
-Dialogue: 0,0:10:00.60,0:10:03.44,Love Asteroid - Default,Sakura,0,0,0,,Jeez, you're just sweet-talking me.
-Dialogue: 0,0:10:04.50,0:10:06.22,Love Asteroid - Default,Mira,0,0,0,,Those have rubber bands around them.
-Dialogue: 0,0:10:06.22,0:10:08.92,Love Asteroid - Default,Sakura,0,0,0,,Yeah, those are geodes.
-Dialogue: 0,0:10:10.68,0:10:11.97,Love Asteroid - Default,Mira,0,0,0,,It's split!
-Dialogue: 0,0:10:11.97,0:10:14.88,Love Asteroid - Default,Sakura,0,0,0,,The inside is made up of crystallized minerals.
-Dialogue: 0,0:10:15.06,0:10:19.34,Love Asteroid - Default,Sakura,0,0,0,,If I remember right, there's a demo corner \Nwhere you can split geodes yourself.
-Dialogue: 0,0:10:19.57,0:10:21.85,Love Asteroid - Default,Mira,0,0,0,,Wow, a rock splitting demo!
-Dialogue: 0,0:10:22.14,0:10:25.06,Love Asteroid - Default,Mira,0,0,0,,It's the perfect chance to \Nshow off your iron fist!
-Dialogue: 0,0:10:25.06,0:10:28.64,Love Asteroid - Default,Sakura,0,0,0,,That compliment's actually quite rude.
-Dialogue: 0,0:10:30.31,0:10:33.90,Love Asteroid - Default,Mira,0,0,0,,This is fun. There are stones \Nas far as the eye can see!
-Dialogue: 0,0:10:34.57,0:10:35.53,Love Asteroid - Default,Mira,0,0,0,,Minerals,
-Dialogue: 0,0:10:35.85,0:10:36.99,Love Asteroid - Default,Mira,0,0,0,,fossils,
-Dialogue: 0,0:10:36.99,0:10:38.45,Love Asteroid - Default,Mira,0,0,0,,and meteors...
-Dialogue: 0,0:10:38.69,0:10:40.64,Love Asteroid - Default,Mira,0,0,0,,Huh? Meteors?
-Dialogue: 0,0:10:40.64,0:10:43.40,Love Asteroid - Default,Mira,0,0,0,,Senpai, Senpai! They're selling meteors!
-Dialogue: 0,0:10:43.40,0:10:45.34,Love Asteroid - Default,Sakura,0,0,0,,You're too loud.
-Dialogue: 0,0:10:45.34,0:10:47.60,Love Asteroid - Default,Sakura,0,0,0,,If you found one you like, why not buy it?
-Dialogue: 0,0:10:47.60,0:10:48.90,Love Asteroid - Default,Mira,0,0,0,,Right!
-Dialogue: 0,0:10:48.90,0:10:52.00,Love Asteroid - Default,Mira,0,0,0,,Maybe I'll get one as a souvenir for Ao.
-Dialogue: 0,0:11:01.45,0:11:03.48,Love Asteroid - Default,Sakura,0,0,0,,You bought a lot, huh?
-Dialogue: 0,0:11:03.48,0:11:05.93,Love Asteroid - Default,Mira,0,0,0,,Yeah. It was so interesting,\NI couldn't help it.
-Dialogue: 0,0:11:06.32,0:11:08.64,Love Asteroid - Default,Mira,0,0,0,,This is that geode we saw before,
-Dialogue: 0,0:11:08.64,0:11:11.71,Love Asteroid - Default,Mira,0,0,0,,and the one that looks like \Nit has two layers is calcite.
-Dialogue: 0,0:11:11.71,0:11:14.00,Love Asteroid - Default,Mira,0,0,0,,There's a bismuth crystal \Nwith mysterious coloring,
-Dialogue: 0,0:11:14.00,0:11:15.48,Love Asteroid - Default,Mira,0,0,0,,and a pretty banded stone!
-Dialogue: 0,0:11:16.89,0:11:20.80,Love Asteroid - Default,Sakura,0,0,0,,The banded stones you find \Nall have strange patterns.
-Dialogue: 0,0:11:21.74,0:11:24.53,Love Asteroid - Default,Mira,0,0,0,,What did you buy, Senpai?
-Dialogue: 0,0:11:24.53,0:11:26.32,Love Asteroid - Default,Sakura,0,0,0,,Want to see? You want to see?!
-Dialogue: 0,0:11:26.32,0:11:28.45,Love Asteroid - Default,Mira,0,0,0,,Uh, never mind.
-Dialogue: 0,0:11:29.87,0:11:32.46,Love Asteroid - Default,Sakura,0,0,0,,Today was a really great breather.
-Dialogue: 0,0:11:33.04,0:11:35.45,Love Asteroid - Default,Sakura,0,0,0,,I interacted with lots of sparkly stones,
-Dialogue: 0,0:11:35.45,0:11:37.30,Love Asteroid - Default,,0,0,0,,and enjoyed some fluffy pancakes...
-Dialogue: 0,0:11:37.70,0:11:41.24,Love Asteroid - Default,Mira,0,0,0,,Now you can really study \Nhard when you get home!
-Dialogue: 0,0:11:43.13,0:11:44.97,Love Asteroid - Default,Mira,0,0,0,,You're getting depressed!
-Dialogue: 0,0:11:45.20,0:11:47.93,Love Asteroid - Default,Mira,0,0,0,,Entrance exams are tough, aren't they?
-Dialogue: 0,0:11:47.93,0:11:50.22,Love Asteroid - Default,Sakura,0,0,0,,It's more like...
-Dialogue: 0,0:11:50.22,0:11:51.97,Love Asteroid - Default,Sakura,0,0,0,,I just can't get myself into it.
-Dialogue: 0,0:11:52.41,0:11:54.42,Love Asteroid - Default,Sakura,0,0,0,,I know I mentioned it during summer camp,
-Dialogue: 0,0:11:55.07,0:11:57.36,Love Asteroid - Default,Sakura,0,0,0,,but I don't have any clear goals.
-Dialogue: 0,0:11:59.82,0:12:03.48,Love Asteroid - Default,Sakura,0,0,0,,Your dream is to discover a star, right?
-Dialogue: 0,0:12:03.48,0:12:06.37,Love Asteroid - Default,Mira,0,0,0,,Yes! An asteroid, technically. Not a star.
-Dialogue: 0,0:12:07.30,0:12:10.94,Love Asteroid - Default,Sakura,0,0,0,,If you do manage to find one, \Nwhat will you do after that?
-Dialogue: 0,0:12:10.94,0:12:12.00,Love Asteroid - Default,Mira,0,0,0,,After that?
-Dialogue: 0,0:12:12.51,0:12:14.37,Love Asteroid - Default,Sakura,0,0,0,,When you're an adult.
-Dialogue: 0,0:12:15.20,0:12:18.59,Love Asteroid - Default,Sakura,0,0,0,,Do you have a career or an \Noccupation you're aiming for?
-Dialogue: 0,0:12:19.67,0:12:22.09,Love Asteroid - Default,Mira,0,0,0,,When you put it like that...
-Dialogue: 0,0:12:22.64,0:12:24.06,Love Asteroid - Default,Mira,0,0,0,,I have no idea.
-Dialogue: 0,0:12:28.16,0:12:30.22,Love Asteroid - Default,Sakura,0,0,0,,I really do envy you.
-Dialogue: 0,0:12:31.83,0:12:33.93,Love Asteroid - Default,Sakura,0,0,0,,Sorry for bringing up a weird topic.
-Dialogue: 0,0:12:33.93,0:12:36.54,Love Asteroid - Default,Sakura,0,0,0,,Kind of ruined the break, huh?
-Dialogue: 0,0:12:36.54,0:12:38.48,Love Asteroid - Default,Sakura,0,0,0,,Let's get another cake.
-Dialogue: 0,0:12:41.12,0:12:43.02,Love Asteroid - Default,Sakura,0,0,0,,Doesn't it look like strata?
-Dialogue: 0,0:12:43.02,0:12:44.57,Love Asteroid - Default,Mira,0,0,0,,It does.
-Dialogue: 0,0:12:44.57,0:12:47.62,Love Asteroid - Default,Sakura,0,0,0,,You're starting to be more \Nlike us geology girls.
-Dialogue: 0,0:12:48.08,0:12:49.90,Love Asteroid - Default,Sakura,0,0,0,,Let's excavate!
-Dialogue: 0,0:12:49.90,0:12:52.62,Love Asteroid - Default,Mira,0,0,0,,This walnut fossil is delicious!
-Dialogue: 0,0:12:54.01,0:12:56.37,Love Asteroid - Default,Sakura,0,0,0,,Sorry for taking up your entire day.
-Dialogue: 0,0:12:56.96,0:12:59.19,Love Asteroid - Default,Mira,0,0,0,,No, I had fun!
-Dialogue: 0,0:12:59.19,0:13:00.73,Love Asteroid - Default,Mira,0,0,0,,Thank you so much!
-Dialogue: 0,0:13:00.73,0:13:02.09,Love Asteroid - Default,Sakura,0,0,0,,Wh-What's this?
-Dialogue: 0,0:13:02.60,0:13:05.05,Love Asteroid - Default,Mira,0,0,0,,To thank you for inviting me out today.
-Dialogue: 0,0:13:05.05,0:13:07.36,Love Asteroid - Default,Mira,0,0,0,,I hope we can bring everyone \Nelse with us next time.
-Dialogue: 0,0:13:07.87,0:13:09.96,Love Asteroid - Default,Mira,0,0,0,,Well, my house is this way.
-Dialogue: 0,0:13:09.96,0:13:10.47,Love Asteroid - Default,Sakura,0,0,0,,Huh?
-Dialogue: 0,0:13:10.73,0:13:13.18,Love Asteroid - Default,Sakura,0,0,0,,Y-Yeah, see you later.
-Dialogue: 0,0:13:17.78,0:13:21.58,Love Asteroid - Default,Sakura,0,0,0,,I forgot to thank her for \Ncoming with me, didn't I?
-Dialogue: 0,0:13:23.74,0:13:29.95,sign_19271_241_Silicate_Mineral,Note,0,0,0,,Silicate Mineral\N\N\N\N\NMohs Hardness 8
-Dialogue: 0,0:13:24.36,0:13:25.49,Love Asteroid - Italics,Sakura,0,0,0,,Topaz.
-Dialogue: 0,0:13:25.95,0:13:29.95,Love Asteroid - Italics,Sakura,0,0,0,,The stone that helps you find \Nthe path you should take, huh?
-Dialogue: 0,0:13:30.80,0:13:32.96,Love Asteroid - Italics,Sakura,0,0,0,,What a sophisticated thing to do.
-Dialogue: 0,0:13:37.30,0:13:41.34,Love Asteroid - Italics,Sakura&Text,0,0,0,,Thank you for today. \NI really had a lot of fun.
-Dialogue: 0,0:13:41.34,0:13:44.89,Love Asteroid - Default,Sakura,0,0,0,,No, it doesn't seem right \Nto say it to her like that.
-Dialogue: 0,0:13:45.76,0:13:48.58,Love Asteroid - Italics,Sakura&Text,0,0,0,,I was happy you were there to listen to me.
-Dialogue: 0,0:13:48.58,0:13:50.33,Love Asteroid - Italics,,0,0,0,,I'll do my best with my studies.
-Dialogue: 0,0:13:50.33,0:13:51.77,Love Asteroid - Default,Sakura,0,0,0,,Uh, who would say that?
-Dialogue: 0,0:13:54.84,0:13:57.14,Love Asteroid - Default,Mira,0,0,0,,Oh, Sakura-senpai.
-Dialogue: 0,0:13:57.14,0:13:58.70,Love Asteroid - Italics,Sakura&Text,0,0,0,,Thank you for today.
-Dialogue: 0,0:13:58.70,0:14:02.15,Love Asteroid - Italics,Sakura&Text,0,0,0,,I'll study hard, so make sure \Nto give it your best, too!
-Dialogue: 0,0:14:02.15,0:14:03.48,Love Asteroid - Italics,Sakura&Text,0,0,0,,Growr!
-Dialogue: 0,0:14:04.75,0:14:05.74,Love Asteroid - Default,Mira,0,0,0,,Senpai?
-Dialogue: 0,0:14:12.00,0:14:13.95,sign_20428_249_What_I_Want_to_B,,0,0,0,,What I Want to Be
-Dialogue: 0,0:14:14.43,0:14:17.67,Love Asteroid - Flashback,Boy,0,0,0,,Sensei! I want to be a train driver!
-Dialogue: 0,0:14:17.67,0:14:19.50,Love Asteroid - Flashback,Girl,0,0,0,,I want to be a cake baker!
-Dialogue: 0,0:14:19.50,0:14:20.96,Love Asteroid - Flashback,Girl,0,0,0,,An astronaut!
-Dialogue: 0,0:14:20.96,0:14:23.17,Love Asteroid - Flashback,Boy,0,0,0,,I want to be a train driver, too.
-Dialogue: 0,0:14:23.58,0:14:25.76,Love Asteroid - Flashback,Caretaker,0,0,0,,That's lovely, everyone.
-Dialogue: 0,0:14:26.50,0:14:27.83,Love Asteroid - Flashback,Caretaker,0,0,0,,What about you, Mikage-chan?
-Dialogue: 0,0:14:27.83,0:14:28.62,Love Asteroid - Flashback,Sakura,0,0,0,,Huh?
-Dialogue: 0,0:14:29.38,0:14:32.45,Love Asteroid - Flashback,Caretaker,0,0,0,,What do you want to be in the future?
-Dialogue: 0,0:14:36.12,0:14:37.40,Love Asteroid - Default,Sakura,0,0,0,,I...
-Dialogue: 0,0:14:46.83,0:14:47.89,Love Asteroid - Default,Girl,0,0,0,,Morning!
-Dialogue: 0,0:14:47.89,0:14:49.15,Love Asteroid - Default,Girl,0,0,0,,Oh, morning!
-Dialogue: 0,0:14:50.54,0:14:53.50,Love Asteroid - Default,Ino,0,0,0,,Sakura-senpai, good morning.
-Dialogue: 0,0:14:53.50,0:14:55.37,Love Asteroid - Default,Sakura,0,0,0,,Oh, morning.
-Dialogue: 0,0:14:57.85,0:15:00.84,Love Asteroid - Default,Sakura,0,0,0,,Do we have a meeting today?
-Dialogue: 0,0:15:00.84,0:15:01.44,Love Asteroid - Default,Ino,0,0,0,,Huh?
-Dialogue: 0,0:15:02.13,0:15:04.25,Love Asteroid - Default,Ino,0,0,0,,Oh, yes. After school.
-Dialogue: 0,0:15:05.84,0:15:06.95,Love Asteroid - Default,Sakura,0,0,0,,Right.
-Dialogue: 0,0:15:07.90,0:15:09.86,Love Asteroid - Default,Sakura,0,0,0,,The cultural festival's coming up soon,
-Dialogue: 0,0:15:09.86,0:15:12.39,Love Asteroid - Default,,0,0,0,,so we need to start making \Ndecisions on things.
-Dialogue: 0,0:15:13.19,0:15:14.13,Love Asteroid - Default,Ino,0,0,0,,Right.
-Dialogue: 0,0:15:16.47,0:15:18.54,Love Asteroid - Default,Mira,0,0,0,,It's still so hot.
-Dialogue: 0,0:15:20.38,0:15:22.13,Love Asteroid - Default,Ao,0,0,0,,L-Look.
-Dialogue: 0,0:15:24.18,0:15:25.98,Love Asteroid - Default,Ao,0,0,0,,Wh-What?
-Dialogue: 0,0:15:28.26,0:15:29.36,Love Asteroid - Default,Ino,0,0,0,,Ibe-chan?!
-Dialogue: 0,0:15:29.94,0:15:31.54,Love Asteroid - Default,Eve,0,0,0,,Eve!
-Dialogue: 0,0:15:31.54,0:15:33.82,Love Asteroid - Default,Eve,0,0,0,,I told you to call me Eve, didn't I?!
-Dialogue: 0,0:15:34.12,0:15:36.68,Love Asteroid - Default,Ino,0,0,0,,She's one of my friends from class.
-Dialogue: 0,0:15:38.15,0:15:39.71,Love Asteroid - Default,Mira,0,0,0,,Friends?
-Dialogue: 0,0:15:39.71,0:15:41.46,Love Asteroid - Default,Usami,0,0,0,,Oh, it's Manaka-san!
-Dialogue: 0,0:15:42.14,0:15:43.39,Love Asteroid - Default,,0,0,0,,Yoohoo!
-Dialogue: 0,0:15:43.39,0:15:44.42,Love Asteroid - Default,Ao,0,0,0,,Usami-san.
-Dialogue: 0,0:15:44.64,0:15:46.01,Love Asteroid - Default,Mira,0,0,0,,Someone you know?
-Dialogue: 0,0:15:46.01,0:15:47.58,Love Asteroid - Default,Ao,0,0,0,,A classmate.
-Dialogue: 0,0:15:47.58,0:15:51.76,Love Asteroid - Default,Usami,0,0,0,,Sorry, our Eve-senpai is such a pain.
-Dialogue: 0,0:15:52.31,0:15:53.47,Love Asteroid - Default,Monroe,0,0,0,,Reconnaissance?
-Dialogue: 0,0:15:53.47,0:15:54.70,Love Asteroid - Default,Eve,0,0,0,,That's right!
-Dialogue: 0,0:15:54.70,0:15:57.98,Love Asteroid - Default,Eve,0,0,0,,We're a secret squad within the \Nnewspaper club that's taking
-Dialogue: 0,0:15:57.98,0:16:00.39,Love Asteroid - Default,,0,0,0,,covert action to crush the \Nearth sciences club's newsletter!
-Dialogue: 0,0:16:02.04,0:16:04.52,Love Asteroid - Default,Ino,0,0,0,,This is my first time seeing covert action!
-Dialogue: 0,0:16:05.13,0:16:07.27,Love Asteroid - Default,Usami,0,0,0,,Our Senpai is a little off,
-Dialogue: 0,0:16:07.27,0:16:11.29,Love Asteroid - Default,Usami,0,0,0,,but the girls of the earth sciences \Nclub are pretty spacey too, huh?
-Dialogue: 0,0:16:12.07,0:16:14.64,Love Asteroid - Default,Sakura,0,0,0,,You said you're going to crush our newsletter?
-Dialogue: 0,0:16:14.64,0:16:17.89,Love Asteroid - Default,Monroe,0,0,0,,Could you tell us what you mean by that?
-Dialogue: 0,0:16:17.89,0:16:19.58,Love Asteroid - Default,Eve,0,0,0,,I can't share too many details,
-Dialogue: 0,0:16:19.99,0:16:23.14,Love Asteroid - Default,Eve,0,0,0,,but our newspaper's not selling.
-Dialogue: 0,0:16:23.14,0:16:26.67,Love Asteroid - Default,Eve,0,0,0,,It must be because the earth sciences \Nclub's newsletter is right beside it,
-Dialogue: 0,0:16:26.67,0:16:28.80,Love Asteroid - Default,,0,0,0,,and yours is interesting and full of content!
-Dialogue: 0,0:16:28.80,0:16:32.88,Love Asteroid - Default,Sakura,0,0,0,,I think we're being praised and \Nreprimanded at the same time.
-Dialogue: 0,0:16:32.88,0:16:34.72,Love Asteroid - Default,Monroe,0,0,0,,You're such an honest girl.
-Dialogue: 0,0:16:34.72,0:16:38.83,Love Asteroid - Default,Monroe,0,0,0,,So you're trying to stop the production \Nof the earth sciences club's newsletter?
-Dialogue: 0,0:16:38.83,0:16:39.82,Love Asteroid - Default,Eve,0,0,0,,Yeah!
-Dialogue: 0,0:16:39.82,0:16:43.64,Love Asteroid - Default,Eve,0,0,0,,I was just looking for any scandals\N that we could use as blackmail!
-Dialogue: 0,0:16:44.12,0:16:47.04,Love Asteroid - Default,Sakura,0,0,0,,You spilled everything \Nin barely a few minutes.
-Dialogue: 0,0:16:47.04,0:16:48.99,Love Asteroid - Default,Sakura,0,0,0,,You're dumber than Mira.
-Dialogue: 0,0:16:48.99,0:16:49.65,Love Asteroid - Default,Mira,0,0,0,,Huh?
-Dialogue: 0,0:16:50.31,0:16:52.82,Love Asteroid - Default,Ino,0,0,0,,Did you find any scandals?
-Dialogue: 0,0:16:53.68,0:16:56.46,Love Asteroid - Default,Eve,0,0,0,,I tried spying on your club \Nroom from several angles,
-Dialogue: 0,0:16:56.46,0:16:57.57,Love Asteroid - Default,,0,0,0,,and I found nothing!
-Dialogue: 0,0:16:57.94,0:17:02.02,Love Asteroid - Italics,Eve,0,0,0,,I was just looking for any scandals \Nthat we could use as blackmail!
-Dialogue: 0,0:17:02.02,0:17:03.83,Love Asteroid - Default,Monroe,0,0,0,,Oh, my, what a shame.
-Dialogue: 0,0:17:04.09,0:17:08.46,Love Asteroid - Default,Monroe,0,0,0,,Especially since you just shared something \Nwe can blackmail the newspaper club with.
-Dialogue: 0,0:17:08.71,0:17:10.90,Love Asteroid - Default,Eve,0,0,0,,Huh?! When did you...
-Dialogue: 0,0:17:12.32,0:17:14.91,Love Asteroid - Default,Eve,0,0,0,,You can do whatever you want to me!
-Dialogue: 0,0:17:14.91,0:17:18.89,Love Asteroid - Default,Sakura,0,0,0,,Well, it's not like you're causing any \Nharm by peeking into the club room.
-Dialogue: 0,0:17:18.89,0:17:23.02,Love Asteroid - Default,Usami,0,0,0,,I'm so sorry. She just loves \Nmaking everything dramatic.
-Dialogue: 0,0:17:23.25,0:17:28.02,Love Asteroid - Default,Monroe,0,0,0,,I know! Why don't you help us think \Nof an exhibit for the cultural festival?
-Dialogue: 0,0:17:28.60,0:17:30.26,Love Asteroid - Default,Usami,0,0,0,,An exhibit for...
-Dialogue: 0,0:17:30.26,0:17:31.40,Love Asteroid - Default,Eve,0,0,0,,...the cultural festival?
-Dialogue: 0,0:17:31.61,0:17:35.15,Love Asteroid - Default,Mira,0,0,0,,I know! I want to create a \Nmodel of our solar system!
-Dialogue: 0,0:17:35.15,0:17:35.99,Love Asteroid - Default,Ao,0,0,0,,Uh-huh!
-Dialogue: 0,0:17:36.49,0:17:37.88,Love Asteroid - Default,Monroe,0,0,0,,That sounds nice.
-Dialogue: 0,0:17:37.88,0:17:42.05,Love Asteroid - Default,Monroe,0,0,0,,Last year, the geology club made a display \Nboard showing off their research, right?
-Dialogue: 0,0:17:42.05,0:17:43.00,Love Asteroid - Default,Ino,0,0,0,,Yes.
-Dialogue: 0,0:17:43.00,0:17:46.46,Love Asteroid - Default,Ino,0,0,0,,Surprisingly, few people actually read it.
-Dialogue: 0,0:17:47.17,0:17:50.45,Love Asteroid - Default,Sakura,0,0,0,,I guess we need some kind of \Nexhibit that draws attention.
-Dialogue: 0,0:17:50.45,0:17:52.97,Love Asteroid - Default,Sakura,0,0,0,,Something both kids and adults can enjoy.
-Dialogue: 0,0:17:52.97,0:17:55.27,Love Asteroid - Default,Mira,0,0,0,,I know! Why don't we \Ncosplay again this year?!
-Dialogue: 0,0:17:55.27,0:17:55.97,Love Asteroid - Default,Sakura,0,0,0,,Rejected.
-Dialogue: 0,0:17:56.17,0:17:58.08,Love Asteroid - Default,Eve,0,0,0,,An exhibit that draws attention, huh?
-Dialogue: 0,0:17:58.08,0:17:59.80,Love Asteroid - Default,Eve,0,0,0,,You need something huge!
-Dialogue: 0,0:18:00.32,0:18:04.44,Love Asteroid - Default,Usami,0,0,0,,Could you bring in any giant \Nrocks from the mountains?
-Dialogue: 0,0:18:04.44,0:18:07.61,Love Asteroid - Default,Eve,0,0,0,,Oh! You'll need an explosion too, then!
-Dialogue: 0,0:18:07.61,0:18:10.15,Love Asteroid - Default,Ino,0,0,0,,"Blast" would be the correct term.
-Dialogue: 0,0:18:11.49,0:18:13.33,Love Asteroid - Default,Usami,0,0,0,,I shouldn't have said anything.
-Dialogue: 0,0:18:13.33,0:18:17.80,Love Asteroid - Default,Mira,0,0,0,,Sakura-senpai, do you think \Nwe could bring in some strata?
-Dialogue: 0,0:18:19.36,0:18:21.70,Love Asteroid - Default,Sakura,0,0,0,,You mean a surface peel specimen?
-Dialogue: 0,0:18:22.69,0:18:24.37,Love Asteroid - Default,Sakura,0,0,0,,I've never made one before,
-Dialogue: 0,0:18:24.37,0:18:27.81,Love Asteroid - Default,,0,0,0,,and I'm not sure we have a rocky \Noutcropping we could use as a specimen.
-Dialogue: 0,0:18:27.81,0:18:31.21,Love Asteroid - Default,Monroe,0,0,0,,How about a boring survey of the campus, then?
-Dialogue: 0,0:18:31.21,0:18:32.16,Love Asteroid - Default,Mira,0,0,0,,Hmph!
-Dialogue: 0,0:18:32.16,0:18:33.96,Love Asteroid - Default,Sakura,0,0,0,,I get it, but it's not "bowling."
-Dialogue: 0,0:18:34.52,0:18:37.34,Love Asteroid - Default,Ao,0,0,0,,You mean "boring" as in drilling holes, right?
-Dialogue: 0,0:18:37.34,0:18:40.97,sign_26790_349_Boring_Survey,Board,0,0,0,,Boring Survey
-Dialogue: 0,0:18:37.34,0:18:40.97,sign_26790_349_Boring_Survey,Board,0,0,0,,{\pos(330,114)}Pop
-Dialogue: 0,0:18:37.57,0:18:40.97,Love Asteroid - Default,Monroe,0,0,0,,Right. You drive a pipe into the \Nground and bore out a sample.
-Dialogue: 0,0:18:40.97,0:18:44.64,Love Asteroid - Default,Eve,0,0,0,,So if you can add an explosion \Nand a huge rock to that...
-Dialogue: 0,0:18:45.01,0:18:49.35,Love Asteroid - Default,Usami,0,0,0,,Yes, Eve-chan-senpai. You're embarrassing yourself, \Nso we should be getting back now.
-Dialogue: 0,0:18:50.99,0:18:53.86,Love Asteroid - Default,Sakura,0,0,0,,Boring does sound fun, though.
-Dialogue: 0,0:18:54.22,0:18:56.12,Love Asteroid - Default,Sakura,0,0,0,,Let's give it some thought.
-Dialogue: 0,0:18:59.78,0:19:01.24,sign_27328_355_Arm_Wrestling_Co,Stairs,0,0,0,,Arm Wrestling Competition
-Dialogue: 0,0:18:59.78,0:19:01.24,sign_27328_356_Frankfurt,Stairs,0,0,0,,Frankfurt
-Dialogue: 0,0:18:59.78,0:19:01.24,sign_27328_357_Hamlet,Stairs,0,0,0,,Hamlet
-Dialogue: 0,0:18:59.78,0:19:01.24,sign_27328_358_Competitive_Karu,Stairs,0,0,0,,Competitive Karuta
-Dialogue: 0,0:18:59.78,0:19:01.24,sign_27328_359_Haunted_House,Stairs,0,0,0,,Haunted House
-Dialogue: 0,0:19:04.36,0:19:05.71,Love Asteroid - Default,Ino,0,0,0,,Excuse me.
-Dialogue: 0,0:19:06.40,0:19:09.83,Love Asteroid - Default,Eve,0,0,0,,Inose, are you here scouting \Nus out this time?!
-Dialogue: 0,0:19:10.02,0:19:12.33,Love Asteroid - Default,Ino,0,0,0,,No, it's not about that.
-Dialogue: 0,0:19:12.33,0:19:15.17,Love Asteroid - Default,Ino,0,0,0,,I'm actually here because something \Nstrange happened this morning.
-Dialogue: 0,0:19:15.51,0:19:17.38,Love Asteroid - Default,Eve,0,0,0,,Oh, an incident?!
-Dialogue: 0,0:19:18.94,0:19:23.09,Love Asteroid - Default,Ino,0,0,0,,Over summer break, someone named the koi.
-Dialogue: 0,0:19:19.34,0:19:23.09,sign_27797_366_Feynman_________,Signs(Left to Right),0,0,0,,Feynman              Dirac                Fermi            Cockcroft
-Dialogue: 0,0:19:23.68,0:19:27.10,Love Asteroid - Default,Eve,0,0,0,,Well, I guess that could \Nmake for a filler article.
-Dialogue: 0,0:19:27.47,0:19:31.30,Love Asteroid - Default,Eve,0,0,0,,I'm surprised you noticed \Nthese tiny signs, though.
-Dialogue: 0,0:19:31.30,0:19:34.20,Love Asteroid - Default,Ino,0,0,0,,Because I've been watching \Nthem since my first year here.
-Dialogue: 0,0:19:35.76,0:19:38.53,Love Asteroid - Default,Eve,0,0,0,,I guess some people might \Nfind this interesting.
-Dialogue: 0,0:19:39.03,0:19:42.49,Love Asteroid - Default,Ino,0,0,0,,That reminds me. \NYou've changed a bit, haven't you?
-Dialogue: 0,0:19:43.64,0:19:47.20,Love Asteroid - Default,Ino,0,0,0,,Your bangs are a bit shorter than \Nthey were in the first semester.
-Dialogue: 0,0:19:47.20,0:19:49.20,Love Asteroid - Default,Ino,0,0,0,,I can tell because I was always watching.
-Dialogue: 0,0:19:52.18,0:19:54.87,Love Asteroid - Default,Usami,0,0,0,,Senpai, your heart just \Nskipped a beat, didn't it?
-Dialogue: 0,0:19:54.87,0:19:56.38,Love Asteroid - Default,Eve,0,0,0,,Sh-Shut up!
-Dialogue: 0,0:19:56.38,0:19:58.71,Love Asteroid - Default,Eve,0,0,0,,As if! That means nothing to me!
-Dialogue: 0,0:19:57.47,0:19:58.71,Love Asteroid - Top,Usami,0,0,0,,Yes, yes.
-Dialogue: 0,0:19:58.71,0:20:01.30,sign_28741_378_Boring_Survey,BoardLeft,0,0,0,,Boring Survey
-Dialogue: 0,0:19:58.71,0:20:01.30,sign_28741_379_Planetary_Model_,BoardRight,0,0,0,,Planetary Model Display
-Dialogue: 0,0:19:58.71,0:20:01.30,sign_28741_380_Model_Explanatio,BoardRight,0,0,0,,Model Explanation Board
-Dialogue: 0,0:19:58.71,0:20:01.30,sign_28741_381_Fossil_Appraisal,BoardRight,0,0,0,,Fossil Appraisal
-Dialogue: 0,0:19:58.71,0:20:01.30,sign_28741_382_Fusulinid_Stone_,BoardRight,0,0,0,,Fusulinid Stone \NPolishing Experience
-Dialogue: 0,0:19:59.79,0:20:01.30,Love Asteroid - Top,Sakura,0,0,0,,I kind of expected it,
-Dialogue: 0,0:20:01.68,0:20:07.20,Love Asteroid - Top,Sakura,0,0,0,,but really trying to conduct a boring survey \Nwould be costly in both money and labor.
-Dialogue: 0,0:20:08.23,0:20:13.82,Love Asteroid - Default,Monroe,0,0,0,,It says, "The harvested boring cores \Nare kept under school custody."
-Dialogue: 0,0:20:15.10,0:20:16.56,sign_29134_386_Staff_Room,Sign,0,0,0,,Staff Room
-Dialogue: 0,0:20:16.56,0:20:20.27,Love Asteroid - Default,Endou,0,0,0,,Looks like the school only has paper records.
-Dialogue: 0,0:20:20.27,0:20:21.81,Love Asteroid - Default,Sakura,0,0,0,,I see.
-Dialogue: 0,0:20:22.74,0:20:25.79,Love Asteroid - Default,Mira,0,0,0,,This is cute. It's like masking tape.
-Dialogue: 0,0:20:22.74,0:20:29.45,sign_29317_389_Soil_Boring_Log,Paper,0,0,0,,Soil Boring Log
-Dialogue: 0,0:20:25.79,0:20:29.45,Love Asteroid - Default,Endou,0,0,0,,Yeah, this is how you illustrate \Nthe results of a boring survey.
-Dialogue: 0,0:20:30.46,0:20:32.97,Love Asteroid - Default,Endou,0,0,0,,Araya-sensei, do we have agar?
-Dialogue: 0,0:20:33.46,0:20:34.54,Love Asteroid - Default,Araya,0,0,0,,We do.
-Dialogue: 0,0:20:40.49,0:20:42.10,Love Asteroid - Default,Mira,0,0,0,,That's so cool!
-Dialogue: 0,0:20:42.10,0:20:44.19,Love Asteroid - Default,Ino,0,0,0,,It's a mock boring survey.
-Dialogue: 0,0:20:44.19,0:20:45.31,Love Asteroid - Default,Monroe,0,0,0,,I know!
-Dialogue: 0,0:20:45.31,0:20:47.26,Love Asteroid - Top,Monroe,0,0,0,,Why don't we serve this as a café?
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_398_Agar,PaperLeft,0,0,0,,Agar
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_399_Boring_Agar,PaperRight,0,0,0,,Boring Agar
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_400_Strawberry_Milk,PaperRight,0,0,0,,Strawberry \NMilk
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_401_Banana__Milk,PaperRight,0,0,0,,Banana\N Milk
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_402_Milk__Coffee,PaperRight,0,0,0,,Milk \NCoffee
-Dialogue: 0,0:20:45.64,0:20:47.26,sign_29866_403_Agar_,PaperRight,0,0,0,,Agar!!
-Dialogue: 0,0:20:47.87,0:20:49.00,Love Asteroid - Default,Mira,0,0,0,,A café?
-Dialogue: 0,0:20:49.00,0:20:52.80,Love Asteroid - Default,Ao,0,0,0,,We could make other sweets and drinks \Nwith earth science themes.
-Dialogue: 0,0:20:52.80,0:20:56.64,Love Asteroid - Default,Ino,0,0,0,,A café where you can enjoy earth sciences \Nalong with tea and sweets...
-Dialogue: 0,0:20:56.64,0:20:57.48,Love Asteroid - Default,Ino,0,0,0,,A geocafé!
-Dialogue: 0,0:20:57.79,0:20:59.32,Love Asteroid - Default,Ino,0,0,0,,That might be nice!
-Dialogue: 0,0:20:59.32,0:21:00.23,Love Asteroid - Default,Monroe,0,0,0,,It's settled, then.
-Dialogue: 0,0:21:00.55,0:21:04.90,Love Asteroid - Default,Mira,0,0,0,,Ao! Let's come up with some ideas for \Nsweets and talk to Suzu-chan about them!
-Dialogue: 0,0:21:04.90,0:21:05.69,Love Asteroid - Default,Ao,0,0,0,,Yeah.
-Dialogue: 0,0:21:05.69,0:21:08.99,Love Asteroid - Default,Monroe,0,0,0,,Then the geology group's exhibit \Nfor the café will be...
-Dialogue: 0,0:21:09.60,0:21:12.58,Love Asteroid - Default,Ino,0,0,0,,Actually boring into the campus?
-Dialogue: 0,0:21:13.01,0:21:15.71,Love Asteroid - Default,Sakura,0,0,0,,We can't do that. It's not realistic.
-Dialogue: 0,0:21:16.52,0:21:20.17,Love Asteroid - Default,Sakura,0,0,0,,We can't ask other businesses to \Nhelp with the cultural festival.
-Dialogue: 0,0:21:22.46,0:21:23.61,Love Asteroid - Default,Endou,0,0,0,,Hey, Sakurai.
-Dialogue: 0,0:21:24.87,0:21:26.37,Love Asteroid - Default,Endou,0,0,0,,If you're interested in it,
-Dialogue: 0,0:21:26.37,0:21:29.22,Love Asteroid - Default,,0,0,0,,why not just organize what data \Nand findings you can dig up?
-Dialogue: 0,0:21:29.53,0:21:33.92,Love Asteroid - Default,Sakura,0,0,0,,But without the real thing, it won't \Nbe a centerpiece for the exhibit,
-Dialogue: 0,0:21:33.92,0:21:36.03,Love Asteroid - Default,Sakura,0,0,0,,and it'll just look haphazard.
-Dialogue: 0,0:21:36.03,0:21:37.85,Love Asteroid - Default,Endou,0,0,0,,And that's fine.
-Dialogue: 0,0:21:38.94,0:21:43.19,Love Asteroid - Default,Endou,0,0,0,,It'd be a waste to just decide it's \Nimpossible and completely scrap it all, right?
-Dialogue: 0,0:21:44.52,0:21:50.87,Love Asteroid - Default,Endou,0,0,0,,At the very least, I want to learn what \Nyou researched and what you thought of it.
-Dialogue: 0,0:21:51.47,0:21:53.46,Love Asteroid - Default,Ino,0,0,0,,I want to know, too.
-Dialogue: 0,0:21:53.46,0:21:54.25,Love Asteroid - Default,All,0,0,0,,Yeah.
-Dialogue: 0,0:21:59.69,0:22:03.74,Love Asteroid - Italics,Mira,0,0,0,,And so our earth sciences club begins \Npreparing for the cultural festival!
+Dialogue: 0,0:03:19.72,0:03:21.43,Signs,Sign,0,0,0,,Beach House\N{\fs36}Sea Gravel
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,Beware of Rip Tides!\N{\fs24}Don't go in the ocean \Nwhen the waves are rough.
+Dialogue: 0,0:07:41.35,0:07:46.11,Signs,Book,0,0,0,,Monthly Star Navi
+Dialogue: 0,0:07:59.99,0:08:03.94,Signs,Text,0,0,0,,I'm going to a mineral show tomorrow.\NI'll send where to meet up later.\NPlease let me know if you can make it.
+Dialogue: 0,0:09:00.64,0:09:02.60,Signs,Phone,0,0,0,,Power stone to calm a scary person
+Dialogue: 0,0:13:23.74,0:13:29.95,Signs,Note,0,0,0,,Silicate Mineral\N\N\N\N\NMohs Hardness 8
+Dialogue: 0,0:14:12.00,0:14:13.95,Signs,,0,0,0,,What I Want to Be
+Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,Boring Survey
+Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,{\pos(498.113,171)}Pop
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Arm Wrestling Competition
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Frankfurt
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Hamlet
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Competitive Karuta
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Haunted House
+Dialogue: 0,0:19:19.34,0:19:23.09,Signs,Signs(Left to Right),0,0,0,,Feynman              Dirac                Fermi            Cockcroft
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardLeft,0,0,0,,Boring Survey
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Planetary Model Display
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Model Explanation Board
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Fossil Appraisal
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Fusulinid Stone \NPolishing Experience
+Dialogue: 0,0:20:15.10,0:20:16.56,Signs,Sign,0,0,0,,Staff Room
+Dialogue: 0,0:20:22.74,0:20:29.45,Signs,Paper,0,0,0,,Soil Boring Log
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperLeft,0,0,0,,Agar
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Boring Agar
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Strawberry \NMilk
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Banana\N Milk
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Milk \NCoffee
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Agar!!
 Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,06.\NHoshizaki Festival!
-Dialogue: 0,0:23:36.22,0:23:38.43,Love Asteroid - Default,Mira,0,0,0,,Next time, "Hoshizaki Festival!"
+Comment: 10,0:00:48.02,0:00:48.02,Default,,0,0,0,,== OP ==================================
+Comment: 10,0:22:05.01,0:22:05.01,Default,,0,0,0,,== ED ==================================
