@@ -23,6 +23,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Alternate,Tiresias Infofont,48,&H00FFFFFF,&H000000FF,&H00663300,&H00402000,0,0,0,0,100,100,0,0,1,2.5,0.5,2,160,160,54,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Mask,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
 Style: Ep Title,A-Space Light Demo,50,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,1,75,75,120,1
 Style: Next Ep Title,A-Space Light Demo,72,&H00FFFEFF,&H000000FF,&H40743F43,&H00743F43,0,0,0,0,85,100,2,0,1,2.5,0,2,75,75,125,1
 Style: Eyecatch,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
@@ -30,6 +31,7 @@ Style: OP Rom,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,10
 Style: OP Eng,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0,2,88,88,36,1
 Style: OP Rom Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,88,88,36,1
 Style: OP Eng Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,88,88,36,1
+Style: Phone,RexliaRg-Regular,16,&H104E4047,&H000000FF,&H104E4047,&H104E4047,0,0,0,0,80,100,0.5,0,1,0,0,7,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -435,35 +437,109 @@ Comment: 10,0:22:05.01,0:22:05.01,Default,chptr,0,0,0,,{ED}ED
 Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
 Dialogue: 10,0:23:36.22,0:23:38.43,Default,Mira,0,0,0,,Next time, "Hoshizaki Festival!"
 Comment: 0,0:00:00.00,0:00:00.00,Signs,,0,0,0,,== Signs ===============================
-Dialogue: 0,0:02:18.36,0:02:22.41,Ep Title,Screen,0,0,0,,{\fad(1400,1172)}05.     Everyone's Summer Break
-Dialogue: 0,0:03:19.72,0:03:21.43,Signs,Sign,0,0,0,,Beach House\N{\fs36}Sea Gravel
-Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,Beware of Rip Tides!\N{\fs24}Don't go in the ocean \Nwhen the waves are rough.
-Dialogue: 0,0:07:41.35,0:07:46.11,Signs,Book,0,0,0,,Monthly Star Navi
-Dialogue: 0,0:07:59.99,0:08:03.94,Signs,Text,0,0,0,,I'm going to a mineral show tomorrow.\NI'll send where to meet up later.\NPlease let me know if you can make it.
-Dialogue: 0,0:09:00.64,0:09:02.60,Signs,Phone,0,0,0,,Power stone to calm a scary person
-Dialogue: 0,0:13:23.74,0:13:29.95,Signs,Note,0,0,0,,Silicate Mineral\N\N\N\N\NMohs Hardness 8
-Dialogue: 0,0:14:12.00,0:14:13.95,Signs,,0,0,0,,What I Want to Be
-Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,Boring Survey
-Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,{\pos(498.113,171)}Pop
+Comment: 0,0:02:18.36,0:02:22.41,Ep Title,Screen,0,0,0,,# Title card
+Dialogue: 0,0:02:18.36,0:02:22.41,Ep Title,Screen,0,0,0,,{\fad(1400,1172)}05. Everyone's Summer Break
+Comment: 0,0:03:19.72,0:03:21.43,Signs,Sign,0,0,0,,# Beach house sign
+Dialogue: 0,0:03:19.72,0:03:21.43,Signs,Sign,0,0,0,,Beach House\NSea Gravel
+Comment: 0,0:03:21.43,0:03:25.39,Signs,Sign,0,0,0,,# Beach house sign
+Dialogue: 0,0:03:21.43,0:03:25.39,Signs,Sign,0,0,0,,{\pos(160,74)}Beach House\NSea Gravel
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,# Wall menu
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(260,260)}Sausage
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(334,214)}Fries
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(408,270)}Takoyaki
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(478,208)}Fried chicken
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(910,216)}Shio camen
+Comment: 0,0:03:33.44,0:03:36.90,Signs,,0,0,0,,{\pos(974,250)}Tonkotsu ramen
+Comment: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,# Warning sign
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(466,152)}Beware of Rip Tides!\N{\fs24}No swimming\Nwhen the waves are rough.
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(364,300)}Wave
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(412,372)}Wave
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(658,364)}Wave
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(682,304)}Wave
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(540,288)}Rip Tide
+Dialogue: 0,0:04:00.38,0:04:17.15,Signs,Sign,0,0,0,,{\pos(542,436)}Bulge{TL: lit. "Accumulated water"}
+Comment: 0,0:07:00.48,0:07:03.65,Signs,,0,0,0,,# Phone
+Dialogue: 0,0:07:00.48,0:07:03.65,Signs,,0,0,0,,{\pos(578,128)}Monroe-senpai
+Comment: 0,0:07:41.35,0:07:46.11,Signs,Book,0,0,0,,# Magazine
+Dialogue: 0,0:07:41.35,0:07:46.11,Signs,Book,0,0,0,,{\pos(626,474)}Monthly Star Navi
+Comment: 0,0:07:57.49,0:07:59.04,Signs,Book,0,0,0,,# Magazine
+Dialogue: 0,0:07:57.49,0:07:59.04,Signs,Book,0,0,0,,{\pos(312,426)}Monthly Star Navi
+Comment: 0,0:07:59.99,0:08:05.46,Signs,Text,0,0,0,,# Phone chat
+Dialogue: 0,0:07:59.99,0:08:05.46,Phone,Text,0,0,0,,{\pos(248,204)}I'm going to a mineral show tomorrow.\NI'll send where to meet up later.\NPlease let me know if you can make it.
+Dialogue: 0,0:08:04.13,0:08:05.46,Phone,Text,0,0,0,,{\pos(342,340)}I'll go! I'll go!!
+Comment: 0,0:08:05.46,0:08:17.30,Signs,,0,0,0,,# Phone chat
+Comment: 0,0:08:05.46,0:08:11.26,Phone,,0,0,0,,{\pos(726,54)}I'll go! I'll go!!
+Comment: 0,0:08:05.46,0:08:17.30,Phone,,0,0,0,,{\pos(402,88)}Sorry, I already have other plans.
+Comment: 0,0:08:08.13,0:08:17.30,Phone,,0,0,0,,{\pos(422,152)}What a shame. I have plans that day, too.
+Comment: 0,0:08:11.01,0:08:17.30,Phone,,0,0,0,,{\pos(452,246)}Same for me, sorry.
+Comment: 0,0:08:39.58,0:08:46.04,Signs,,0,0,0,,# Mineral show poster
+Dialogue: 0,0:08:39.58,0:08:46.04,Signs,,0,0,0,,{\pos(1090,14)}Mineral show
+Dialogue: 0,0:08:39.58,0:08:46.04,Signs,,0,0,0,,{\pos(1010,80)}Minerals and fossils for sale on display
+Comment: 0,0:09:00.64,0:09:02.60,Signs,Phone,0,0,0,,# Phone
+Dialogue: 0,0:09:00.64,0:09:02.60,Phone,Phone,0,0,0,,{\pos(366,484)}Power stone to calm scary people
+Dialogue: 0,0:09:00.64,0:09:02.60,Phone,Phone,0,0,0,,{\pos(1030,386)}Cancel
+Dialogue: 0,0:09:00.64,0:09:02.60,Phone,Phone,0,0,0,,{\pos(452,668)}Favorites
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,# Birthstones
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(172,348)}March\NAquamarine
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(508,292)}April\NZircon{A diamond substitute}
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(816,206)}May\NEmerald
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(1122,134)}June\NMoonstone
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(276,624)}September\NSapphire
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(602,570)}October\NTourmaline
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(926,504)}November\NCitrine
+Comment: 0,0:09:34.59,0:09:36.34,Signs,Phone,0,0,0,,{\pos(1210,420)}December\NTurquoise
+Comment: 0,0:10:03.83,0:10:08.92,Signs,Phone,0,0,0,,# Geode note
+Dialogue: 0,0:10:03.83,0:10:08.92,Signs,Phone,0,0,0,,{\pos(374,664)}Feel free to{ open and look inside(?)}
+Comment: 0,0:10:30.10,0:10:32.06,Signs,Phone,0,0,0,,# Stone display
+Comment: 0,0:10:49.87,0:10:51.04,Signs,Phone,0,0,0,,# Meteorite price
+Dialogue: 0,0:10:49.83,0:10:51.04,Signs,Phone,0,0,0,,{\pos(568,12)}¥200,000 + tax
+Comment: 0,0:10:30.10,0:10:52.00,Signs,Phone,0,0,0,,# Meteorite price
+Dialogue: 0,0:10:51.04,0:10:52.00,Signs,Phone,0,0,0,,¥200,000 + tax
+Comment: 0,0:13:23.74,0:13:29.95,Signs,Note,0,0,0,,# Topaz note
+Comment: 0,0:13:23.74,0:13:29.95,Signs,Note,0,0,0,,Silicate Mineral\N\N\N\N\NMohs Hardness 8
+Comment: 0,0:14:11.99,0:14:13.95,Signs,,0,0,0,,# Small whiteboard
+Dialogue: 0,0:14:11.99,0:14:13.95,Signs,,0,0,0,,{\pos(644,286)}What I want to be when I grow up
+Comment: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,# Whiteboard diagram
+Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,{\pos(478,104)}Boring Survey
+Dialogue: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,{\pos(654.113,259)}Pop
+Comment: 0,0:18:37.34,0:18:40.97,Signs,Board,0,0,0,,# Banner painting
+Comment: 0,0:18:58.32,0:18:59.78,Signs,Board,0,0,0,,{\pos(144,394)}Supe{r}
+Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,# Stairs
 Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Arm Wrestling Competition
 Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Frankfurt
 Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Hamlet
 Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Competitive Karuta
 Comment: 0,0:18:59.78,0:19:01.24,Signs,Stairs,0,0,0,,Haunted House
-Dialogue: 0,0:19:19.34,0:19:23.09,Signs,Signs(Left to Right),0,0,0,,Feynman              Dirac                Fermi            Cockcroft
-Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardLeft,0,0,0,,Boring Survey
-Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Planetary Model Display
-Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Model Explanation Board
-Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Fossil Appraisal
-Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,Fusulinid Stone \NPolishing Experience
-Dialogue: 0,0:20:15.10,0:20:16.56,Signs,Sign,0,0,0,,Staff Room
-Dialogue: 0,0:20:22.74,0:20:29.45,Signs,Paper,0,0,0,,Soil Boring Log
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperLeft,0,0,0,,Agar
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Boring Agar
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Strawberry \NMilk
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Banana\N Milk
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Milk \NCoffee
-Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,Agar!!
+Comment: 0,0:19:19.34,0:19:23.10,Signs,Signs(Left to Right),0,0,0,,# Fish names
+Dialogue: 0,0:19:19.34,0:19:23.10,Signs,Signs(Left to Right),0,0,0,,{\pos(418,620)}Feynman
+Dialogue: 0,0:19:19.34,0:19:23.10,Signs,Signs(Left to Right),0,0,0,,{\pos(656,576)}Dirac
+Dialogue: 0,0:19:19.34,0:19:23.10,Signs,Signs(Left to Right),0,0,0,,{\pos(826,536)}Fermi
+Dialogue: 0,0:19:19.34,0:19:23.10,Signs,Signs(Left to Right),0,0,0,,{\pos(1024,516)}Cockcroft
+Comment: 0,0:19:58.71,0:20:01.30,Signs,BoardLeft,0,0,0,,# Whiteboard
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardLeft,0,0,0,,{\pos(426,256)}Boring Survey
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,{\pos(810,354)}Planetary Model Display
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,{\pos(768,426)}Model Explanation Board
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,{\pos(742,524)}Fossil Appraisal
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,{\pos(742,626)}Fusulinid Stone Polishing Experience
+Dialogue: 0,0:19:58.71,0:20:01.30,Signs,BoardRight,0,0,0,,{\pos(506,434)}Pop
+Comment: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,# Whiteboard background
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardLeft,0,0,0,,{\pos(462,94)}Boring Survey
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,{\pos(612,102)}Planetary Model Display
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,{\pos(628,138)}Model Explanation Board
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,{\pos(594,162)}Fossil Appraisal
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,{\pos(624,186)}Fusulinid Stone Polishing Experience
+Dialogue: 0,0:20:01.30,0:20:07.89,Signs,BoardRight,0,0,0,,{\pos(490,168)}Pop
+Comment: 0,0:20:15.11,0:20:16.57,Signs,Sign,0,0,0,,# Staff room sign
+Dialogue: 0,0:20:15.11,0:20:16.57,Signs,Sign,0,0,0,,{\pos(616,312)}Staff Room
+Comment: 0,0:20:22.74,0:20:29.45,Signs,Paper,0,0,0,,# Soil boring log
+Dialogue: 0,0:20:22.74,0:20:29.45,Signs,Paper,0,0,0,,{\pos(684,68)}Soil Boring Log
+Comment: 0,0:20:45.64,0:20:47.26,Signs,PaperLeft,0,0,0,,# Boring jelly diagram
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperLeft,0,0,0,,{\pos(724,262)}Jelly{TL: "Agar", but I think that's more associated with the scientific substance}
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,{\pos(1060,334)}Jelly Boring
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,{\pos(1008,444)}Strawberry
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,{\pos(964,520)}Banana
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,{\pos(938,612)}Coffee
+Dialogue: 0,0:20:45.64,0:20:47.26,Signs,PaperRight,0,0,0,,{\pos(902,682)}Jelly!!
 Dialogue: 0,0:23:35.01,0:23:40.06,Next Ep Title,Screen,0,0,0,,06.\NHoshizaki Festival!
 Comment: 10,0:00:48.02,0:00:48.02,Default,,0,0,0,,== OP ==================================
 Dialogue: 10,0:00:48.52,0:00:51.02,OP Rom,,0,0,0,,{\fad(447,0)}{\k15}u{\k16}tsu{\k16}mu{\k16}i{\k31}ta {\k16}sa{\k46}ki {\k16}ni {\k78}mo
