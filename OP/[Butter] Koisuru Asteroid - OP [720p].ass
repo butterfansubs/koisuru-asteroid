@@ -22,10 +22,10 @@ Video Position: 3361
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP Rom,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,0,0,1,2,0,8,88,88,36,1
-Style: OP Eng,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,0,0,1,2,0,2,88,88,36,1
-Style: OP Rom Starry,Amaranth,42,&H00EFFFFB,&HFFEFFFFB,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,88,88,36,1
-Style: OP Eng Starry,Amaranth,42,&H00EFFFFB,&HFFEFFFFB,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,88,88,36,1
+Style: OP Rom,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,1,0,1,2,0,8,88,88,36,1
+Style: OP Eng,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,1,0,1,2,0,2,88,88,36,1
+Style: OP Rom Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,8,88,88,36,1
+Style: OP Eng Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,2,88,88,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
