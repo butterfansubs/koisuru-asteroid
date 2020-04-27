@@ -22,10 +22,10 @@ Video Position: 3361
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP Rom,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0,8,88,88,36,1
-Style: OP Eng,Amaranth,52,&H00FFFFFF,&H80A95B33,&H00000000,&H66000000,0,0,0,0,100,100,0,0,1,2.5,0,2,88,88,36,1
-Style: OP Rom Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,88,88,36,1
-Style: OP Eng Starry,Amaranth,52,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,88,88,36,1
+Style: OP Rom,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,0,0,1,2,0,8,88,88,36,1
+Style: OP Eng,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,0,0,1,2,0,2,88,88,36,1
+Style: OP Rom Starry,Amaranth,42,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,8,88,88,36,1
+Style: OP Eng Starry,Amaranth,42,&H00FFFFFF,&HFFFFFFFF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,88,88,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -70,7 +70,7 @@ Dialogue: 11,0:01:50.92,0:01:51.88,OP Rom Starry,,0,0,0,,{\alpha&HFF&\t(920,920,
 Dialogue: 11,0:01:50.92,0:01:53.90,OP Rom Starry,,0,0,0,,{\alpha&HFF&\t(960,960,\alpha&H00&\2a&HFF&)\k40}{\k17}mi{\k16}ta {\k15}ko{\k16}to {\k31}no {\k16}na{\k48}i {\k16}mo{\k66}no
 Dialogue: 10,0:01:53.90,0:01:56.30,OP Rom Starry,,0,0,0,,{\k16}mi{\k15}tsu{\k17}ke{\k16}te {\k31}yu{\k16}ki{\k47}ta{\k17}i {\k73}na
 Dialogue: 10,0:01:56.30,0:02:01.30,OP Rom Starry,,0,0,0,,{\k35}{\k32}ka{\k63}ga{\k32}ya{\k31}ku {\k31}i{\k16}shi {\k47}wo {\k17}hi{\k16}ro{\k32}i{\k16}a{\k47}tsu{\k16}me{\k78}te
-Dialogue: 10,0:02:01.30,0:02:03.72,OP Rom Starry,,0,0,0,,{\t(1281,2407,\3c&H000000&\bord2.5\2c&HA95B33&\2a&H80&)\k16}u{\k16}tsu{\k16}mu{\k16}i{\k32}ta {\k16}sa{\k47}ki {\k16}ni {\k77}mo
+Dialogue: 10,0:02:01.30,0:02:03.72,OP Rom Starry,,0,0,0,,{\t(1281,2407,\3c&H462311&\bord2.5\2c&HA95B33&\2a&H80&)\k16}u{\k16}tsu{\k16}mu{\k16}i{\k32}ta {\k16}sa{\k47}ki {\k16}ni {\k77}mo
 Dialogue: 10,0:02:03.72,0:02:06.18,OP Rom,,0,0,0,,{\k6}{\k16}mi{\k15}a{\k17}ge{\k16}te{\k32}ru {\k15}sa{\k47}ki {\k16}ni {\k73}mo
 Dialogue: 10,0:02:06.18,0:02:11.23,OP Rom,,0,0,0,,{\k41}{\k31}ki{\k62}t{\k31}to {\k16}mi{\k46}ra{\k16}i {\k47}wa {\k32}ma{\k32}t{\k15}te{\k47}i{\k16}ru {\k73}yo
 Dialogue: 10,0:02:11.23,0:02:16.40,OP Rom,,0,0,0,,{\fad(0,1474)}{\k32}{\k31}da{\k31}ka{\k17}ra {\k47}a{\k31}ru{\k63}i{\k32}te {\k16}yu{\k191}kou
@@ -114,7 +114,7 @@ Dialogue: 11,0:01:50.92,0:01:51.88,OP Eng Starry,,0,0,0,,{\alpha&HFF&\t(920,920,
 Dialogue: 11,0:01:50.92,0:01:53.90,OP Eng Starry,,0,0,0,,{\alpha&HFF&\t(960,960,\alpha&H00&\2a&HFF&)}Looking for the things I’ve never seen
 Dialogue: 10,0:01:53.90,0:01:56.30,OP Eng Starry,,0,0,0,,Going to the spots I’ve never been
 Dialogue: 10,0:01:56.30,0:02:01.30,OP Eng Starry,,0,0,0,,The will to do all those things is what I want to have within
-Dialogue: 10,0:02:01.30,0:02:03.72,OP Eng Starry,,0,0,0,,{\t(1281,2407,\3c&H000000&\bord2.5\2c&HA95B33&\2a&H80&)}I look at the ground in front of me
+Dialogue: 10,0:02:01.30,0:02:03.72,OP Eng Starry,,0,0,0,,{\t(1281,2407,\3c&H462311&\bord2.5\2c&HA95B33&\2a&H80&)}I look at the ground in front of me
 Dialogue: 10,0:02:03.72,0:02:06.18,OP Eng,,0,0,0,,I look at the sky that all can see
 Dialogue: 10,0:02:06.18,0:02:11.23,OP Eng,,0,0,0,,The future’s ahead of us. It waits for us, you know
 Dialogue: 10,0:02:11.23,0:02:16.40,OP Eng,,0,0,0,,{\fad(0,1474)}So let’s keep moving forward and go!
