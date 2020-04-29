@@ -25,7 +25,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: OP Rom,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,1,0,1,2,0,8,88,88,36,1
 Style: OP Eng,Amaranth,42,&H00FFFFFF,&H80A95B33,&H00462311,&H66000000,0,0,0,0,100,100,1,0,1,2,0,2,88,88,36,1
 Style: OP Rom Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,8,88,88,36,1
-Style: OP Eng Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00FFFFAC,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,2,88,88,36,1
+Style: OP Eng Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00D55F9A,&H00000000,0,0,0,0,100,100,1,0,1,1.5,0,2,88,88,36,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
