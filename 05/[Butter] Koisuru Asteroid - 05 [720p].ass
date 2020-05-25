@@ -17,10 +17,12 @@ Update Details: ED, TM, TS
 Last Style Storage: Default
 Audio File: [HorribleSubs] Koisuru Asteroid - 05 [720p].mkv
 Video File: [HorribleSubs] Koisuru Asteroid - 05 [720p].mkv
-Keyframes File: [HorribleSubs] Koisuru Asteroid - 05 [720p]._keyframes.txt
-Scroll Position: 429
-Active Line: 433
-Video Position: 30
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 388
+Active Line: 393
+Video Position: 31151
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -52,7 +54,7 @@ Dialogue: 10,0:00:17.25,0:00:20.95,Default,Ao,0,0,0,,It seems she's been enjoyin
 Dialogue: 10,0:00:22.88,0:00:25.94,Default,Suzu,0,0,0,,She totally acts like a geology club member now.
 Dialogue: 10,0:00:28.36,0:00:30.34,Default,Suzu,0,0,0,,What's the matter, Ino-senpai?
 Dialogue: 10,0:00:31.60,0:00:35.43,Default,Ino,0,0,0,,I was just thinking how you two \Nboth look lovely and mature.
-Dialogue: 10,0:00:35.84,0:00:39.14,Default,Ino,0,0,0,,I should have gone with \Na swimsuit like that, too.
+Dialogue: 10,0:00:35.84,0:00:39.14,Default,Ino,0,0,0,,I should have gone with a swimsuit like that, too.
 Dialogue: 10,0:00:39.59,0:00:41.77,Default,Suzu,0,0,0,,Want to try on a pareo?
 Dialogue: 10,0:00:43.09,0:00:46.32,Default,Suzu,0,0,0,,So cute! Nice! So nice!
 Dialogue: 10,0:00:43.96,0:00:45.60,Default,Ao,0,0,0,,You look good it in, Senpai!
@@ -61,7 +63,7 @@ Comment: 10,0:02:17.99,0:02:17.99,Default,chptr,0,0,0,,{Part A}Part A
 Dialogue: 10,0:02:19.07,0:02:23.93,Default,Mira,0,0,0,,{\an8}I wish Sakura-senpai and Monroe-senpai \Ncould have joined us, too.
 Dialogue: 10,0:02:23.93,0:02:26.58,Default,Ao,0,0,0,,Summer classes sound rough.
 Dialogue: 10,0:02:26.58,0:02:27.98,Default,Mira,0,0,0,,Yeah!
-Dialogue: 10,0:02:27.98,0:02:29.96,Default,Ao,0,0,0,,Mira, don't move so suddenly!
+Dialogue: 10,0:02:27.98,0:02:29.96,Default,Ao,0,0,0,ED,Mira, don't move so suddenly!
 Dialogue: 10,0:02:30.55,0:02:33.77,Default,Suzu,0,0,0,,Looks like you two have grown \Nquite close to each other.
 Dialogue: 10,0:02:33.77,0:02:35.05,Default,Suzu,0,0,0,,Especially you, Ao.
 Dialogue: 10,0:02:37.89,0:02:41.08,Default,Ao,0,0,0,,Yeah, I can talk to her normally now.
@@ -71,7 +73,7 @@ Dialogue: 10,0:02:48.31,0:02:49.26,Default,Ao,0,0,0,,{\an8}It is.
 Dialogue: 10,0:02:49.26,0:02:50.60,Default,Mira,0,0,0,,{\an8}Let's swim some more!
 Dialogue: 10,0:02:49.54,0:02:51.48,Default,Suzu,0,0,0,,{\i1}Now that I think about it,
 Dialogue: 10,0:02:50.60,0:02:51.48,Default,Ao,0,0,0,,{\an8}Yeah!
-Dialogue: 10,0:02:51.48,0:02:56.05,Default,,0,0,0,,{\i1}I don't think there's ever been \Nany girl who was closer to Mira than me.
+Dialogue: 10,0:02:51.48,0:02:56.05,Default,,0,0,0,,{\i1}I don't think there's ever been any girl \Nwho was closer to Mira than me.
 Dialogue: 10,0:02:56.94,0:02:58.32,Default,Suzu,0,0,0,,{\i1}Could this be...
 Dialogue: 10,0:02:58.32,0:03:00.35,Default,Suzu,0,0,0,,{\i1}what people call "jealousy"?!
 Dialogue: 10,0:03:01.32,0:03:03.28,Default,Mira,0,0,0,,I'm starving!
@@ -227,20 +229,20 @@ Dialogue: 10,0:10:45.34,0:10:47.60,Default,Sakura,0,0,0,,If you found one you li
 Dialogue: 10,0:10:47.60,0:10:48.90,Default,Mira,0,0,0,,Good idea!
 Dialogue: 10,0:10:48.90,0:10:52.00,Default,Mira,0,0,0,,Maybe I'll get one as a souvenir for Ao.
 Dialogue: 10,0:11:01.45,0:11:03.48,Default,Sakura,0,0,0,ED,You bought a lot, huh?
-Dialogue: 10,0:11:03.48,0:11:05.93,Default,Mira,0,0,0,ED,Yeah. It was so interesting, I couldn't help it.
+Dialogue: 10,0:11:03.48,0:11:05.93,Default,Mira,0,0,0,ED,Yeah. They were all so interesting, \NI couldn't help it.
 Dialogue: 10,0:11:06.32,0:11:08.64,Default,Mira,0,0,0,,This is that geode we saw before,
 Dialogue: 10,0:11:08.64,0:11:11.71,Default,Mira,0,0,0,,and the one that looks like \Nit has two layers is calcite.
 Dialogue: 10,0:11:11.71,0:11:14.00,Default,Mira,0,0,0,,There's a bismuth crystal with strange coloring,
 Dialogue: 10,0:11:14.00,0:11:15.48,Default,Mira,0,0,0,,and pretty dendrite!
-Dialogue: 10,0:11:16.89,0:11:20.80,Default,Sakura,0,0,0,,The dendrite you find all have strange patterns.
+Dialogue: 10,0:11:16.89,0:11:20.80,Default,Sakura,0,0,0,,The dendrite you find all have chaotic patterns.
 Dialogue: 10,0:11:21.74,0:11:24.53,Default,Mira,0,0,0,,What did you buy, Senpai?
 Dialogue: 10,0:11:24.53,0:11:26.32,Default,Sakura,0,0,0,,Wanna see? You wanna see?!
-Dialogue: 10,0:11:26.32,0:11:28.45,Default,Mira,0,0,0,,Uh, never mind.
+Dialogue: 10,0:11:26.32,0:11:28.45,Default,Mira,0,0,0,,On second thought, never mind.
 Dialogue: 10,0:11:29.87,0:11:32.46,Default,Sakura,0,0,0,,Today was a really great breather.
-Dialogue: 10,0:11:33.04,0:11:35.45,Default,Sakura,0,0,0,ED,I interacted with lots of sparkly stones,
+Dialogue: 10,0:11:33.04,0:11:35.45,Default,Sakura,0,0,0,ED,I got to see and touch lots of sparkly stones,
 Dialogue: 10,0:11:35.45,0:11:37.30,Default,,0,0,0,,and enjoyed some fluffy pancakes.
 Dialogue: 10,0:11:37.70,0:11:41.24,Default,Mira,0,0,0,ED,Now you can really study hard when you get home!
-Dialogue: 10,0:11:43.13,0:11:44.97,Default,Mira,0,0,0,,You're getting depressed!
+Dialogue: 10,0:11:43.13,0:11:44.97,Default,Mira,0,0,0,ED,You're getting depressed!
 Dialogue: 10,0:11:45.20,0:11:47.93,Default,Mira,0,0,0,,Entrance exams are tough, aren't they?
 Dialogue: 10,0:11:47.93,0:11:50.22,Default,Sakura,0,0,0,,It's more like...
 Dialogue: 10,0:11:50.22,0:11:51.97,Default,Sakura,0,0,0,,I just can't get myself into it.
@@ -248,16 +250,16 @@ Dialogue: 10,0:11:52.41,0:11:54.42,Default,Sakura,0,0,0,,I know I mentioned it d
 Dialogue: 10,0:11:55.07,0:11:57.36,Default,Sakura,0,0,0,,but I don't have any clear goals.
 Dialogue: 10,0:11:59.82,0:12:03.48,Default,Sakura,0,0,0,,Your dream is to discover a star, right?
 Dialogue: 10,0:12:03.48,0:12:06.37,Default,Mira,0,0,0,,Yes! Though technically an asteroid, not a star.
-Dialogue: 10,0:12:07.30,0:12:10.94,Default,Sakura,0,0,0,,If you do manage to find one, \Nwhat will you do after that?
-Dialogue: 10,0:12:10.94,0:12:12.00,Default,Mira,0,0,0,,After that?
+Dialogue: 10,0:12:07.30,0:12:10.94,Default,Sakura,0,0,0,,Suppose you find one, what will you do after?
+Dialogue: 10,0:12:10.94,0:12:12.00,Default,Mira,0,0,0,,After?
 Dialogue: 10,0:12:12.51,0:12:14.37,Default,Sakura,0,0,0,,When you're an adult.
 Dialogue: 10,0:12:15.20,0:12:18.59,Default,Sakura,0,0,0,,Do you have a career \Nor an occupation you're aiming for?
 Dialogue: 10,0:12:19.67,0:12:22.09,Default,Mira,0,0,0,,When you put it like that...
-Dialogue: 10,0:12:22.64,0:12:24.06,Default,Mira,0,0,0,,I have no idea.
+Dialogue: 10,0:12:22.64,0:12:24.06,Default,Mira,0,0,0,,Beats me.
 Dialogue: 10,0:12:28.16,0:12:30.22,Default,Sakura,0,0,0,,Don't I envy you?{I really do envy you.}
-Dialogue: 10,0:12:31.83,0:12:33.93,Default,Sakura,0,0,0,,Sorry for bringing up a weird topic.
+Dialogue: 10,0:12:31.83,0:12:33.93,Default,Sakura,0,0,0,ED,Sorry for bringing up such a weird topic.
 Dialogue: 10,0:12:33.93,0:12:36.54,Default,Sakura,0,0,0,,Kind of ruined the break, huh?
-Dialogue: 10,0:12:36.54,0:12:38.48,Default,Sakura,0,0,0,,Let's get another cake.
+Dialogue: 10,0:12:36.54,0:12:38.48,Default,Sakura,0,0,0,,Let's get more cake.
 Dialogue: 10,0:12:41.12,0:12:43.02,Default,Sakura,0,0,0,,Doesn't it look like strata?
 Dialogue: 10,0:12:43.02,0:12:44.57,Default,Mira,0,0,0,,It does.
 Dialogue: 10,0:12:44.57,0:12:47.62,Default,Sakura,0,0,0,,You're starting to be more like us geology girls.
@@ -267,7 +269,7 @@ Dialogue: 10,0:12:54.01,0:12:56.37,Default,Sakura,0,0,0,,Sorry for taking up you
 Dialogue: 10,0:12:56.96,0:12:59.19,Default,Mira,0,0,0,,Don't worry about it. I had fun!
 Dialogue: 10,0:12:59.19,0:13:00.73,Default,Mira,0,0,0,,Thank you so much!
 Dialogue: 10,0:13:00.73,0:13:02.09,Default,Sakura,0,0,0,,Wh-What's this?
-Dialogue: 10,0:13:02.60,0:13:05.05,Default,Mira,0,0,0,,To thank you for inviting me out today.
+Dialogue: 10,0:13:02.60,0:13:05.05,Default,Mira,0,0,0,,It's to thank you for inviting me out today.
 Dialogue: 10,0:13:05.05,0:13:07.36,Default,Mira,0,0,0,,I hope we can bring everyone else \Nwith us next time.
 Dialogue: 10,0:13:07.87,0:13:09.96,Default,Mira,0,0,0,,I'm headed this way. Bye!
 Dialogue: 10,0:13:09.96,0:13:10.47,Default,Sakura,0,0,0,,Huh?
@@ -275,16 +277,16 @@ Dialogue: 10,0:13:10.73,0:13:13.18,Default,Sakura,0,0,0,,Y-Yeah, see you later.
 Dialogue: 10,0:13:17.78,0:13:21.58,Default,Sakura,0,0,0,,I forgot to thank her for coming with me, didn't I?
 Dialogue: 10,0:13:24.36,0:13:25.49,Default,Sakura,0,0,0,,{\i1}Topaz.
 Dialogue: 10,0:13:25.95,0:13:29.95,Default,Sakura,0,0,0,,{\i1}The stone that helps you find \Nthe path you should take, huh?
-Dialogue: 10,0:13:30.80,0:13:32.96,Default,Sakura,0,0,0,,{\i1}What a sophisticated thing to do.
+Dialogue: 10,0:13:30.80,0:13:32.96,Default,Sakura,0,0,0,ED,{\i1}What a sophisticated{粋} thing to do.
 Dialogue: 10,0:13:37.30,0:13:41.34,Default,Sakura&Text,0,0,0,,{\i1}Thank you for today. I really had a lot of f—
 Dialogue: 10,0:13:41.34,0:13:44.89,Default,Sakura,0,0,0,,No, it doesn't seem right \Nto say it to her like that.
 Dialogue: 10,0:13:45.76,0:13:48.58,Default,Sakura&Text,0,0,0,,{\i1}I'm glad you were there to hear me out.
 Dialogue: 10,0:13:48.58,0:13:50.33,Default,,0,0,0,,{\i1}I'll study hard.
 Dialogue: 10,0:13:50.33,0:13:51.77,Default,Sakura,0,0,0,,Man, who would say that?
 Dialogue: 10,0:13:54.84,0:13:57.14,Default,Mira,0,0,0,,Oh, Sakura-senpai.
-Dialogue: 10,0:13:57.14,0:13:58.70,Default,Sakura&Text,0,0,0,,{\i1}Thank you for today.
-Dialogue: 10,0:13:58.70,0:14:02.15,Default,Sakura&Text,0,0,0,,{\i1}I'll study hard, so make sure \Nto give it your best, too!
-Dialogue: 10,0:14:02.15,0:14:03.48,Default,Sakura&Text,0,0,0,,{\i1}Growr!
+Dialogue: 10,0:13:57.14,0:13:58.70,Default,Sakura&Text,0,0,0,,{\i1}Thanks for today.
+Dialogue: 10,0:13:58.70,0:14:02.15,Default,Sakura&Text,0,0,0,,{\i1}I'm going to study hard, \Nso make sure you do the same, too!
+Dialogue: 10,0:14:02.15,0:14:03.48,Default,Sakura&Text,0,0,0,ED,{\i1}Growr!
 Dialogue: 10,0:14:04.75,0:14:05.74,Default,Mira,0,0,0,,Senpai?
 Comment: 10,0:14:11.99,0:14:11.99,Default,chptr,0,0,0,,{Part B}Part B
 Dialogue: 10,0:14:14.43,0:14:17.67,Default,Boy,0,0,0,,Sensei! I want to be a train driver!
@@ -294,149 +296,149 @@ Dialogue: 10,0:14:20.96,0:14:23.17,Default,Boy,0,0,0,,I want to be a train drive
 Dialogue: 10,0:14:23.58,0:14:25.76,Default,Caretaker,0,0,0,,That's lovely, everyone.
 Dialogue: 10,0:14:26.50,0:14:27.83,Default,Caretaker,0,0,0,,What about you, Mikage-chan?
 Dialogue: 10,0:14:27.83,0:14:28.62,Default,Sakura,0,0,0,,Huh?
-Dialogue: 10,0:14:29.38,0:14:32.45,Default,Caretaker,0,0,0,,What do you want to be in the future?
+Dialogue: 10,0:14:29.38,0:14:32.45,Default,Caretaker,0,0,0,,What do you want to be when you grow up?
 Dialogue: 10,0:14:36.12,0:14:37.40,Default,Sakura,0,0,0,,I...
 Dialogue: 10,0:14:46.83,0:14:47.89,Default,Girl,0,0,0,,Morning!
-Dialogue: 10,0:14:47.89,0:14:49.15,Default,Girl,0,0,0,,Oh, morning!
+Dialogue: 10,0:14:47.89,0:14:49.15,Default,Girl,0,0,0,,Hey, morning!
 Dialogue: 10,0:14:50.54,0:14:53.50,Default,Ino,0,0,0,,Sakura-senpai, good morning.
 Dialogue: 10,0:14:53.50,0:14:55.37,Default,Sakura,0,0,0,,Oh, morning.
 Dialogue: 10,0:14:57.85,0:15:00.84,Default,Sakura,0,0,0,,Do we have a meeting today?
-Dialogue: 10,0:15:00.84,0:15:01.44,Default,Ino,0,0,0,,Huh?
-Dialogue: 10,0:15:02.13,0:15:04.25,Default,Ino,0,0,0,,Oh, yes. After school.
-Dialogue: 10,0:15:05.84,0:15:06.95,Default,Sakura,0,0,0,,Right.
+Dialogue: 10,0:15:00.84,0:15:01.44,Default,Ino,0,0,0,ED,Huh?
+Dialogue: 10,0:15:02.13,0:15:04.25,Default,Ino,0,0,0,,Yes, we have one after school.
+Dialogue: 10,0:15:05.84,0:15:06.95,Default,Sakura,0,0,0,,Oh yes, that's right.
 Dialogue: 10,0:15:07.90,0:15:09.86,Default,Sakura,0,0,0,,The cultural festival's coming up soon,
-Dialogue: 10,0:15:09.86,0:15:12.39,Default,,0,0,0,,so we need to start making \Ndecisions on things.
-Dialogue: 10,0:15:13.19,0:15:14.13,Default,Ino,0,0,0,,Right.
+Dialogue: 10,0:15:09.86,0:15:12.39,Default,,0,0,0,,so we need to start making decisions on things.
+Dialogue: 10,0:15:13.19,0:15:14.13,Default,Ino,0,0,0,ED,Right.
 Dialogue: 10,0:15:16.47,0:15:18.54,Default,Mira,0,0,0,,It's still so hot.
 Dialogue: 10,0:15:20.38,0:15:22.13,Default,Ao,0,0,0,,L-Look.
 Dialogue: 10,0:15:24.18,0:15:25.98,Default,Ao,0,0,0,,Wh-What?
-Dialogue: 10,0:15:28.26,0:15:29.36,Default,Ino,0,0,0,,Ibe-chan?!
+Dialogue: 10,0:15:28.26,0:15:29.36,Default,Ino,0,0,0,,Ibe-chan!
 Dialogue: 10,0:15:29.94,0:15:31.54,Default,Eve,0,0,0,,Eve!
-Dialogue: 10,0:15:31.54,0:15:33.82,Default,Eve,0,0,0,,I told you to call me Eve, didn't I?!
+Dialogue: 10,0:15:31.54,0:15:33.82,Default,Eve,0,0,0,,I told you to call me Eve, didn't I?
 Dialogue: 10,0:15:34.12,0:15:36.68,Default,Ino,0,0,0,,She's one of my friends from class.
 Dialogue: 10,0:15:38.15,0:15:39.71,Default,Mira,0,0,0,,Friends?
 Dialogue: 10,0:15:39.71,0:15:41.46,Default,Usami,0,0,0,,Oh, it's Manaka-san!
-Dialogue: 10,0:15:42.14,0:15:43.39,Default,,0,0,0,,Yoohoo!
+Dialogue: 10,0:15:42.14,0:15:43.39,Default,,0,0,0,,Hey there!
 Dialogue: 10,0:15:43.39,0:15:44.42,Default,Ao,0,0,0,,Usami-san.
 Dialogue: 10,0:15:44.64,0:15:46.01,Default,Mira,0,0,0,,Someone you know?
-Dialogue: 10,0:15:46.01,0:15:47.58,Default,Ao,0,0,0,,A classmate.
-Dialogue: 10,0:15:47.58,0:15:51.76,Default,Usami,0,0,0,,Sorry, our Eve-senpai is such a pain.
+Dialogue: 10,0:15:46.01,0:15:47.58,Default,Ao,0,0,0,,She's in my class.
+Dialogue: 10,0:15:47.58,0:15:51.76,Default,Usami,0,0,0,,Sorry, our Eve-chan-senpai is such a pain.
 Dialogue: 10,0:15:52.31,0:15:53.47,Default,Monroe,0,0,0,,Reconnaissance?
 Dialogue: 10,0:15:53.47,0:15:54.70,Default,Eve,0,0,0,,That's right!
-Dialogue: 10,0:15:54.70,0:15:57.98,Default,Eve,0,0,0,,We're a secret squad within the \Nnewspaper club that's taking
-Dialogue: 10,0:15:57.98,0:16:00.39,Default,,0,0,0,,covert action to crush the \Nearth sciences club's newsletter!
-Dialogue: 10,0:16:02.04,0:16:04.52,Default,Ino,0,0,0,,This is my first time seeing covert action!
+Dialogue: 10,0:15:54.70,0:15:57.98,Default,Eve,0,0,0,,We're a secret squad within \Nthe newspaper club that's taking covert action
+Dialogue: 10,0:15:57.98,0:16:00.39,Default,,0,0,0,,to crush the earth sciences club's newsletter!
+Dialogue: 10,0:16:02.04,0:16:04.52,Default,Ino,0,0,0,,I've never seen covert action before!
 Dialogue: 10,0:16:05.13,0:16:07.27,Default,Usami,0,0,0,,Our Senpai is a little off,
-Dialogue: 10,0:16:07.27,0:16:11.29,Default,Usami,0,0,0,,but the girls of the earth sciences \Nclub are pretty spacey too, huh?
+Dialogue: 10,0:16:07.27,0:16:11.29,Default,Usami,0,0,0,,but the girls of the earth sciences club \Nare pretty spacey too, huh?
 Dialogue: 10,0:16:12.07,0:16:14.64,Default,Sakura,0,0,0,,You said you're going to crush our newsletter?
 Dialogue: 10,0:16:14.64,0:16:17.89,Default,Monroe,0,0,0,,Could you tell us what you mean by that?
 Dialogue: 10,0:16:17.89,0:16:19.58,Default,Eve,0,0,0,,I can't share too many details,
-Dialogue: 10,0:16:19.99,0:16:23.14,Default,Eve,0,0,0,,but our newspaper's not selling.
-Dialogue: 10,0:16:23.14,0:16:26.67,Default,Eve,0,0,0,,It must be because the earth sciences \Nclub's newsletter is right beside it,
+Dialogue: 10,0:16:19.99,0:16:23.14,Default,Eve,0,0,0,,but our newspaper isn't selling.
+Dialogue: 10,0:16:23.14,0:16:26.67,Default,Eve,0,0,0,,It must be because the earth sciences club's \Nnewsletter is right beside it,
 Dialogue: 10,0:16:26.67,0:16:28.80,Default,,0,0,0,,and yours is interesting and full of content!
-Dialogue: 10,0:16:28.80,0:16:32.88,Default,Sakura,0,0,0,,I think we're being praised and \Nreprimanded at the same time.
-Dialogue: 10,0:16:32.88,0:16:34.72,Default,Monroe,0,0,0,,You're such an honest girl.
+Dialogue: 10,0:16:28.80,0:16:32.88,Default,Sakura,0,0,0,ED,I think we're being praised \Nand reprimanded at the same time.
+Dialogue: 10,0:16:32.88,0:16:34.72,Default,Monroe,0,0,0,,She's so honest.
 Dialogue: 10,0:16:34.72,0:16:38.83,Default,Monroe,0,0,0,,So you're trying to stop the production \Nof the earth sciences club's newsletter?
-Dialogue: 10,0:16:38.83,0:16:39.82,Default,Eve,0,0,0,,Yeah!
-Dialogue: 10,0:16:39.82,0:16:43.64,Default,Eve,0,0,0,,I was just looking for any scandals\N that we could use as blackmail!
-Dialogue: 10,0:16:44.12,0:16:47.04,Default,Sakura,0,0,0,,You spilled everything \Nin barely a few minutes.
+Dialogue: 10,0:16:38.83,0:16:39.82,Default,Eve,0,0,0,,That's right!
+Dialogue: 10,0:16:39.82,0:16:43.64,Default,Eve,0,0,0,,I was just looking for any scandals \Nthat we could use as blackmail!
+Dialogue: 10,0:16:44.12,0:16:47.04,Default,Sakura,0,0,0,,Not even a few minutes \Nand you've spilled everything.
 Dialogue: 10,0:16:47.04,0:16:48.99,Default,Sakura,0,0,0,,You're dumber than Mira.
 Dialogue: 10,0:16:48.99,0:16:49.65,Default,Mira,0,0,0,,Huh?
-Dialogue: 10,0:16:50.31,0:16:52.82,Default,Ino,0,0,0,,Did you find any scandals?
-Dialogue: 10,0:16:53.68,0:16:56.46,Default,Eve,0,0,0,,I tried spying on your club \Nroom from several angles,
+Dialogue: 10,0:16:50.31,0:16:52.82,Default,Ino,0,0,0,,Were you able to find any scandals?
+Dialogue: 10,0:16:53.68,0:16:56.46,Default,Eve,0,0,0,,I was spying on your club room from all around,
 Dialogue: 10,0:16:56.46,0:16:57.57,Default,,0,0,0,,and I found nothing!
 Dialogue: 10,0:16:57.94,0:17:02.02,Default,Eve,0,0,0,,{\i1}I was just looking for any scandals \Nthat we could use as blackmail!
-Dialogue: 10,0:17:02.02,0:17:03.83,Default,Monroe,0,0,0,,Oh, my, what a shame.
+Dialogue: 10,0:17:02.02,0:17:03.83,Default,Monroe,0,0,0,,Oh my, what a shame.
 Dialogue: 10,0:17:04.09,0:17:08.46,Default,Monroe,0,0,0,,Especially since you just shared something \Nwe can blackmail the newspaper club with.
-Dialogue: 10,0:17:08.71,0:17:10.90,Default,Eve,0,0,0,,Huh?! When did you...
+Dialogue: 10,0:17:08.71,0:17:10.90,Default,Eve,0,0,0,,What? You were recording me?
 Dialogue: 10,0:17:12.32,0:17:14.91,Default,Eve,0,0,0,,You can do whatever you want to me!
-Dialogue: 10,0:17:14.91,0:17:18.89,Default,Sakura,0,0,0,,Well, it's not like you're causing any \Nharm by peeking into the club room.
-Dialogue: 10,0:17:18.89,0:17:23.02,Default,Usami,0,0,0,,I'm so sorry. She just loves \Nmaking everything dramatic.
-Dialogue: 10,0:17:23.25,0:17:28.02,Default,Monroe,0,0,0,,I know! Why don't you help us think \Nof an exhibit for the cultural festival?
+Dialogue: 10,0:17:14.91,0:17:18.89,Default,Sakura,0,0,0,,Well, it's not like you're harming anyone \Nby peeking into the club room.
+Dialogue: 10,0:17:18.89,0:17:23.02,Default,Usami,0,0,0,,Sorry. She just loves \Nmaking everything so dramatic.
+Dialogue: 10,0:17:23.25,0:17:28.02,Default,Monroe,0,0,0,,Oh, I know! Why don't you help us think \Nof an exhibit for the cultural festival?
 Dialogue: 10,0:17:28.60,0:17:30.26,Default,Usami,0,0,0,,An exhibit for...
 Dialogue: 10,0:17:30.26,0:17:31.40,Default,Eve,0,0,0,,...the cultural festival?
-Dialogue: 10,0:17:31.61,0:17:35.15,Default,Mira,0,0,0,,I know! I want to create a \Nmodel of our solar system!
+Dialogue: 10,0:17:31.61,0:17:35.15,Default,Mira,0,0,0,,I have one! I want to create \Na model of our solar system!
 Dialogue: 10,0:17:35.15,0:17:35.99,Default,Ao,0,0,0,,Uh-huh!
-Dialogue: 10,0:17:36.49,0:17:37.88,Default,Monroe,0,0,0,,That sounds nice.
-Dialogue: 10,0:17:37.88,0:17:42.05,Default,Monroe,0,0,0,,Last year, the geology club made a display \Nboard showing off their research, right?
-Dialogue: 10,0:17:42.05,0:17:43.00,Default,Ino,0,0,0,,Yes.
-Dialogue: 10,0:17:43.00,0:17:46.46,Default,Ino,0,0,0,,Surprisingly, few people actually read it.
-Dialogue: 10,0:17:47.17,0:17:50.45,Default,Sakura,0,0,0,,I guess we need some kind of \Nexhibit that draws attention.
+Dialogue: 10,0:17:36.49,0:17:37.88,Default,Monroe,0,0,0,,That sounds great.
+Dialogue: 10,0:17:37.88,0:17:42.05,Default,Monroe,0,0,0,,Last year, the geology club made a display board \Nshowing off their research, right?
+Dialogue: 10,0:17:42.05,0:17:43.00,Default,Ino,0,0,0,,We did.
+Dialogue: 10,0:17:43.00,0:17:46.46,Default,Ino,0,0,0,,Surprisingly, not many people had actually read it.
+Dialogue: 10,0:17:47.17,0:17:50.45,Default,Sakura,0,0,0,,I guess we need some kind of exhibit \Nthat draws attention.
 Dialogue: 10,0:17:50.45,0:17:52.97,Default,Sakura,0,0,0,,Something both kids and adults can enjoy.
-Dialogue: 10,0:17:52.97,0:17:55.27,Default,Mira,0,0,0,,I know! Why don't we \Ncosplay again this year?!
+Dialogue: 10,0:17:52.97,0:17:55.27,Default,Mira,0,0,0,,I know! Why don't we cosplay again this year?!
 Dialogue: 10,0:17:55.27,0:17:55.97,Default,Sakura,0,0,0,,Rejected.
 Dialogue: 10,0:17:56.17,0:17:58.08,Default,Eve,0,0,0,,An exhibit that draws attention, huh?
 Dialogue: 10,0:17:58.08,0:17:59.80,Default,Eve,0,0,0,,You need something huge!
-Dialogue: 10,0:18:00.32,0:18:04.44,Default,Usami,0,0,0,,Could you bring in any giant \Nrocks from the mountains?
+Dialogue: 10,0:18:00.32,0:18:04.44,Default,Usami,0,0,0,,Could you bring in any giant rocks \Nfrom the mountains?
 Dialogue: 10,0:18:04.44,0:18:07.61,Default,Eve,0,0,0,,Oh! You'll need an explosion too, then!
 Dialogue: 10,0:18:07.61,0:18:10.15,Default,Ino,0,0,0,,"Blast" would be the correct term.
 Dialogue: 10,0:18:11.49,0:18:13.33,Default,Usami,0,0,0,,I shouldn't have said anything.
 Dialogue: 10,0:18:13.33,0:18:17.80,Default,Mira,0,0,0,,Sakura-senpai, do you think \Nwe could bring in some strata?
 Dialogue: 10,0:18:19.36,0:18:21.70,Default,Sakura,0,0,0,,You mean a surface peel specimen?
 Dialogue: 10,0:18:22.69,0:18:24.37,Default,Sakura,0,0,0,,I've never made one before,
-Dialogue: 10,0:18:24.37,0:18:27.81,Default,,0,0,0,,and I'm not sure we have a rocky \Noutcropping we could use as a specimen.
-Dialogue: 10,0:18:27.81,0:18:31.21,Default,Monroe,0,0,0,,How about a boring survey of the campus, then?
-Dialogue: 10,0:18:31.21,0:18:32.16,Default,Mira,0,0,0,,Hmph!
-Dialogue: 10,0:18:32.16,0:18:33.96,Default,Sakura,0,0,0,,I get it, but it's not "bowling."
-Dialogue: 10,0:18:34.52,0:18:37.34,Default,Ao,0,0,0,,You mean "boring" as in drilling holes, right?
-Dialogue: 10,0:18:37.57,0:18:40.97,Default,Monroe,0,0,0,,Right. You drive a pipe into the \Nground and bore out a sample.
-Dialogue: 10,0:18:40.97,0:18:44.64,Default,Eve,0,0,0,,So if you can add an explosion \Nand a huge rock to that...
-Dialogue: 10,0:18:45.01,0:18:49.35,Default,Usami,0,0,0,,Yes, Eve-chan-senpai. You're embarrassing yourself, \Nso we should be getting back now.
-Dialogue: 10,0:18:50.99,0:18:53.86,Default,Sakura,0,0,0,,Boring does sound fun, though.
-Dialogue: 10,0:18:54.22,0:18:56.12,Default,Sakura,0,0,0,,Let's give it some thought.
+Dialogue: 10,0:18:24.37,0:18:27.81,Default,,0,0,0,,and I'm not sure we have a rocky outcropping \Nthat we could use as a specimen.
+Dialogue: 10,0:18:27.81,0:18:31.21,Default,Monroe,0,0,0,,Then how does a boring survey of the campus strike you?
+Comment: 10,0:18:31.21,0:18:32.16,Default,Mira,0,0,0,,Hmph!
+Dialogue: 10,0:18:32.16,0:18:33.96,Default,Sakura,0,0,0,,Not that kind of strike.
+Dialogue: 10,0:18:34.52,0:18:37.34,Default,Ao,0,0,0,,By "boring," you mean drilling holes, right?
+Dialogue: 10,0:18:37.57,0:18:40.97,Default,Monroe,0,0,0,,Exactly that. You drive a pipe \Ninto the ground and bore out a sample.
+Dialogue: 10,0:18:40.97,0:18:44.64,Default,Eve,0,0,0,,So then you make a huge rock go {\i1}boom{\i0}, and then—
+Dialogue: 10,0:18:45.01,0:18:49.35,Default,Usami,0,0,0,,Whatever you say, Eve-chan-senpai. You're embarrassing yourself, so let's get going now.
+Dialogue: 10,0:18:50.99,0:18:53.86,Default,Sakura,0,0,0,,Soil boring does sound fun, though.
+Dialogue: 10,0:18:54.22,0:18:56.12,Default,Sakura,0,0,0,,Let's think it over.
 Dialogue: 10,0:19:04.36,0:19:05.71,Default,Ino,0,0,0,,Excuse me.
-Dialogue: 10,0:19:06.40,0:19:09.83,Default,Eve,0,0,0,,Inose, are you here scouting \Nus out this time?!
-Dialogue: 10,0:19:10.02,0:19:12.33,Default,Ino,0,0,0,,No, it's not about that.
-Dialogue: 10,0:19:12.33,0:19:15.17,Default,Ino,0,0,0,,I'm actually here because something \Nstrange happened this morning.
-Dialogue: 10,0:19:15.51,0:19:17.38,Default,Eve,0,0,0,,Oh, an incident?!
-Dialogue: 10,0:19:18.94,0:19:23.09,Default,Ino,0,0,0,,Over summer break, someone named the koi.
-Dialogue: 10,0:19:23.68,0:19:27.10,Default,Eve,0,0,0,,Well, I guess that could \Nmake for a filler article.
-Dialogue: 10,0:19:27.47,0:19:31.30,Default,Eve,0,0,0,,I'm surprised you noticed \Nthese tiny signs, though.
-Dialogue: 10,0:19:31.30,0:19:34.20,Default,Ino,0,0,0,,Because I've been watching \Nthem since my first year here.
-Dialogue: 10,0:19:35.76,0:19:38.53,Default,Eve,0,0,0,,I guess some people might \Nfind this interesting.
+Dialogue: 10,0:19:06.40,0:19:09.83,Default,Eve,0,0,0,,Geh, Inose? Are you here scouting {\i1}us{\i0} out this time?!
+Dialogue: 10,0:19:10.02,0:19:12.33,Default,Ino,0,0,0,,No, I'm not here for that.
+Dialogue: 10,0:19:12.33,0:19:15.17,Default,Ino,0,0,0,,I'm actually here because something curious \Nhappened this morning.
+Dialogue: 10,0:19:15.51,0:19:17.38,Default,Eve,0,0,0,ED,Oh, an incident?!
+Dialogue: 10,0:19:18.94,0:19:23.09,Default,Ino,0,0,0,,Over the summer break, \Nsomeone gave names to the koi.
+Dialogue: 10,0:19:23.68,0:19:27.10,Default,Eve,0,0,0,,Well, I guess that could make for a filler article.
+Dialogue: 10,0:19:27.47,0:19:31.30,Default,Eve,0,0,0,,I'm surprised you noticed these tiny signs, though.
+Dialogue: 10,0:19:31.30,0:19:34.20,Default,Ino,0,0,0,,I've been watching them since first year.
+Dialogue: 10,0:19:35.76,0:19:38.53,Default,Eve,0,0,0,,I guess some people might find this interesting.
 Dialogue: 10,0:19:39.03,0:19:42.49,Default,Ino,0,0,0,,That reminds me. \NYou've changed a bit, haven't you?
-Dialogue: 10,0:19:43.64,0:19:47.20,Default,Ino,0,0,0,,Your bangs are a bit shorter than \Nthey were in the first semester.
-Dialogue: 10,0:19:47.20,0:19:49.20,Default,Ino,0,0,0,,I can tell because I was always watching.
-Dialogue: 10,0:19:52.18,0:19:54.87,Default,Usami,0,0,0,,Senpai, your heart just \Nskipped a beat, didn't it?
+Dialogue: 10,0:19:43.64,0:19:47.20,Default,Ino,0,0,0,,Your bangs are a bit shorter \Nthan they were in first semester.
+Dialogue: 10,0:19:47.20,0:19:49.20,Default,Ino,0,0,0,,I can tell because I was always watching you.
+Dialogue: 10,0:19:52.18,0:19:54.87,Default,Usami,0,0,0,,Senpai, your heart just skipped a beat, didn't it?
 Dialogue: 10,0:19:54.87,0:19:56.38,Default,Eve,0,0,0,,Sh-Shut up!
 Dialogue: 10,0:19:56.38,0:19:58.71,Default,Eve,0,0,0,,As if! That means nothing to me!
-Dialogue: 10,0:19:57.47,0:19:58.71,Default,Usami,0,0,0,,{\an8}Yes, yes.
-Dialogue: 10,0:19:59.79,0:20:01.30,Default,Sakura,0,0,0,,{\an8}I kind of expected it,
-Dialogue: 10,0:20:01.68,0:20:07.20,Default,Sakura,0,0,0,,{\an8}but really trying to conduct a boring survey \Nwould be costly in both money and labor.
-Dialogue: 10,0:20:08.23,0:20:13.82,Default,Monroe,0,0,0,,It says, "The harvested boring cores \Nare kept under school custody."
-Dialogue: 10,0:20:16.56,0:20:20.27,Default,Endou,0,0,0,,Looks like the school only has paper records.
+Dialogue: 10,0:19:57.47,0:19:58.71,Default,Usami,0,0,0,,{\an8}Sure, if you say so.
+Dialogue: 10,0:19:59.79,0:20:01.30,Default,Sakura,0,0,0,ED,I kind of expected it,
+Dialogue: 10,0:20:01.68,0:20:07.20,Default,Sakura,0,0,0,ED,but really trying to conduct a boring survey \Nwould be costly in both money and labor.
+Dialogue: 10,0:20:08.23,0:20:13.82,Default,Monroe,0,0,0,ED,It says, "The harvested boring cores \Nare kept under school custody."
+Dialogue: 10,0:20:16.56,0:20:20.27,Default,Endou,0,0,0,,It looks like the school only has paper records.
 Dialogue: 10,0:20:20.27,0:20:21.81,Default,Sakura,0,0,0,,I see.
-Dialogue: 10,0:20:22.74,0:20:25.79,Default,Mira,0,0,0,,This is cute. It's like masking tape.
+Dialogue: 10,0:20:22.74,0:20:25.79,Default,Mira,0,0,0,,This is cute. It's like masking tape!
 Dialogue: 10,0:20:25.79,0:20:29.45,Default,Endou,0,0,0,,Yeah, this is how you illustrate \Nthe results of a boring survey.
-Dialogue: 10,0:20:30.46,0:20:32.97,Default,Endou,0,0,0,,Araya-sensei, do we have agar?
+Dialogue: 10,0:20:30.46,0:20:32.97,Default,Endou,0,0,0,,Araya-sensei, do we have any jelly?
 Dialogue: 10,0:20:33.46,0:20:34.54,Default,Araya,0,0,0,,We do.
 Dialogue: 10,0:20:40.49,0:20:42.10,Default,Mira,0,0,0,,That's so cool!
 Dialogue: 10,0:20:42.10,0:20:44.19,Default,Ino,0,0,0,,It's a mock boring survey.
 Dialogue: 10,0:20:44.19,0:20:45.31,Default,Monroe,0,0,0,,I know!
-Dialogue: 10,0:20:45.31,0:20:47.26,Default,Monroe,0,0,0,,{\an8}Why don't we serve this as a café?
+Dialogue: 10,0:20:45.31,0:20:47.26,Default,Monroe,0,0,0,,Why don't we serve this as part of a café?
 Dialogue: 10,0:20:47.87,0:20:49.00,Default,Mira,0,0,0,,A café?
-Dialogue: 10,0:20:49.00,0:20:52.80,Default,Ao,0,0,0,,We could make other sweets and drinks \Nwith earth science themes.
+Dialogue: 10,0:20:49.00,0:20:52.80,Default,Ao,0,0,0,,We could make other earth science-\Nthemed sweets and drinks.
 Dialogue: 10,0:20:52.80,0:20:56.64,Default,Ino,0,0,0,,A café where you can enjoy earth sciences \Nalong with tea and sweets...
 Dialogue: 10,0:20:56.64,0:20:57.48,Default,Ino,0,0,0,,A geocafé!
 Dialogue: 10,0:20:57.79,0:20:59.32,Default,Ino,0,0,0,,That might be nice!
 Dialogue: 10,0:20:59.32,0:21:00.23,Default,Monroe,0,0,0,,It's settled, then.
-Dialogue: 10,0:21:00.55,0:21:04.90,Default,Mira,0,0,0,,Ao! Let's come up with some ideas for \Nsweets and talk to Suzu-chan about them!
-Dialogue: 10,0:21:04.90,0:21:05.69,Default,Ao,0,0,0,,Yeah.
+Dialogue: 10,0:21:00.55,0:21:04.90,Default,Mira,0,0,0,ED,Ao! Let's think of ideas for sweets \Nand pass them by Suzu-chan!
+Dialogue: 10,0:21:04.90,0:21:05.69,Default,Ao,0,0,0,,Sure.
 Dialogue: 10,0:21:05.69,0:21:08.99,Default,Monroe,0,0,0,,Then the geology group's exhibit \Nfor the café will be...
-Dialogue: 10,0:21:09.60,0:21:12.58,Default,Ino,0,0,0,,Actually boring into the campus?
+Dialogue: 10,0:21:09.60,0:21:12.58,Default,Ino,0,0,0,ED,Actually boring into the campus?
 Dialogue: 10,0:21:13.01,0:21:15.71,Default,Sakura,0,0,0,,We can't do that. It's not realistic.
-Dialogue: 10,0:21:16.52,0:21:20.17,Default,Sakura,0,0,0,,We can't ask other businesses to \Nhelp with the cultural festival.
+Dialogue: 10,0:21:16.52,0:21:20.17,Default,Sakura,0,0,0,,We can't ask other people to help \Nwith our cultural festival exhibit.
 Dialogue: 10,0:21:22.46,0:21:23.61,Default,Endou,0,0,0,,Hey, Sakurai.
-Dialogue: 10,0:21:24.87,0:21:26.37,Default,Endou,0,0,0,,If you're interested in it,
-Dialogue: 10,0:21:26.37,0:21:29.22,Default,,0,0,0,,why not just organize what data \Nand findings you can dig up?
-Dialogue: 10,0:21:29.53,0:21:33.92,Default,Sakura,0,0,0,,But without the real thing, it won't \Nbe a centerpiece for the exhibit,
+Dialogue: 10,0:21:24.87,0:21:26.37,Default,Endou,0,0,0,,If you want to do it,
+Dialogue: 10,0:21:26.37,0:21:29.22,Default,,0,0,0,,why not just gather results you can find\N and organize the data?
+Dialogue: 10,0:21:29.53,0:21:33.92,Default,Sakura,0,0,0,ED,But without the real thing, \Nit won't be a centerpiece for the exhibit,
 Dialogue: 10,0:21:33.92,0:21:36.03,Default,Sakura,0,0,0,,and it'll just look haphazard.
-Dialogue: 10,0:21:36.03,0:21:37.85,Default,Endou,0,0,0,,And that's fine.
-Dialogue: 10,0:21:38.94,0:21:43.19,Default,Endou,0,0,0,,It'd be a waste to just decide it's \Nimpossible and completely scrap it all, right?
-Dialogue: 10,0:21:44.52,0:21:50.87,Default,Endou,0,0,0,,At the very least, I want to learn what \Nyou researched and what you thought of it.
-Dialogue: 10,0:21:51.47,0:21:53.46,Default,Ino,0,0,0,,I want to know, too.
+Dialogue: 10,0:21:36.03,0:21:37.85,Default,Endou,0,0,0,,And there's nothing wrong with that.
+Dialogue: 10,0:21:38.94,0:21:43.19,Default,Endou,0,0,0,ED,It'd be a waste to just decide it's \Nimpossible and completely scrap it all, right?
+Dialogue: 10,0:21:44.52,0:21:50.87,Default,Endou,0,0,0,,At the very least, I want to see \Nwhat you research and hear your thoughts on it.
+Dialogue: 10,0:21:51.47,0:21:53.46,Default,Ino,0,0,0,,Same with me.
 Dialogue: 10,0:21:53.46,0:21:54.25,Default,All,0,0,0,,Yeah.
-Dialogue: 10,0:21:59.69,0:22:03.74,Default,Mira,0,0,0,,{\i1}And so our earth sciences club begins \Npreparing for the cultural festival!
+Dialogue: 10,0:21:59.69,0:22:03.74,Default,Mira,0,0,0,,{\i1}And so our earth sciences club \Nbegins preparing for the cultural festival!
 Comment: 10,0:22:05.01,0:22:05.01,Default,chptr,0,0,0,,{ED}ED
 Comment: 10,0:23:35.01,0:23:35.01,Default,chptr,0,0,0,,{Preview}Preview
 Dialogue: 10,0:23:36.22,0:23:38.43,Default,Mira,0,0,0,,Next time, "Hoshizaki Festival!"
