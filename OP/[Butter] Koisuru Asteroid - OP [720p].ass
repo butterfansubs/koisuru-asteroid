@@ -29,6 +29,17 @@ Style: OP Eng Starry,Amaranth,42,&H00FFFEBF,&HFFFFFEBF,&H00D55F9A,&H00000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,code once,ln = _G.require('ln.kara'); ln.init(tenv)
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,code once,fade_duration = 309
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,code once,_, styles = _G.karaskel.collect_head(subs, false)
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,code once,function fade() local fade_tag = ln.line.tag("fade"); if fade_tag ~= "" then return fade_tag; end; local fad_tag = ln.line.tag("fad"); local a, b; if fad_tag ~= "" then a, b = fad_tag:match("(-?%d+),(-?%d+)"); if a == "-1" then a = fade_duration / 2; end; if b == "-1" then b = fade_duration; end; else a, b = fade_duration / 2, fade_duration; end; return ("\\fad(%d,%d)"):format(a, b); end
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom Starry,,0,0,0,code line all,fxgroup.dusk = line.actor == "dusk"
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,template line main,{\pos($x,$y)!fade()!!ln.line.tag("clip")!!ln.line.tag("iclip")!}
+Comment: 10,0:00:49.02,0:00:49.02,OP Eng,,0,0,0,template line engmain,{\pos($x,$y)!fade()!!ln.line.tag("clip")!!ln.line.tag("iclip")!}
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom Starry,,0,0,0,template line starry,{\pos($x,$y)!fade()!!ln.line.tag("clip")!!ln.line.tag("iclip")!}
+Comment: 10,0:00:49.02,0:00:49.02,OP Eng Starry,,0,0,0,template line engstarry,{\pos($x,$y)!fade()!!ln.line.tag("clip")!!ln.line.tag("iclip")!!fxgroup.dusk and string.format("\\t(1281,2407,\\1c%s\\1a%s\\3c%s\\3a%s)", _G.color_from_style(styles["OP Rom"].color1), _G.alpha_from_style(styles["OP Rom"].color1), _G.color_from_style(styles["OP Rom"].color3), _G.alpha_from_style(styles["OP Rom"].color3)) or ""!}
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,template lsyl main noblank,{\r\1c!ln.line.style_c(2)!\1a!ln.line.style_a(2)!\t(!math.max($start-116,0)!,!$start+39!,\1c!ln.line.style_c(1)!\1a!ln.line.style_a(1)!\3c&HA45A2A&)\t($mid,$end,\3c!ln.line.style_c(3)!)}
+Comment: 10,0:00:49.02,0:00:49.02,OP Rom Starry,,0,0,0,template lsyl starry noblank,{\r\1c!ln.line.style_c(2)!\1a!ln.line.style_a(2)!\t(!math.max($start-116,0)!,!$start+39!,\1c!ln.line.style_c(1)!\1a!ln.line.style_a(1)!)\t($mid,$end,\3c&HD55F9A&)!fxgroup.dusk and string.format("\\t(1281,2407,\\1c%s\\1a%s\\3c%s\\3a%s)", _G.color_from_style(styles["OP Rom"].color1), _G.alpha_from_style(styles["OP Rom"].color1), _G.color_from_style(styles["OP Rom"].color3), _G.alpha_from_style(styles["OP Rom"].color3)) or ""!}
 Comment: 10,0:00:49.02,0:00:49.02,OP Rom,,0,0,0,,== OP ==================================
 Dialogue: 10,0:00:49.52,0:00:52.02,OP Rom,,0,0,0,,{\fad(447,0)}{\k15}u{\k16}tsu{\k16}mu{\k16}i{\k31}ta {\k16}sa{\k46}ki {\k16}ni {\k78}mo
 Dialogue: 10,0:00:52.02,0:00:54.53,OP Rom,,0,0,0,,{\k16}mi{\k16}a{\k15}ge{\k16}te{\k31}ru {\k16}sa{\k48}ki {\k16}ni {\k73}mo
