@@ -5,3 +5,5 @@
 !*.md
 !*.txt
 !*.xml
+!*.mscx
+!*.midicsv
