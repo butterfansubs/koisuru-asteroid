@@ -31,10 +31,10 @@ Style: ED Rom,MRT-Marukoias-alpha,42,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 10,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,code once,ln = _G.require('ln.kara'); ln.init(tenv)
 Comment: 10,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,code once,bpm = 85; unit = math.ceil(60/bpm * 1000); start_offset = unit / 4
-Comment: 10,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template line r_glow,!retime("line",-start_offset,start_offset*3)!{\pos($x,$y)\fad(!unit!,!unit!)\bord18\shad0.01\blur12\4c&HB8A820&\4a&H66&\1a&HFE&\3a&HFE&}
+Comment: 10,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template line r_glow,!retime("line",-start_offset,start_offset*3)!{\pos($x,$y)\fad(!unit!,!unit!)\bord12\shad0.01\blur12\4c&HB8A820&\4a&H66&\1a&HFE&\3a&HFE&}
 Comment: 11,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template line r_shadow,!retime("line",-start_offset,start_offset*3)!{\pos($x,$y)\fad(!unit!,!unit!)}
 Comment: 12,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template line r_text,!retime("line",-start_offset,start_offset*3)!{\pos($x,$y)\fad(!unit!,!unit!)}
-Comment: 11,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template lsyl r_shadow noblank,{\r\bord4\shad0.01\blur4\4c&HFFFFFF&\4a&HCC&\1a&HFE&\3a&HFE&\t(!math.max($start - unit * 3/8, 0) + start_offset!,!$start + unit / 8 + start_offset!,\4a&H80&)\t(!$end - unit * 3/8 + start_offset!,!$end + unit / 8 + start_offset!,\4a&HCC&)}
+Comment: 11,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template lsyl r_shadow noblank,{\r\bord3\shad0.01\blur6\4c&HFFFFFF&\4a&HCC&\1a&HFE&\3a&HFE&\t(!math.max($start - unit * 3/8, 0) + start_offset!,!$start + unit / 8 + start_offset!,\4a&H99&)\t(!$end - unit * 3/8 + start_offset!,!$end + unit / 8 + start_offset!,\4a&HCC&)}
 Comment: 12,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,template lsyl r_text noblank,{\r\1c!gc(1)!\t(!math.max($start - unit * 3/8,0) + start_offset!,!$start + unit / 8 + start_offset!,\1c!gc(2)!)\t(!$end - unit * 3/8 + start_offset!,!$end + unit / 8 + start_offset!,\1c!gc(1)!)\t(!$lend - $lstart!,!$lend - $lstart + unit!,\blur12\1a&H80&)}
 Comment: 10,0:22:05.01,0:22:05.01,ED Rom,,0,0,0,,== ED ==================================
 Comment: 10,0:22:05.01,0:22:07.28,ED Rom,,0,0,0,karaoke,{\k18}ki{\k35}no{\k18}u {\k53}yo{\k18}ri {\k83}mo
