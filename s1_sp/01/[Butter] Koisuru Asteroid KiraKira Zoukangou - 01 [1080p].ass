@@ -22,4 +22,26 @@ Style: Mask,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
+Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Kira Kira Special Issue!
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,For our commemorable first issue:
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,About the Variable Star, Mira.
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’re the one who told me that there was a star with the same name as me, Ao.
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yup. Mira is a pulsating variable star, it’s magnitude can vary greatly over the course of a year.
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Pulsating?
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It gets colder as it expands, becoming dimmer as a result,
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And it gets warmer as it contracts, which makes it brighter.
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,By expanding and contracting, you mean like this?
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Miraaaaaaaaaaaaaaa!
+Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,== Signs ===============================
+Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,KIRA KIRA Special Issue!
+Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# About the Variable Star, Mira.
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,About the Variable Star, Mira.
+Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# Whiteboard
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,Variable Star Mira
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,A pulsating variable star… As it expands and contracts over the course of about 332 days, the magnitude fixed star’s can range from 2.0 all the way up to 10.1.
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,Mira
+Dialogue: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,Cetus
