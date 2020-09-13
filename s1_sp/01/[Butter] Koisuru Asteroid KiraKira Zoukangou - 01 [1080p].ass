@@ -33,17 +33,18 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
-Dialogue: 10,0:00:01.14,0:00:02.89,Default,,0,0,0,,Kira Kira Special Issue!
+Dialogue: 10,0:00:01.14,0:00:02.89,Default,,0,0,0,,KiraKira Special Issue!
 Dialogue: 10,0:00:02.89,0:00:05.36,Default,,0,0,0,,For our commemorable first issue:
-Dialogue: 10,0:00:05.90,0:00:07.73,Default,,0,0,0,,About the Variable Star, Mira.
-Dialogue: 10,0:00:08.73,0:00:13.11,Default,,0,0,0,,You’re the one who told me that there was a star with the same name as me, Ao.
-Dialogue: 10,0:00:13.11,0:00:19.24,Default,,0,0,0,,Yup. Mira is a pulsating variable star, it’s magnitude can vary greatly over the course of a year.
+Dialogue: 10,0:00:05.90,0:00:07.73,Default,,0,0,0,,All about the variable star Mira.
+Dialogue: 10,0:00:08.73,0:00:13.11,Default,,0,0,0,,Ao, you told me one time that\Nthere's a star with the same name as me.
+Dialogue: 10,0:00:13.11,0:00:16.17,Default,,0,0,0,,Yeah. Mira is a pulsating variable star.
+Dialogue: 10,0:00:16.17,0:00:19.24,Default,,0,0,0,,Its magnitude can vary greatly over the course of a year.
 Dialogue: 10,0:00:19.24,0:00:20.53,Default,,0,0,0,,Pulsating?
-Dialogue: 10,0:00:20.53,0:00:23.50,Default,,0,0,0,,It gets colder as it expands, becoming dimmer as a result,
-Dialogue: 10,0:00:23.50,0:00:26.25,Default,,0,0,0,,And it gets warmer as it contracts, which makes it brighter.
+Dialogue: 10,0:00:20.53,0:00:23.50,Default,,0,0,0,,That's right. It gets colder and dimmer as it expands,
+Dialogue: 10,0:00:23.50,0:00:26.25,Default,,0,0,0,,and it gets warmer and brighter as it contracts.
 Dialogue: 10,0:00:26.25,0:00:29.00,Default,,0,0,0,,By expanding and contracting,
 Dialogue: 10,0:00:29.00,0:00:31.97,Default,,0,0,0,,you mean like this?
-Dialogue: 10,0:00:30.13,0:00:33.30,Default,,0,0,0,,Miraaaaaaaaaaaaaaa!
+Dialogue: 10,0:00:30.13,0:00:33.30,Alternate,,0,0,0,,Mira!
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
 Dialogue: 0,0:00:00.00,0:00:05.65,Sign,,0,0,0,,KiraKira Special Issue!
