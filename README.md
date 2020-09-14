@@ -31,4 +31,4 @@ See the [project boards](https://github.com/butterfansubs/koisuru-asteroid/proje
 * **Timing:** bucket3432
 * **Styling:** bucket3432
 * **Typesetting:** Shinon, Flower
-* **Quality Checking:** bucket3432
+* **Quality Checking:** bucket3432, - Mann -
