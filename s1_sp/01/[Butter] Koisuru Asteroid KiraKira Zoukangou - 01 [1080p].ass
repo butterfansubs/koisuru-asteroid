@@ -55,3 +55,17 @@ Dialogue: 0,0:00:05.52,0:00:30.92,Sign,,0,0,0,,{\pos(604,264)}Variable Star Mira
 Dialogue: 0,0:00:05.36,0:00:32.97,Sign,,0,0,0,,A pulsating variable star. As the star expands and contracts over a period of approximately 332 days, its apparent magnitude fluctuates between 2.0 and 10.1.
 Dialogue: 0,0:00:05.23,0:00:31.76,Sign,,0,0,0,,{\pos(894.4,658.4)}Mira
 Dialogue: 0,0:00:05.31,0:00:32.59,Sign,,0,0,0,,{\pos(1172.8,500)}Cetus
+Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# Credits 1
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(608,236)}Cast:
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(562,342)}Konohata Mira - Takayanagi Tomoyo 
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(600,450)}Manaka Ao - Yamaguchi Megumi
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(1380,350)}Script: Yamada Yuka
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(1266,468)}Animation: Chito
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(1298,584)}Director: Hiramaki Daisuke
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(1340,732)}Background: Studio Naya
+Dialogue: 0,0:00:35.64,0:00:40.14,Sign,,0,0,0,,{\pos(1326,848)}Photography: Kudo Yasushi
+Comment: 0,0:00:40.14,0:00:44.02,Sign,sign,0,0,0,,# Credits 2
+Dialogue: 0,0:00:40.14,0:00:44.02,Sign,,0,0,0,,{\pos(1574,734)}Fin
+Dialogue: 0,0:00:40.14,0:00:44.02,Sign,,0,0,0,,{\pos(1594,866)}Produced and Directed by
+Dialogue: 0,0:00:40.14,0:00:44.02,Sign,,0,0,0,,{\pos(1544,924)}Hoshizaki High School Earth Sciences Club
+Dialogue: 0,0:00:40.14,0:00:44.02,Sign,,0,0,0,,{\pos(1590,1010)}Copyright Quro・Houbunsha / Hoshizaki High School Earth Sciences Club
