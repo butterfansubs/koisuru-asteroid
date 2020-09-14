@@ -7,24 +7,7 @@ Fansubs by ButterFS for the anime "Koisuru Asteroid" ("Asteroid in Love").
 
 ## Status
 
-|  Ep | TL | TLC | ED | TM | TS | QC |
-|----:|:--:|:---:|:--:|:--:|:--:|:--:|
-|   1 |    |     |    |    |    |    |
-|   2 |    |     |    |    |    |    |
-|   3 |    |     |    |    |    |    |
-|   4 |  ✓ |   ✓ |  ✓ |  ✓ |  ✓ |  ✓ |
-|   5 |  ✓ |     |    |    |    |    |
-|   6 |    |     |    |    |    |    |
-| 6.5 |    |     |    |    |    |    |
-|   7 |    |     |    |    |    |    |
-|   8 |    |     |    |    |    |    |
-|   9 |    |     |    |    |    |    |
-|  10 |    |     |    |    |    |    |
-|  11 |    |     |    |    |    |    |
-|  12 |    |     |    |    |    |    |
-|  OP |  ✓ |   ✓ |  ✓ |  ✓ |  ✓ |  ✓ |
-|  ED |  ✓ |   ✓ |  ✓ |    |    |    |
-| ED2 |  ✓ |   ✓ |  ✓ |  ✓ |  ✓ |  ✓ |
+See the [project boards](https://github.com/butterfansubs/koisuru-asteroid/projects).
 
 ## Credits
 
