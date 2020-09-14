@@ -24,6 +24,8 @@ See the [project boards](https://github.com/butterfansubs/koisuru-asteroid/proje
 
 ### Season 1 Specials (\[Butter-KiraraSubtasia] Koisuru Asteroid Zoukangou)
 
+Joint with [Kirara Scantasia](https://kirarascantasia.wordpress.com/).
+
 * **Encoding:** Zastin
 * **Translation:** - Mann -
 * **Translation Check:** bucket3432, - Mann -
