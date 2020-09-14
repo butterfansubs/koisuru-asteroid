@@ -11,10 +11,24 @@ See the [project boards](https://github.com/butterfansubs/koisuru-asteroid/proje
 
 ## Credits
 
+### Season 1
+
+* **Encoding:** Zastin
 * **Translation:** Crunchyroll (via HorribleSubs), bucket3432 (OP, ED, ED2)
 * **Translation Check:** bucket3432
 * **Editing:** bucket3432
 * **Timing:** bucket3432
 * **Styling:** bucket3432
-* **Typesetting:** bucket3432
+* **Typesetting:** bucket3432, Shinon
 * **Quality Checking:** bucket3432, Shinon
+
+### Season 1 Specials (Koisuru Asteroid Zoukangou)
+
+* **Encoding:** Zastin
+* **Translation:** - Mann -
+* **Translation Check:** bucket3432, - Mann -
+* **Editing:** bucket3432
+* **Timing:** bucket3432
+* **Styling:** bucket3432
+* **Typesetting:** Shinon, Flower
+* **Quality Checking:** bucket3432
