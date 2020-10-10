@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.c
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Dialogue: 10,0:00:01.14,0:00:02.89,Default,,0,0,0,,KiraKira Special Issue!
 Dialogue: 10,0:00:02.89,0:00:05.36,Default,,0,0,0,,For our commemorable first issue:
-Dialogue: 10,0:00:05.90,0:00:07.73,Default,,0,0,0,,All about the variable star Mira.
+Dialogue: 10,0:00:05.90,0:00:07.73,Default,,0,0,0,,All About the Variable Star Mira.
 Dialogue: 10,0:00:08.73,0:00:13.11,Default,,0,0,0,,Ao, you told me one time that\Nthere's a star with the same name as me.
 Dialogue: 10,0:00:13.11,0:00:16.17,Default,,0,0,0,,Yeah. Mira is a pulsating variable star.
 Dialogue: 10,0:00:16.17,0:00:19.24,Default,,0,0,0,,Its magnitude can vary greatly over the course of a year.
@@ -53,7 +53,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,== Signs =========================
 Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
 Dialogue: 0,0:00:00.00,0:00:05.65,Sign,,0,0,0,,KiraKira Special Issue!
 Comment: 0,0:00:05.65,0:00:07.65,Sign,sign,0,0,0,,# About the Variable Star, Mira.
-Dialogue: 0,0:00:06.06,0:00:08.61,Sign,,0,0,0,,{\pos(988,240)}All about the variable star Mira.
+Dialogue: 0,0:00:06.06,0:00:08.61,Sign,,0,0,0,,{\pos(988,240)}All About the Variable Star Mira
 Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# Whiteboard
 Dialogue: 0,0:00:05.52,0:00:30.92,Sign,,0,0,0,,{\pos(604,264)}Variable Star Mira
 Dialogue: 0,0:00:05.36,0:00:32.97,Sign,,0,0,0,,A pulsating variable star. As the star expands and contracts over a period of approximately 332 days, its apparent magnitude fluctuates between 2.0 and 10.1.
