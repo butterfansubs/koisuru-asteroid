@@ -5,7 +5,7 @@ Fansubs by ButterFS for the anime "Koisuru Asteroid" ("Asteroid in Love").
 * [MyAnimeList](https://myanimelist.net/anime/39388/Koisuru_Asteroid)
 * [AniDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14707)
 
-## Status
+## Progress
 
 See the [project boards](https://github.com/butterfansubs/koisuru-asteroid/projects).
 
