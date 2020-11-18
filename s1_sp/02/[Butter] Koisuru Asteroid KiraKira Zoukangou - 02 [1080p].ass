@@ -37,21 +37,21 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta ================================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,KiraKira Special Issue!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Episode 2's theme is:
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,All about rocks.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Alright! They're classified into 3 main types!
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,They can be further classified by their constituent elements!
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,I'm so perplexed that my head's spinning...
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,By the way, the striped stone Mira picked up at hte river banks is a piece of mudstone!
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,The stripe is formed by quartz components that had dissolved in water and seeped into the rock!
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,Senpai you're amazing!
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,Oh right! Can you take a look at the other rocks I picked up for me?
-Dialogue: 10,0:00:00.00,0:00:00.02,Default,,0,0,0,,Ehhh!? Why did you smash them!?
-Dialogue: 10,0:00:00.00,0:00:00.02,Alternate,,0,0,0,,You can’t make an accurate inspection unless you crack open its fresh insides, no~?
-Dialogue: 10,0:00:00.00,0:00:00.02,Alternate,,0,0,0,,My striped stoneeee~~~~!!!!!
-Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,== Signs ===============================
-Comment: 0,0:00:00.00,0:00:00.00,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
+Dialogue: 10,0:00:00.77,0:00:02.31,Default,,0,0,0,,KiraKira Special Issue!
+Dialogue: 10,0:00:02.31,0:00:04.31,Default,,0,0,0,,Episode 2's theme is:
+Dialogue: 10,0:00:04.31,0:00:06.06,Default,,0,0,0,,All about rocks.
+Dialogue: 10,0:00:07.07,0:00:10.11,Default,,0,0,0,,Alright! They're classified into 3 main types!
+Dialogue: 10,0:00:10.11,0:00:14.07,Default,,0,0,0,,They can be further classified by their constituent elements!
+Dialogue: 10,0:00:14.07,0:00:17.03,Default,,0,0,0,,I'm so perplexed that my head's spinning...
+Dialogue: 10,0:00:17.03,0:00:21.53,Default,,0,0,0,,By the way, the striped stone Mira picked up at hte river banks is a piece of mudstone!
+Dialogue: 10,0:00:21.53,0:00:26.12,Default,,0,0,0,,The stripe is formed by quartz components that had dissolved in water and seeped into the rock!
+Dialogue: 10,0:00:26.12,0:00:27.83,Default,,0,0,0,,Senpai you're amazing!
+Dialogue: 10,0:00:27.83,0:00:31.88,Default,,0,0,0,,Oh right! Can you take a look at the other rocks I picked up for me?
+Dialogue: 10,0:00:32.76,0:00:35.51,Default,,0,0,0,,Ehhh!? Why did you smash them!?
+Dialogue: 10,0:00:35.51,0:00:40.09,Default,,0,0,0,,You can’t make an accurate inspection unless you crack open its fresh insides, no~?
+Dialogue: 10,0:00:40.09,0:00:42.56,Default,,0,0,0,,My striped stoneeee~~~~!!!!!
+Comment: 0,0:00:42.56,0:00:44.56,Sign,,0,0,0,,== Signs ===============================
+Comment: 0,0:00:44.56,0:00:46.56,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
 Dialogue: 0,0:00:00.00,0:00:05.65,Sign,,0,0,0,,KiraKira Special Issue!
 Comment: 0,0:00:04.19,0:00:06.81,Sign,sign,0,0,0,,# Episode title
 Dialogue: 0,0:00:04.19,0:00:06.81,Sign,,0,0,0,,{\pos(988,240)}All About Rocks
@@ -121,7 +121,7 @@ Dialogue: 0,0:00:44.06,0:00:48.56,Credits Name,,0,0,0,,{\fad (980,0)\pos(1516,78
 Dialogue: 0,0:00:44.06,0:00:48.56,Credits Position,,0,0,0,,{\fad((980,0))\pos(1228,918)}Resources Provision
 Dialogue: 0,0:00:44.06,0:00:48.56,Credits Name,,0,0,0,,{\fad((980,0))\pos(1516,917)}Toshin Books
 Comment: 0,0:00:40.14,0:00:44.02,Sign,sign,0,0,0,,# Credits 2
-Dialogue: 0,0:00:40.14,0:00:44.02,Credits Position,,0,0,0,,{\pos(598,796)\fs78}FIN
-Dialogue: 0,0:00:40.14,0:00:44.02,Credits Position,,0,0,0,,{\pos(586,862)}Produced and written by
-Dialogue: 0,0:00:40.14,0:00:44.02,Credits Name,,0,0,0,,{\pos(578,934)\frx0\fry0}Hoshizaki High School Earth Sciences Club
-Dialogue: 0,0:00:40.14,0:00:44.02,Credits Position,,0,0,0,,{\pos(570,1007)\fs44}© Quro-Houbunsha / Hoshizaki High School Earth Sciences Club
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(598,796)\fs78}FIN
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(586,862)}Produced and written by
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Name,,0,0,0,,{\pos(578,934)\frx0\fry0}Hoshizaki High School Earth Sciences Club
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(570,1007)\fs44}© Quro-Houbunsha / Hoshizaki High School Earth Sciences Club
