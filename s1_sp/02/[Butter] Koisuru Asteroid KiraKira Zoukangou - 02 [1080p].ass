@@ -38,18 +38,18 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Meta =======================
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Full source at https://github.com/butterfansubs/koisuru-asteroid
 Comment: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,== Dialogue ============================
 Dialogue: 10,0:00:00.77,0:00:02.31,Default,,0,0,0,,KiraKira Special Issue!
-Dialogue: 10,0:00:02.31,0:00:04.31,Default,,0,0,0,,Episode 2's theme is:
-Dialogue: 10,0:00:04.31,0:00:06.06,Default,,0,0,0,,All about rocks.
-Dialogue: 10,0:00:07.07,0:00:10.11,Default,,0,0,0,,Alright! They're classified into 3 main types!
-Dialogue: 10,0:00:10.11,0:00:14.07,Default,,0,0,0,,They can be further classified by their constituent elements!
-Dialogue: 10,0:00:14.07,0:00:17.03,Default,,0,0,0,,I'm so perplexed that my head's spinning...
-Dialogue: 10,0:00:17.03,0:00:21.53,Default,,0,0,0,,By the way, the striped stone Mira picked up at hte river banks is a piece of mudstone!
-Dialogue: 10,0:00:21.53,0:00:26.12,Default,,0,0,0,,The stripe is formed by quartz components that had dissolved in water and seeped into the rock!
-Dialogue: 10,0:00:26.12,0:00:27.83,Default,,0,0,0,,Senpai you're amazing!
-Dialogue: 10,0:00:27.83,0:00:31.88,Default,,0,0,0,,Oh right! Can you take a look at the other rocks I picked up for me?
-Dialogue: 10,0:00:32.76,0:00:35.51,Default,,0,0,0,,Ehhh!? Why did you smash them!?
-Dialogue: 10,0:00:35.51,0:00:40.09,Default,,0,0,0,,You can’t make an accurate inspection unless you crack open its fresh insides, no~?
-Dialogue: 10,0:00:40.09,0:00:42.56,Default,,0,0,0,,My striped stoneeee~~~~!!!!!
+Dialogue: 10,0:00:02.31,0:00:04.31,Default,,0,0,0,,The theme for Episode 2 is:
+Dialogue: 10,0:00:04.31,0:00:06.06,Default,,0,0,0,,All About Rocks.
+Dialogue: 10,0:00:07.07,0:00:10.11,Default,,0,0,0,,Listen up! Rocks are classified \Ninto three main types.
+Dialogue: 10,0:00:10.11,0:00:14.07,Default,,0,0,0,,They're further classified by their constituent elements.
+Dialogue: 10,0:00:14.07,0:00:17.03,Default,,0,0,0,,My head’s spinning from all the details.
+Dialogue: 10,0:00:17.03,0:00:21.53,Default,,0,0,0,,Did you know? The banded stone Mira picked up at the river banks is a piece of mudstone!
+Dialogue: 10,0:00:21.53,0:00:26.12,Default,,0,0,0,,The stripe was formed by dissolved \Nquartz that seeped into the rock.
+Dialogue: 10,0:00:26.12,0:00:27.83,Default,,0,0,0,,You’re amazing, Senpai!
+Dialogue: 10,0:00:27.83,0:00:31.88,Default,,0,0,0,,Oh, hey! Do you think you could \Ntake a look at the other rocks I picked up?
+Dialogue: 10,0:00:32.76,0:00:35.51,Default,,0,0,0,,Wha—?! Why’d you break them?
+Dialogue: 10,0:00:35.51,0:00:40.09,Default,,0,0,0,,You can’t inspect them properly without \Nlooking at their fresh insides, now can you?
+Dialogue: 10,0:00:40.09,0:00:42.56,Default,,0,0,0,,My banded stone!
 Comment: 0,0:00:42.56,0:00:44.56,Sign,,0,0,0,,== Signs ===============================
 Comment: 0,0:00:44.56,0:00:46.56,Sign,sign,0,0,0,,# KIRA KIRA Special Issue!
 Dialogue: 0,0:00:00.00,0:00:05.65,Sign,,0,0,0,,KiraKira Special Issue!
@@ -59,18 +59,18 @@ Comment: 0,0:00:03.35,0:00:13.24,Sign,sign,0,0,0,,# Whiteboard 1
 Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(632,330)}Sedimentary rock
 Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(996,326)}Igneous rock
 Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(1272,328)}Metamorphic rock
-Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(640,458)}Rocks formed by deposition and subsequent cementation of dirt, sand and organism remains.
-Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(950,428)}Rocks formed by cooling and solidification of magma
-Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(1268,448)}Rocks that have been transformed under intense heat and pressure
+Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(640,458)}Rocks formed by the deposition and subsequent cementation of dirt, sand, and organism remains.
+Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(950,428)}Rocks formed by the cooling and solidification of magma.
+Dialogue: 0,0:00:03.35,0:00:13.24,Sign,,0,0,0,,{\pos(1268,448)}Rocks that have been transformed under intense heat and pressure.
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,# Whiteboard 2
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(676,290)}Sedimentary rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1032,294)}Igneous rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1292,300)}Metamorphic rock
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(676,290)}Sedimentary
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1032,294)}Igneous
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1292,300)}Metamorphic
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,## Sedimentary
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(570,382)}Clastic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(676,400)}Pyroclastic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(760,380)}Organic sedimentary rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(852,418)}Chemical sedimentary rock
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(570,382)}Clastic
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(676,400)}Pyroclastic
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(760,380)}Organic sedimentary
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(852,418)}Chemical sedimentary
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,### Clastic rock
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(524,498)}Conglomerate
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(592,524)}Sandstone
@@ -83,8 +83,8 @@ Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(798,520)}Chert
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,### Chemical sedimentary rock
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(848,512)}Halite
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,## Igneous rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(948,378)}Volcanic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1106,398)}Plutonic rock
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(948,378)}Volcanic
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1106,398)}Plutonic
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,### Volcanic rock
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(898,536)}Basalt
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(950,502)}Andesite
@@ -94,13 +94,13 @@ Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1066,522)}Gabbro
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1110,522)}Diorite
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1162,510)}Granite
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,## Metamorphic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1240,396)}Contact metamorphic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1348,390)}Regional metamorphic rock
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1240,396)}Contact metamorphic
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1348,390)}Regional metamorphic
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,### Contact metamorphic rock
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1220,538)}Hornfels
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1268,506)}Marble
 Comment: 0,0:00:13.24,0:00:50.82,Sign,sign,0,0,0,,### Regional metamorphic rock
-Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1324,540)}Crystalline Schist
+Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1324,540)}Schist
 Dialogue: 0,0:00:13.24,0:00:50.82,Sign,,0,0,0,,{\pos(1372,498)}Gneiss
 Comment: 0,0:00:44.06,0:00:48.56,Sign,sign,0,0,0,,# Credits 1
 Dialogue: 0,0:00:44.06,0:00:48.56,Credits Name,,0,0,0,,{\fad (980,0)\pos(610,559)}Cast
