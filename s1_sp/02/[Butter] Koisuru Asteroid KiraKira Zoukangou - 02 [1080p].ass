@@ -121,7 +121,7 @@ Dialogue: 0,0:00:44.06,0:00:48.56,Credits Name,,0,0,0,,{\fad (980,0)\pos(1516,78
 Dialogue: 0,0:00:44.06,0:00:48.56,Credits Position,,0,0,0,,{\fad((980,0))\pos(1228,918)}Resources Provision
 Dialogue: 0,0:00:44.06,0:00:48.56,Credits Name,,0,0,0,,{\fad((980,0))\pos(1516,917)}Toshin Books
 Comment: 0,0:00:40.14,0:00:44.02,Sign,sign,0,0,0,,# Credits 2
-Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(598,796)\fs78}FIN
-Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(586,862)}Produced and written by
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(598,796)\fs78}THE END
+Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(586,862)}written and produced
 Dialogue: 0,0:00:48.56,0:00:50.82,Credits Name,,0,0,0,,{\pos(578,934)\frx0\fry0}Hoshizaki High School Earth Sciences Club
 Dialogue: 0,0:00:48.56,0:00:50.82,Credits Position,,0,0,0,,{\pos(570,1007)\fs44}© Quro-Houbunsha / Hoshizaki High School Earth Sciences Club
